@@ -1,1175 +1,1174 @@
 {
-	"JapjiSahib": [
-		{
-			"Gurmukhi": "jpu jI swihb"
+	"bani": [{
+			"type": "jpu jI swihb"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>&lt;&gt; </font> <font color='#009900'>siqnwmu </font> krqw <font color='#009900'>purKu</font>"
+			"type": "<font color='#FFA500'>&lt;&gt; </font> <font color='#009900'>siqnwmu </font> krqw <font color='#009900'>purKu</font>"
 		},
 		{
-			"Gurmukhi": "inrBau <font color='#FFA500'>inrvYru</font>"
+			"type": "inrBau <font color='#FFA500'>inrvYru</font>"
 		},
 		{
-			"Gurmukhi": "Akwl <font color='#009900'>mUriq </font> AjUnI <font color='#009900'>sYBM </font>"
+			"type": "Akwl <font color='#009900'>mUriq </font> AjUnI <font color='#009900'>sYBM </font>"
 		},
 		{
-			"Gurmukhi": "gurpRswid ]"
+			"type": "gurpRswid ]"
 		},
 		{
-			"Gurmukhi": "]jpu ]"
+			"type": "]jpu ]"
 		},
 		{
-			"Gurmukhi": "Awid <font color='#FFA500'>scu</font> jugwid scu ]"
+			"type": "Awid <font color='#FFA500'>scu</font> jugwid scu ]"
 		},
 		{
-			"Gurmukhi": "hY BI <font color='#FFA500'>scu</font> nwnk hosI BI scu ]1]"
+			"type": "hY BI <font color='#FFA500'>scu</font> nwnk hosI BI scu ]1]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>socY </font> soic n <font color='#FFA500'>hoveI </font> jy socI lK vwr ]"
+			"type": "<font color='#009900'>socY </font> soic n <font color='#FFA500'>hoveI </font> jy socI lK vwr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>cupY </font> cuip n <font color='#FFA500'>hoveI </font> jy lwie rhw ilv qwr ]"
+			"type": "<font color='#009900'>cupY </font> cuip n <font color='#FFA500'>hoveI </font> jy lwie rhw ilv qwr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>BuiKAw </font> BuK n <font color='#FFA500'>auqrI </font> jy bMnw purIAw Bwr ]"
+			"type": "<font color='#009900'>BuiKAw </font> BuK n <font color='#FFA500'>auqrI </font> jy bMnw purIAw Bwr ]"
 		},
 		{
-			"Gurmukhi": "shs isAwxpw lK <font color='#FFA500'>hoih </font> q iek n clY nwil ]"
+			"type": "shs isAwxpw lK <font color='#FFA500'>hoih </font> q iek n clY nwil ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>ikv </font> sicAwrw <font color='#FFA500'>hoeIAY </font><font color='#009900'>ikv </font> kUVY qutY pwil ]"
+			"type": "<font color='#009900'>ikv </font> sicAwrw <font color='#FFA500'>hoeIAY </font><font color='#009900'>ikv </font> kUVY qutY pwil ]"
 		},
 		{
-			"Gurmukhi": "hukim rjweI <font color='#FFA500'>clxw </font><font color='#009900'>nwnk </font> iliKAw nwil ]1]"
+			"type": "hukim rjweI <font color='#FFA500'>clxw </font><font color='#009900'>nwnk </font> iliKAw nwil ]1]"
 		},
 		{
-			"Gurmukhi": "hukmI hovin <font color='#FFA500'>Awkwr </font> hukmu n kihAw jweI ]"
+			"type": "hukmI hovin <font color='#FFA500'>Awkwr </font> hukmu n kihAw jweI ]"
 		},
 		{
-			"Gurmukhi": "hukmI hovin <font color='#FFA500'>jIA </font> hukim imlY vifAweI ]"
+			"type": "hukmI hovin <font color='#FFA500'>jIA </font> hukim imlY vifAweI ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>hukmI </font> auqmu <font color='#FFA500'>nIcu </font> hukim <font color='#009900'>iliK </font> duK suK pweIAih ]"
+			"type": "<font color='#009900'>hukmI </font> auqmu <font color='#FFA500'>nIcu </font> hukim <font color='#009900'>iliK </font> duK suK pweIAih ]"
 		},
 		{
-			"Gurmukhi": "ieknw hukmI <font color='#FFA500'>bKsIs </font> ieik hukmI sdw BvweIAih ]"
+			"type": "ieknw hukmI <font color='#FFA500'>bKsIs </font> ieik hukmI sdw BvweIAih ]"
 		},
 		{
-			"Gurmukhi": "hukmY AMdir sBu <font color='#FFA500'>ko </font> bwhir hukm n koie ]"
+			"type": "hukmY AMdir sBu <font color='#FFA500'>ko </font> bwhir hukm n koie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font> hukmY jy <font color='#FFA500'>buJY </font> q haumY khY n koie ]2]"
+			"type": "<font color='#009900'>nwnk </font> hukmY jy <font color='#FFA500'>buJY </font> q haumY khY n koie ]2]"
 		},
 		{
-			"Gurmukhi": "gwvY ko <font color='#FFA500'>qwxu </font> hovY iksY qwxu ]"
+			"type": "gwvY ko <font color='#FFA500'>qwxu </font> hovY iksY qwxu ]"
 		},
 		{
-			"Gurmukhi": "gwvY ko <font color='#FFA500'>dwiq </font> jwxY nIswxu ]"
+			"type": "gwvY ko <font color='#FFA500'>dwiq </font> jwxY nIswxu ]"
 		},
 		{
-			"Gurmukhi": "gwvY <font color='#FFA500'>ko </font> gux vifAweIAw cwr ]"
+			"type": "gwvY <font color='#FFA500'>ko </font> gux vifAweIAw cwr ]"
 		},
 		{
-			"Gurmukhi": "gwvY <font color='#FFA500'>ko </font> ividAw ivKmu vIcwru ]"
+			"type": "gwvY <font color='#FFA500'>ko </font> ividAw ivKmu vIcwru ]"
 		},
 		{
-			"Gurmukhi": "gwvY <font color='#FFA500'>ko </font> swij kry qnu Kyh ]"
+			"type": "gwvY <font color='#FFA500'>ko </font> swij kry qnu Kyh ]"
 		},
 		{
-			"Gurmukhi": "gwvY <font color='#FFA500'>ko </font> jIA lY iPir dyh ]"
+			"type": "gwvY <font color='#FFA500'>ko </font> jIA lY iPir dyh ]"
 		},
 		{
-			"Gurmukhi": "gwvY <font color='#FFA500'>ko </font> jwpY idsY dUir ]"
+			"type": "gwvY <font color='#FFA500'>ko </font> jwpY idsY dUir ]"
 		},
 		{
-			"Gurmukhi": "gwvY <font color='#FFA500'>ko </font> vyKY hwdrw hdUir ]"
+			"type": "gwvY <font color='#FFA500'>ko </font> vyKY hwdrw hdUir ]"
 		},
 		{
-			"Gurmukhi": "kQnw <font color='#FFA500'>kQI </font> n AwvY qoit ]"
+			"type": "kQnw <font color='#FFA500'>kQI </font> n AwvY qoit ]"
 		},
 		{
-			"Gurmukhi": "kiQ kiQ <font color='#FFA500'>kQI </font> kotI koit koit ]"
+			"type": "kiQ kiQ <font color='#FFA500'>kQI </font> kotI koit koit ]"
 		},
 		{
-			"Gurmukhi": "dydw <font color='#FFA500'>dy </font> lYdy Qik pwih ]"
+			"type": "dydw <font color='#FFA500'>dy </font> lYdy Qik pwih ]"
 		},
 		{
-			"Gurmukhi": "jugw <font color='#FFA500'>jugMqir </font> KwhI Kwih ]"
+			"type": "jugw <font color='#FFA500'>jugMqir </font> KwhI Kwih ]"
 		},
 		{
-			"Gurmukhi": "hukmI <font color='#FFA500'>hukmu </font> clwey rwhu ]"
+			"type": "hukmI <font color='#FFA500'>hukmu </font> clwey rwhu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font> ivgsY vyprvwhu ]3]"
+			"type": "<font color='#009900'>nwnk </font> ivgsY vyprvwhu ]3]"
 		},
 		{
-			"Gurmukhi": "swcw <font color='#009900'>swihbu </font> swcu <font color='#FFA500'>nwie </font> BwiKAw Bwau Apwru ]"
+			"type": "swcw <font color='#009900'>swihbu </font> swcu <font color='#FFA500'>nwie </font> BwiKAw Bwau Apwru ]"
 		},
 		{
-			"Gurmukhi": "AwKih <font color='#009900'>mMgih </font> dyih <font color='#FFA500'>dyih </font> dwiq kry dwqwru ]"
+			"type": "AwKih <font color='#009900'>mMgih </font> dyih <font color='#FFA500'>dyih </font> dwiq kry dwqwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>Pyir </font> ik AgY <font color='#FFA500'>rKIAY </font> ijqu idsY drbwru ]"
+			"type": "<font color='#009900'>Pyir </font> ik AgY <font color='#FFA500'>rKIAY </font> ijqu idsY drbwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>muhO </font> ik bolxu <font color='#FFA500'>bolIAY </font> ijqu suix Dry ipAwru ]"
+			"type": "<font color='#009900'>muhO </font> ik bolxu <font color='#FFA500'>bolIAY </font> ijqu suix Dry ipAwru ]"
 		},
 		{
-			"Gurmukhi": "AMimRq vylw scu <font color='#FFA500'>nwau </font> vifAweI vIcwru ]"
+			"type": "AMimRq vylw scu <font color='#FFA500'>nwau </font> vifAweI vIcwru ]"
 		},
 		{
-			"Gurmukhi": "krmI AwvY <font color='#FFA500'>kpVw </font> ndrI moKu duAwru ]"
+			"type": "krmI AwvY <font color='#FFA500'>kpVw </font> ndrI moKu duAwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font> eyvY <font color='#FFA500'>jwxIAY </font> sBu Awpy sicAwru ]4]"
+			"type": "<font color='#009900'>nwnk </font> eyvY <font color='#FFA500'>jwxIAY </font> sBu Awpy sicAwru ]4]"
 		},
 		{
-			"Gurmukhi": "QwipAw n <font color='#FFA500'>jwie </font> kIqw n hoie ]"
+			"type": "QwipAw n <font color='#FFA500'>jwie </font> kIqw n hoie ]"
 		},
 		{
-			"Gurmukhi": "Awpy <font color='#FFA500'>Awip </font> inrMjnu soie ]"
+			"type": "Awpy <font color='#FFA500'>Awip </font> inrMjnu soie ]"
 		},
 		{
-			"Gurmukhi": "ijin <font color='#FFA500'>syivAw </font> iqin pwieAw mwnu ]"
+			"type": "ijin <font color='#FFA500'>syivAw </font> iqin pwieAw mwnu ]"
 		},
 		{
-			"Gurmukhi": "nwnk <font color='#FFA500'>gwvIAY </font> guxI inDwnu ]"
+			"type": "nwnk <font color='#FFA500'>gwvIAY </font> guxI inDwnu ]"
 		},
 		{
-			"Gurmukhi": "gwvIAY <font color='#FFA500'>suxIAY </font> min rKIAY Bwau ]"
+			"type": "gwvIAY <font color='#FFA500'>suxIAY </font> min rKIAY Bwau ]"
 		},
 		{
-			"Gurmukhi": "duKu <font color='#FFA500'>prhir </font> suKu Gir lY jwie ]"
+			"type": "duKu <font color='#FFA500'>prhir </font> suKu Gir lY jwie ]"
 		},
 		{
-			"Gurmukhi": "gurmuiK <font color='#009900'>nwdM </font> gurmuiK <font color='#FFA500'>vydM </font> gurmuiK rihAw smweI ]"
+			"type": "gurmuiK <font color='#009900'>nwdM </font> gurmuiK <font color='#FFA500'>vydM </font> gurmuiK rihAw smweI ]"
 		},
 		{
-			"Gurmukhi": "guru <font color='#009900'>eIsru </font> guru <font color='#009900'>gorKu </font> brmw <font color='#FFA500'>guru </font> pwrbqI mweI ]"
+			"type": "guru <font color='#009900'>eIsru </font> guru <font color='#009900'>gorKu </font> brmw <font color='#FFA500'>guru </font> pwrbqI mweI ]"
 		},
 		{
-			"Gurmukhi": "jy hau <font color='#009900'>jwxw </font> AwKw <font color='#FFA500'>nwhI </font> khxw kQnu n jweI ]"
+			"type": "jy hau <font color='#009900'>jwxw </font> AwKw <font color='#FFA500'>nwhI </font> khxw kQnu n jweI ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>gurw </font> iek dyih buJweI ]"
+			"type": "<font color='#FFA500'>gurw </font> iek dyih buJweI ]"
 		},
 		{
-			"Gurmukhi": "sBnw jIAw kw ieku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jweI ]5]"
+			"type": "sBnw jIAw kw ieku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jweI ]5]"
 		},
 		{
-			"Gurmukhi": "qIriQ <font color='#009900'>nwvw </font> jy iqsu <font color='#FFA500'>Bwvw </font> ivxu <font color='#009900'>Bwxy </font> ik nwie krI ]"
+			"type": "qIriQ <font color='#009900'>nwvw </font> jy iqsu <font color='#FFA500'>Bwvw </font> ivxu <font color='#009900'>Bwxy </font> ik nwie krI ]"
 		},
 		{
-			"Gurmukhi": "jyqI isriT aupweI <font color='#FFA500'>vyKw </font> ivxu <font color='#009900'>krmw </font> ik imlY leI ]"
+			"type": "jyqI isriT aupweI <font color='#FFA500'>vyKw </font> ivxu <font color='#009900'>krmw </font> ik imlY leI ]"
 		},
 		{
-			"Gurmukhi": "miq ivic rqn jvwhr <font color='#FFA500'>mwixk </font> jy <font color='#009900'>iek </font> gur kI isK suxI ]"
+			"type": "miq ivic rqn jvwhr <font color='#FFA500'>mwixk </font> jy <font color='#009900'>iek </font> gur kI isK suxI ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>gurw </font> iek dyih buJweI ]"
+			"type": "<font color='#FFA500'>gurw </font> iek dyih buJweI ]"
 		},
 		{
-			"Gurmukhi": "sBnw jIAw kw ieku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jweI ]6]"
+			"type": "sBnw jIAw kw ieku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jweI ]6]"
 		},
 		{
-			"Gurmukhi": "jy jug cwry <font color='#FFA500'>Awrjw </font> hor dsUxI hoie ]"
+			"type": "jy jug cwry <font color='#FFA500'>Awrjw </font> hor dsUxI hoie ]"
 		},
 		{
-			"Gurmukhi": "nvw KMfw ivic <font color='#FFA500'>jwxIAY </font> nwil clY sBu koie ]"
+			"type": "nvw KMfw ivic <font color='#FFA500'>jwxIAY </font> nwil clY sBu koie ]"
 		},
 		{
-			"Gurmukhi": "cMgw nwau rKwie <font color='#FFA500'>kY </font> jsu kIriq jig lyie ]"
+			"type": "cMgw nwau rKwie <font color='#FFA500'>kY </font> jsu kIriq jig lyie ]"
 		},
 		{
-			"Gurmukhi": "jy iqsu ndir n <font color='#FFA500'>AwveI </font> q vwq n puCY ky ]"
+			"type": "jy iqsu ndir n <font color='#FFA500'>AwveI </font> q vwq n puCY ky ]"
 		},
 		{
-			"Gurmukhi": "kItw AMdir kItu <font color='#FFA500'>kir </font> dosI dosu Dry ]"
+			"type": "kItw AMdir kItu <font color='#FFA500'>kir </font> dosI dosu Dry ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font> inrguix guxu <font color='#FFA500'>kry </font> guxvMiqAw guxu dy ]"
+			"type": "<font color='#009900'>nwnk </font> inrguix guxu <font color='#FFA500'>kry </font> guxvMiqAw guxu dy ]"
 		},
 		{
-			"Gurmukhi": "qyhw koie n <font color='#FFA500'>suJeI </font> ij iqsu guxu koie kry ]7]"
+			"type": "qyhw koie n <font color='#FFA500'>suJeI </font> ij iqsu guxu koie kry ]7]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> isD pIr suir nwQ ]"
+			"type": "<font color='#FFA500'>suixAY </font> isD pIr suir nwQ ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> Driq Dvl Awkws ]"
+			"type": "<font color='#FFA500'>suixAY </font> Driq Dvl Awkws ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> dIp loA pwqwl ]"
+			"type": "<font color='#FFA500'>suixAY </font> dIp loA pwqwl ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> poih n skY kwlu ]"
+			"type": "<font color='#FFA500'>suixAY </font> poih n skY kwlu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+			"type": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]8]"
+			"type": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]8]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> eIsru brmw ieMdu ]"
+			"type": "<font color='#FFA500'>suixAY </font> eIsru brmw ieMdu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> muiK swlwhx mMdu ]"
+			"type": "<font color='#FFA500'>suixAY </font> muiK swlwhx mMdu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> jog jugiq qin Byd ]"
+			"type": "<font color='#FFA500'>suixAY </font> jog jugiq qin Byd ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> swsq isimRiq vyd ]"
+			"type": "<font color='#FFA500'>suixAY </font> swsq isimRiq vyd ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+			"type": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]9]"
+			"type": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]9]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> squ sMqoKu igAwnu ]"
+			"type": "<font color='#FFA500'>suixAY </font> squ sMqoKu igAwnu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> ATsiT kw iesnwnu ]"
+			"type": "<font color='#FFA500'>suixAY </font> ATsiT kw iesnwnu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> piV piV pwvih mwnu ]"
+			"type": "<font color='#FFA500'>suixAY </font> piV piV pwvih mwnu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> lwgY shij iDAwnu ]"
+			"type": "<font color='#FFA500'>suixAY </font> lwgY shij iDAwnu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+			"type": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]10]"
+			"type": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]10]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> srw guxw ky gwh ]"
+			"type": "<font color='#FFA500'>suixAY </font> srw guxw ky gwh ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> syK pIr pwiqswh ]"
+			"type": "<font color='#FFA500'>suixAY </font> syK pIr pwiqswh ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> AMDy pwvih rwhu ]"
+			"type": "<font color='#FFA500'>suixAY </font> AMDy pwvih rwhu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> hwQ hovY Asgwhu ]"
+			"type": "<font color='#FFA500'>suixAY </font> hwQ hovY Asgwhu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+			"type": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]11]"
+			"type": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]11]"
 		},
 		{
-			"Gurmukhi": "mMny kI <font color='#FFA500'>giq </font> khI n jwie ]"
+			"type": "mMny kI <font color='#FFA500'>giq </font> khI n jwie ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwie ]"
+			"type": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwie ]"
 		},
 		{
-			"Gurmukhi": "kwgid <font color='#FFA500'>klm </font> n ilKxhwru ]"
+			"type": "kwgid <font color='#FFA500'>klm </font> n ilKxhwru ]"
 		},
 		{
-			"Gurmukhi": "mMny <font color='#FFA500'>kw </font> bih krin vIcwru ]"
+			"type": "mMny <font color='#FFA500'>kw </font> bih krin vIcwru ]"
 		},
 		{
-			"Gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+			"type": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
 		},
 		{
-			"Gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]12]"
+			"type": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]12]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> suriq hovY min buiD ]"
+			"type": "<font color='#FFA500'>mMnY </font> suriq hovY min buiD ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> sgl Bvx kI suiD ]"
+			"type": "<font color='#FFA500'>mMnY </font> sgl Bvx kI suiD ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> muih cotw nw Kwie ]"
+			"type": "<font color='#FFA500'>mMnY </font> muih cotw nw Kwie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> jm kY swiQ n jwie ]"
+			"type": "<font color='#FFA500'>mMnY </font> jm kY swiQ n jwie ]"
 		},
 		{
-			"Gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+			"type": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
 		},
 		{
-			"Gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]13]"
+			"type": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]13]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> mwrig Twk n pwie ]"
+			"type": "<font color='#FFA500'>mMnY </font> mwrig Twk n pwie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> piq isau prgtu jwie ]"
+			"type": "<font color='#FFA500'>mMnY </font> piq isau prgtu jwie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> mgu n clY pMQu ]"
+			"type": "<font color='#FFA500'>mMnY </font> mgu n clY pMQu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> Drm syqI snbMDu ]"
+			"type": "<font color='#FFA500'>mMnY </font> Drm syqI snbMDu ]"
 		},
 		{
-			"Gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+			"type": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
 		},
 		{
-			"Gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]14]"
+			"type": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]14]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> pwvih moKu duAwru ]"
+			"type": "<font color='#FFA500'>mMnY </font> pwvih moKu duAwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> prvwrY swDwru ]"
+			"type": "<font color='#FFA500'>mMnY </font> prvwrY swDwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font> qrY qwry guruisK ]"
+			"type": "<font color='#FFA500'>mMnY </font> qrY qwry guruisK ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>mMnY </font><font color='#009900'>nwnk </font> Bvih n iBK ]"
+			"type": "<font color='#FFA500'>mMnY </font><font color='#009900'>nwnk </font> Bvih n iBK ]"
 		},
 		{
-			"Gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+			"type": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
 		},
 		{
-			"Gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]15]"
+			"type": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]15]"
 		},
 		{
-			"Gurmukhi": "pMc <font color='#FFA500'>prvwx </font> pMc prDwnu ]"
+			"type": "pMc <font color='#FFA500'>prvwx </font> pMc prDwnu ]"
 		},
 		{
-			"Gurmukhi": "pMcy <font color='#FFA500'>pwvih </font> drgih mwnu ]"
+			"type": "pMcy <font color='#FFA500'>pwvih </font> drgih mwnu ]"
 		},
 		{
-			"Gurmukhi": "pMcy <font color='#FFA500'>sohih </font> dir rwjwnu ]"
+			"type": "pMcy <font color='#FFA500'>sohih </font> dir rwjwnu ]"
 		},
 		{
-			"Gurmukhi": "pMcw <font color='#FFA500'>kw </font> guru eyku iDAwnu ]"
+			"type": "pMcw <font color='#FFA500'>kw </font> guru eyku iDAwnu ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>khY </font> krY vIcwru ]"
+			"type": "jy ko <font color='#FFA500'>khY </font> krY vIcwru ]"
 		},
 		{
-			"Gurmukhi": "krqy kY <font color='#FFA500'>krxY </font> nwhI sumwru ]"
+			"type": "krqy kY <font color='#FFA500'>krxY </font> nwhI sumwru ]"
 		},
 		{
-			"Gurmukhi": "DOlu <font color='#FFA500'>Drmu </font> dieAw kw pUqu ]"
+			"type": "DOlu <font color='#FFA500'>Drmu </font> dieAw kw pUqu ]"
 		},
 		{
-			"Gurmukhi": "sMqoKu Qwip <font color='#FFA500'>riKAw </font> ijin sUiq ]"
+			"type": "sMqoKu Qwip <font color='#FFA500'>riKAw </font> ijin sUiq ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>buJY </font> hovY sicAwru ]"
+			"type": "jy ko <font color='#FFA500'>buJY </font> hovY sicAwru ]"
 		},
 		{
-			"Gurmukhi": "DvlY <font color='#FFA500'>aupir </font> kyqw Bwru ]"
+			"type": "DvlY <font color='#FFA500'>aupir </font> kyqw Bwru ]"
 		},
 		{
-			"Gurmukhi": "DrqI horu <font color='#FFA500'>prY </font> horu horu ]"
+			"type": "DrqI horu <font color='#FFA500'>prY </font> horu horu ]"
 		},
 		{
-			"Gurmukhi": "iqs qy Bwru <font color='#FFA500'>qlY </font> kvxu joru ]"
+			"type": "iqs qy Bwru <font color='#FFA500'>qlY </font> kvxu joru ]"
 		},
 		{
-			"Gurmukhi": "jIA <font color='#FFA500'>jwiq </font> rMgw ky nwv ]"
+			"type": "jIA <font color='#FFA500'>jwiq </font> rMgw ky nwv ]"
 		},
 		{
-			"Gurmukhi": "sBnw <font color='#FFA500'>iliKAw </font> vuVI klwm ]"
+			"type": "sBnw <font color='#FFA500'>iliKAw </font> vuVI klwm ]"
 		},
 		{
-			"Gurmukhi": "eyhu <font color='#FFA500'>lyKw </font> iliK jwxY koie ]"
+			"type": "eyhu <font color='#FFA500'>lyKw </font> iliK jwxY koie ]"
 		},
 		{
-			"Gurmukhi": "lyKw <font color='#FFA500'>iliKAw </font> kyqw hoie ]"
+			"type": "lyKw <font color='#FFA500'>iliKAw </font> kyqw hoie ]"
 		},
 		{
-			"Gurmukhi": "kyqw <font color='#FFA500'>qwxu </font> suAwilhu rUpu ]"
+			"type": "kyqw <font color='#FFA500'>qwxu </font> suAwilhu rUpu ]"
 		},
 		{
-			"Gurmukhi": "kyqI <font color='#FFA500'>dwiq </font> jwxY kOxu kUqu ]"
+			"type": "kyqI <font color='#FFA500'>dwiq </font> jwxY kOxu kUqu ]"
 		},
 		{
-			"Gurmukhi": "kIqw <font color='#FFA500'>pswau </font> eyko kvwau ]"
+			"type": "kIqw <font color='#FFA500'>pswau </font> eyko kvwau ]"
 		},
 		{
-			"Gurmukhi": "iqs qy <font color='#FFA500'>hoey </font> lK drIAwau ]"
+			"type": "iqs qy <font color='#FFA500'>hoey </font> lK drIAwau ]"
 		},
 		{
-			"Gurmukhi": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
+			"type": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
 		},
 		{
-			"Gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+			"type": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
 		},
 		{
-			"Gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+			"type": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
 		},
 		{
-			"Gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]16]"
+			"type": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]16]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>jp </font> AsMK Bwau ]"
+			"type": "AsMK <font color='#FFA500'>jp </font> AsMK Bwau ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>pUjw </font> AsMK qp qwau ]"
+			"type": "AsMK <font color='#FFA500'>pUjw </font> AsMK qp qwau ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>grMQ </font> muiK vyd pwT ]"
+			"type": "AsMK <font color='#FFA500'>grMQ </font> muiK vyd pwT ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>jog </font> min rhih audws ]"
+			"type": "AsMK <font color='#FFA500'>jog </font> min rhih audws ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>Bgq </font> gux igAwn vIcwr ]"
+			"type": "AsMK <font color='#FFA500'>Bgq </font> gux igAwn vIcwr ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>sqI </font> AsMK dwqwr ]"
+			"type": "AsMK <font color='#FFA500'>sqI </font> AsMK dwqwr ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>sUr </font> muh BK swr ]"
+			"type": "AsMK <font color='#FFA500'>sUr </font> muh BK swr ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>moin </font> ilv lwie qwr ]"
+			"type": "AsMK <font color='#FFA500'>moin </font> ilv lwie qwr ]"
 		},
 		{
-			"Gurmukhi": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
+			"type": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
 		},
 		{
-			"Gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+			"type": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
 		},
 		{
-			"Gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+			"type": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
 		},
 		{
-			"Gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]17]"
+			"type": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]17]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>mUrK </font> AMD Gor ]"
+			"type": "AsMK <font color='#FFA500'>mUrK </font> AMD Gor ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>cor </font> hrwmKor ]"
+			"type": "AsMK <font color='#FFA500'>cor </font> hrwmKor ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>Amr </font> kir jwih jor ]"
+			"type": "AsMK <font color='#FFA500'>Amr </font> kir jwih jor ]"
 		},
 		{
-			"Gurmukhi": "AsMK gl <font color='#FFA500'> vF </font> hiqAw kmwih ]"
+			"type": "AsMK gl <font color='#FFA500'> vF </font> hiqAw kmwih ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>pwpI </font> pwpu kir jwih ]"
+			"type": "AsMK <font color='#FFA500'>pwpI </font> pwpu kir jwih ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>kUiVAwr </font> kUVy iPrwih ]"
+			"type": "AsMK <font color='#FFA500'>kUiVAwr </font> kUVy iPrwih ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>mlyC </font> mlu BiK Kwih ]"
+			"type": "AsMK <font color='#FFA500'>mlyC </font> mlu BiK Kwih ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>inMdk </font> isir krih Bwru ]"
+			"type": "AsMK <font color='#FFA500'>inMdk </font> isir krih Bwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnku </font> nIcu khY vIcwru ]"
+			"type": "<font color='#FFA500'>nwnku </font> nIcu khY vIcwru ]"
 		},
 		{
-			"Gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+			"type": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
 		},
 		{
-			"Gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+			"type": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
 		},
 		{
-			"Gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]18]"
+			"type": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]18]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>nwv </font> AsMK Qwv ]"
+			"type": "AsMK <font color='#FFA500'>nwv </font> AsMK Qwv ]"
 		},
 		{
-			"Gurmukhi": "AgMm <font color='#FFA500'>AgMm </font> AsMK loA ]"
+			"type": "AgMm <font color='#FFA500'>AgMm </font> AsMK loA ]"
 		},
 		{
-			"Gurmukhi": "AsMK <font color='#FFA500'>khih </font> isir Bwru hoie ]"
+			"type": "AsMK <font color='#FFA500'>khih </font> isir Bwru hoie ]"
 		},
 		{
-			"Gurmukhi": "AKrI <font color='#FFA500'>nwmu </font> AKrI swlwh ]"
+			"type": "AKrI <font color='#FFA500'>nwmu </font> AKrI swlwh ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>AKrI </font> igAwnu gIq gux gwh ]"
+			"type": "<font color='#FFA500'>AKrI </font> igAwnu gIq gux gwh ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>AKrI </font> ilKxu bolxu bwix ]"
+			"type": "<font color='#FFA500'>AKrI </font> ilKxu bolxu bwix ]"
 		},
 		{
-			"Gurmukhi": "AKrw <font color='#FFA500'>isir </font> sMjogu vKwix ]"
+			"type": "AKrw <font color='#FFA500'>isir </font> sMjogu vKwix ]"
 		},
 		{
-			"Gurmukhi": "ijin eyih <font color='#FFA500'>ilKy </font> iqsu isir nwih ]"
+			"type": "ijin eyih <font color='#FFA500'>ilKy </font> iqsu isir nwih ]"
 		},
 		{
-			"Gurmukhi": "ijv <font color='#FFA500'>Purmwey </font> iqv iqv pwih ]"
+			"type": "ijv <font color='#FFA500'>Purmwey </font> iqv iqv pwih ]"
 		},
 		{
-			"Gurmukhi": "jyqw <font color='#FFA500'>kIqw </font> qyqw nwau ]"
+			"type": "jyqw <font color='#FFA500'>kIqw </font> qyqw nwau ]"
 		},
 		{
-			"Gurmukhi": "ivxu <font color='#FFA500'>nwvY </font> nwhI ko Qwau ]"
+			"type": "ivxu <font color='#FFA500'>nwvY </font> nwhI ko Qwau ]"
 		},
 		{
-			"Gurmukhi": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
+			"type": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
 		},
 		{
-			"Gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+			"type": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
 		},
 		{
-			"Gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+			"type": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
 		},
 		{
-			"Gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]19]"
+			"type": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]19]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>BrIAY </font> hQu pYru qnu dyh ]"
+			"type": "<font color='#FFA500'>BrIAY </font> hQu pYru qnu dyh ]"
 		},
 		{
-			"Gurmukhi": "pwxI <font color='#FFA500'>DoqY </font> auqr su Kyh ]"
+			"type": "pwxI <font color='#FFA500'>DoqY </font> auqr su Kyh ]"
 		},
 		{
-			"Gurmukhi": "mUq <font color='#FFA500'>plIqI </font> kpVu hoie ]"
+			"type": "mUq <font color='#FFA500'>plIqI </font> kpVu hoie ]"
 		},
 		{
-			"Gurmukhi": "dy <font color='#FFA500'>swbUxu </font> leIAY Ehu Doie ]"
+			"type": "dy <font color='#FFA500'>swbUxu </font> leIAY Ehu Doie ]"
 		},
 		{
-			"Gurmukhi": "BrIAY <font color='#FFA500'>miq </font> pwpw kY sMig ]"
+			"type": "BrIAY <font color='#FFA500'>miq </font> pwpw kY sMig ]"
 		},
 		{
-			"Gurmukhi": "Ehu <font color='#FFA500'>DopY </font> nwvY kY rMig ]"
+			"type": "Ehu <font color='#FFA500'>DopY </font> nwvY kY rMig ]"
 		},
 		{
-			"Gurmukhi": "puMnI <font color='#FFA500'>pwpI </font> AwKxu nwih ]"
+			"type": "puMnI <font color='#FFA500'>pwpI </font> AwKxu nwih ]"
 		},
 		{
-			"Gurmukhi": "kir kir <font color='#FFA500'>krxw </font> iliK lY jwhu ]"
+			"type": "kir kir <font color='#FFA500'>krxw </font> iliK lY jwhu ]"
 		},
 		{
-			"Gurmukhi": "Awpy <font color='#FFA500'>bIij </font> Awpy hI Kwhu ]"
+			"type": "Awpy <font color='#FFA500'>bIij </font> Awpy hI Kwhu ]"
 		},
 		{
-			"Gurmukhi": "nwnk <font color='#FFA500'>hukmI </font> Awvhu jwhu ]20]"
+			"type": "nwnk <font color='#FFA500'>hukmI </font> Awvhu jwhu ]20]"
 		},
 		{
-			"Gurmukhi": "qIrQu <font color='#FFA500'>qpu </font> dieAw dqu dwnu ]"
+			"type": "qIrQu <font color='#FFA500'>qpu </font> dieAw dqu dwnu ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>pwvY </font> iql kw mwnu ]"
+			"type": "jy ko <font color='#FFA500'>pwvY </font> iql kw mwnu ]"
 		},
 		{
-			"Gurmukhi": "suixAw <font color='#FFA500'>mMinAw </font> min kIqw Bwau ]"
+			"type": "suixAw <font color='#FFA500'>mMinAw </font> min kIqw Bwau ]"
 		},
 		{
-			"Gurmukhi": "AMqrgiq <font color='#FFA500'>qIriQ </font> mil nwau ]"
+			"type": "AMqrgiq <font color='#FFA500'>qIriQ </font> mil nwau ]"
 		},
 		{
-			"Gurmukhi": "siB gux <font color='#FFA500'>qyry </font> mY nwhI koie ]"
+			"type": "siB gux <font color='#FFA500'>qyry </font> mY nwhI koie ]"
 		},
 		{
-			"Gurmukhi": "ivxu gux <font color='#FFA500'>kIqy </font> Bgiq n hoie ]"
+			"type": "ivxu gux <font color='#FFA500'>kIqy </font> Bgiq n hoie ]"
 		},
 		{
-			"Gurmukhi": "suAsiq <font color='#FFA500'>AwiQ </font> bwxI brmwau ]"
+			"type": "suAsiq <font color='#FFA500'>AwiQ </font> bwxI brmwau ]"
 		},
 		{
-			"Gurmukhi": "siq <font color='#FFA500'>suhwxu </font> sdw min cwau ]"
+			"type": "siq <font color='#FFA500'>suhwxu </font> sdw min cwau ]"
 		},
 		{
-			"Gurmukhi": "kvxu su <font color='#009900'>vylw </font> vKqu <font color='#FFA500'>kvxu </font> kvx <font color='#009900'>iQiq </font> kvxu vwru ]"
+			"type": "kvxu su <font color='#009900'>vylw </font> vKqu <font color='#FFA500'>kvxu </font> kvx <font color='#009900'>iQiq </font> kvxu vwru ]"
 		},
 		{
-			"Gurmukhi": "kvix is <font color='#FFA500'>ruqI </font> mwhu <font color='#009900'>kvxu </font> ijqu hoAw Awkwru ]"
+			"type": "kvix is <font color='#FFA500'>ruqI </font> mwhu <font color='#009900'>kvxu </font> ijqu hoAw Awkwru ]"
 		},
 		{
-			"Gurmukhi": "vyl n pweIAw <font color='#FFA500'>pMfqI </font> ij hovY lyKu purwxu ]"
+			"type": "vyl n pweIAw <font color='#FFA500'>pMfqI </font> ij hovY lyKu purwxu ]"
 		},
 		{
-			"Gurmukhi": "vKqu n pwieE <font color='#FFA500'>kwdIAw </font> ij ilKin lyKu kurwxu ]"
+			"type": "vKqu n pwieE <font color='#FFA500'>kwdIAw </font> ij ilKin lyKu kurwxu ]"
 		},
 		{
-			"Gurmukhi": "iQiq vwru nw jogI <font color='#FFA500'>jwxY </font> ruiq mwhu nw koeI ]"
+			"type": "iQiq vwru nw jogI <font color='#FFA500'>jwxY </font> ruiq mwhu nw koeI ]"
 		},
 		{
-			"Gurmukhi": "jw krqw isrTI kau <font color='#FFA500'>swjy </font> Awpy jwxY soeI ]"
+			"type": "jw krqw isrTI kau <font color='#FFA500'>swjy </font> Awpy jwxY soeI ]"
 		},
 		{
-			"Gurmukhi": "ikv kir <font color='#009900'>AwKw </font> ikv <font color='#FFA500'>swlwhI </font> ikau <font color='#009900'>vrnI </font> ikv jwxw ]"
+			"type": "ikv kir <font color='#009900'>AwKw </font> ikv <font color='#FFA500'>swlwhI </font> ikau <font color='#009900'>vrnI </font> ikv jwxw ]"
 		},
 		{
-			"Gurmukhi": "nwnk <font color='#009900'>AwKix </font> sBu ko <font color='#FFA500'>AwKY </font> iekdU <font color='#009900'>ieku </font> isAwxw ]"
+			"type": "nwnk <font color='#009900'>AwKix </font> sBu ko <font color='#FFA500'>AwKY </font> iekdU <font color='#009900'>ieku </font> isAwxw ]"
 		},
 		{
-			"Gurmukhi": "vfw <font color='#009900'>swihbu </font> vfI <font color='#FFA500'>nweI </font> kIqw jw kw hovY ]"
+			"type": "vfw <font color='#009900'>swihbu </font> vfI <font color='#FFA500'>nweI </font> kIqw jw kw hovY ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font> jy ko AwpO <font color='#FFA500'>jwxY </font> AgY gieAw n sohY ]21]"
+			"type": "<font color='#009900'>nwnk </font> jy ko AwpO <font color='#FFA500'>jwxY </font> AgY gieAw n sohY ]21]"
 		},
 		{
-			"Gurmukhi": "pwqwlw pwqwl <font color='#FFA500'>lK </font> Awgwsw Awgws ]"
+			"type": "pwqwlw pwqwl <font color='#FFA500'>lK </font> Awgwsw Awgws ]"
 		},
 		{
-			"Gurmukhi": "EVk EVk Bwil <font color='#FFA500'>Qky </font> vyd khin iek vwq ]"
+			"type": "EVk EVk Bwil <font color='#FFA500'>Qky </font> vyd khin iek vwq ]"
 		},
 		{
-			"Gurmukhi": "shs ATwrh khin <font color='#FFA500'>kqybw </font> AsulU <font color='#009900'>ieku </font> Dwqu ]"
+			"type": "shs ATwrh khin <font color='#FFA500'>kqybw </font> AsulU <font color='#009900'>ieku </font> Dwqu ]"
 		},
 		{
-			"Gurmukhi": "lyKw hoie q <font color='#FFA500'>ilKIAY </font> lyKY hoie ivxwsu ]"
+			"type": "lyKw hoie q <font color='#FFA500'>ilKIAY </font> lyKY hoie ivxwsu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font> vfw <font color='#FFA500'>AwKIAY </font> Awpy jwxY Awpu ]22]"
+			"type": "<font color='#009900'>nwnk </font> vfw <font color='#FFA500'>AwKIAY </font> Awpy jwxY Awpu ]22]"
 		},
 		{
-			"Gurmukhi": "swlwhI <font color='#FFA500'>swlwih </font> eyqI suriq n pweIAw ]"
+			"type": "swlwhI <font color='#FFA500'>swlwih </font> eyqI suriq n pweIAw ]"
 		},
 		{
-			"Gurmukhi": "ndIAw AqY <font color='#FFA500'>vwh </font> pvih <font color='#009900'>smuMid </font> n jwxIAih ]"
+			"type": "ndIAw AqY <font color='#FFA500'>vwh </font> pvih <font color='#009900'>smuMid </font> n jwxIAih ]"
 		},
 		{
-			"Gurmukhi": "smuMd swh <font color='#FFA500'>sulqwn </font> igrhw syqI mwlu Dnu ]"
+			"type": "smuMd swh <font color='#FFA500'>sulqwn </font> igrhw syqI mwlu Dnu ]"
 		},
 		{
-			"Gurmukhi": "kIVI quil n <font color='#FFA500'>hovnI </font> jy iqsu mnhu n vIsrih ]23]"
+			"type": "kIVI quil n <font color='#FFA500'>hovnI </font> jy iqsu mnhu n vIsrih ]23]"
 		},
 		{
-			"Gurmukhi": "AMqu n <font color='#FFA500'>isPqI </font> khix n AMqu ]"
+			"type": "AMqu n <font color='#FFA500'>isPqI </font> khix n AMqu ]"
 		},
 		{
-			"Gurmukhi": "AMqu n <font color='#FFA500'>krxY </font> dyix n AMqu ]"
+			"type": "AMqu n <font color='#FFA500'>krxY </font> dyix n AMqu ]"
 		},
 		{
-			"Gurmukhi": "AMqu n <font color='#FFA500'>vyKix </font> suxix n AMqu ]"
+			"type": "AMqu n <font color='#FFA500'>vyKix </font> suxix n AMqu ]"
 		},
 		{
-			"Gurmukhi": "AMqu n <font color='#FFA500'>jwpY </font> ikAw min mMqu ]"
+			"type": "AMqu n <font color='#FFA500'>jwpY </font> ikAw min mMqu ]"
 		},
 		{
-			"Gurmukhi": "AMqu n <font color='#FFA500'>jwpY </font> kIqw Awkwru ]"
+			"type": "AMqu n <font color='#FFA500'>jwpY </font> kIqw Awkwru ]"
 		},
 		{
-			"Gurmukhi": "AMqu n <font color='#FFA500'>jwpY </font> pwrwvwru ]"
+			"type": "AMqu n <font color='#FFA500'>jwpY </font> pwrwvwru ]"
 		},
 		{
-			"Gurmukhi": "AMq <font color='#FFA500'>kwrix </font> kyqy ibllwih ]"
+			"type": "AMq <font color='#FFA500'>kwrix </font> kyqy ibllwih ]"
 		},
 		{
-			"Gurmukhi": "qw ky <font color='#FFA500'>AMq </font> n pwey jwih ]"
+			"type": "qw ky <font color='#FFA500'>AMq </font> n pwey jwih ]"
 		},
 		{
-			"Gurmukhi": "eyhu <font color='#FFA500'>AMqu </font> n jwxY koie ]"
+			"type": "eyhu <font color='#FFA500'>AMqu </font> n jwxY koie ]"
 		},
 		{
-			"Gurmukhi": "bhuqw <font color='#FFA500'>khIAY </font> bhuqw hoie ]"
+			"type": "bhuqw <font color='#FFA500'>khIAY </font> bhuqw hoie ]"
 		},
 		{
-			"Gurmukhi": "vfw <font color='#FFA500'>swihbu </font> aUcw Qwau ]"
+			"type": "vfw <font color='#FFA500'>swihbu </font> aUcw Qwau ]"
 		},
 		{
-			"Gurmukhi": "aUcy <font color='#FFA500'>aupir </font> aUcw nwau ]"
+			"type": "aUcy <font color='#FFA500'>aupir </font> aUcw nwau ]"
 		},
 		{
-			"Gurmukhi": "eyvfu <font color='#FFA500'>aUcw </font> hovY koie ]"
+			"type": "eyvfu <font color='#FFA500'>aUcw </font> hovY koie ]"
 		},
 		{
-			"Gurmukhi": "iqsu aUcy <font color='#FFA500'>kau </font> jwxY soie ]"
+			"type": "iqsu aUcy <font color='#FFA500'>kau </font> jwxY soie ]"
 		},
 		{
-			"Gurmukhi": "jyvfu <font color='#FFA500'>Awip </font> jwxY Awip Awip ]"
+			"type": "jyvfu <font color='#FFA500'>Awip </font> jwxY Awip Awip ]"
 		},
 		{
-			"Gurmukhi": "nwnk <font color='#FFA500'>ndrI </font> krmI dwiq ]24]"
+			"type": "nwnk <font color='#FFA500'>ndrI </font> krmI dwiq ]24]"
 		},
 		{
-			"Gurmukhi": "bhuqw <font color='#FFA500'>krmu </font> iliKAw nw jwie ]"
+			"type": "bhuqw <font color='#FFA500'>krmu </font> iliKAw nw jwie ]"
 		},
 		{
-			"Gurmukhi": "vfw <font color='#FFA500'>dwqw </font> iqlu n qmwie ]"
+			"type": "vfw <font color='#FFA500'>dwqw </font> iqlu n qmwie ]"
 		},
 		{
-			"Gurmukhi": "kyqy <font color='#FFA500'>mMgih </font> joD Apwr ]"
+			"type": "kyqy <font color='#FFA500'>mMgih </font> joD Apwr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>kyiqAw </font> gxq nhI vIcwru ]"
+			"type": "<font color='#FFA500'>kyiqAw </font> gxq nhI vIcwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>kyqy </font> Kip qutih vykwr ]"
+			"type": "<font color='#FFA500'>kyqy </font> Kip qutih vykwr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>kyqy </font> lY lY mukru pwih ]"
+			"type": "<font color='#FFA500'>kyqy </font> lY lY mukru pwih ]"
 		},
 		{
-			"Gurmukhi": "kyqy <font color='#FFA500'>mUrK </font> KwhI Kwih ]"
+			"type": "kyqy <font color='#FFA500'>mUrK </font> KwhI Kwih ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>kyiqAw </font> dUK BUK sd mwr ]"
+			"type": "<font color='#FFA500'>kyiqAw </font> dUK BUK sd mwr ]"
 		},
 		{
-			"Gurmukhi": "eyih iB dwiq <font color='#FFA500'>qyrI </font> dwqwr ]"
+			"type": "eyih iB dwiq <font color='#FFA500'>qyrI </font> dwqwr ]"
 		},
 		{
-			"Gurmukhi": "bMid <font color='#FFA500'>KlwsI </font> BwxY hoie ]"
+			"type": "bMid <font color='#FFA500'>KlwsI </font> BwxY hoie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>horu </font> AwiK n skY koie ]"
+			"type": "<font color='#FFA500'>horu </font> AwiK n skY koie ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>Kwieku </font> AwKix pwie ]"
+			"type": "jy ko <font color='#FFA500'>Kwieku </font> AwKix pwie ]"
 		},
 		{
-			"Gurmukhi": "Ehu <font color='#FFA500'>jwxY </font> jyqIAw muih Kwie ]"
+			"type": "Ehu <font color='#FFA500'>jwxY </font> jyqIAw muih Kwie ]"
 		},
 		{
-			"Gurmukhi": "Awpy <font color='#FFA500'>jwxY </font> Awpy dyie ]"
+			"type": "Awpy <font color='#FFA500'>jwxY </font> Awpy dyie ]"
 		},
 		{
-			"Gurmukhi": "AwKih <font color='#FFA500'>is </font> iB kyeI kyie ]"
+			"type": "AwKih <font color='#FFA500'>is </font> iB kyeI kyie ]"
 		},
 		{
-			"Gurmukhi": "ijsno <font color='#FFA500'>bKsy </font> isPiq swlwh ]"
+			"type": "ijsno <font color='#FFA500'>bKsy </font> isPiq swlwh ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> pwiqswhI pwiqswhu ]25]"
+			"type": "<font color='#FFA500'>nwnk </font> pwiqswhI pwiqswhu ]25]"
 		},
 		{
-			"Gurmukhi": "Amul <font color='#FFA500'>gux </font> Amul vwpwr ]"
+			"type": "Amul <font color='#FFA500'>gux </font> Amul vwpwr ]"
 		},
 		{
-			"Gurmukhi": "Amul <font color='#FFA500'>vwpwrIey </font> Amul BMfwr ]"
+			"type": "Amul <font color='#FFA500'>vwpwrIey </font> Amul BMfwr ]"
 		},
 		{
-			"Gurmukhi": "Amul <font color='#FFA500'>Awvih </font> Amul lY jwih ]"
+			"type": "Amul <font color='#FFA500'>Awvih </font> Amul lY jwih ]"
 		},
 		{
-			"Gurmukhi": "Amul <font color='#FFA500'>Bwie </font> Amulw smwih ]"
+			"type": "Amul <font color='#FFA500'>Bwie </font> Amulw smwih ]"
 		},
 		{
-			"Gurmukhi": "Amulu <font color='#FFA500'>Drmu </font> Amulu dIbwxu ]"
+			"type": "Amulu <font color='#FFA500'>Drmu </font> Amulu dIbwxu ]"
 		},
 		{
-			"Gurmukhi": "Amulu <font color='#FFA500'>qulu </font> Amulu prvwxu ]"
+			"type": "Amulu <font color='#FFA500'>qulu </font> Amulu prvwxu ]"
 		},
 		{
-			"Gurmukhi": "Amulu <font color='#FFA500'>bKsIs </font> Amulu nIswxu ]"
+			"type": "Amulu <font color='#FFA500'>bKsIs </font> Amulu nIswxu ]"
 		},
 		{
-			"Gurmukhi": "Amulu <font color='#FFA500'>krmu </font> Amulu Purmwxu ]"
+			"type": "Amulu <font color='#FFA500'>krmu </font> Amulu Purmwxu ]"
 		},
 		{
-			"Gurmukhi": "Amulo <font color='#FFA500'>Amulu </font> AwiKAw n jwie ]"
+			"type": "Amulo <font color='#FFA500'>Amulu </font> AwiKAw n jwie ]"
 		},
 		{
-			"Gurmukhi": "AwiK <font color='#FFA500'>AwiK </font> rhy ilv lwie ]"
+			"type": "AwiK <font color='#FFA500'>AwiK </font> rhy ilv lwie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>AwKih </font> vyd pwT purwx ]"
+			"type": "<font color='#FFA500'>AwKih </font> vyd pwT purwx ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>AwKih </font> pVy krih viKAwx ]"
+			"type": "<font color='#FFA500'>AwKih </font> pVy krih viKAwx ]"
 		},
 		{
-			"Gurmukhi": "AwKih <font color='#FFA500'>brmy </font> AwKih ieMd ]"
+			"type": "AwKih <font color='#FFA500'>brmy </font> AwKih ieMd ]"
 		},
 		{
-			"Gurmukhi": "AwKih <font color='#FFA500'>gopI </font> qY goivMd ]"
+			"type": "AwKih <font color='#FFA500'>gopI </font> qY goivMd ]"
 		},
 		{
-			"Gurmukhi": "AwKih <font color='#FFA500'>eIsr </font> AwKih isD ]"
+			"type": "AwKih <font color='#FFA500'>eIsr </font> AwKih isD ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>AwKih </font> kyqy kIqy buD ]"
+			"type": "<font color='#FFA500'>AwKih </font> kyqy kIqy buD ]"
 		},
 		{
-			"Gurmukhi": "AwKih <font color='#FFA500'>dwnv </font> AwKih dyv ]"
+			"type": "AwKih <font color='#FFA500'>dwnv </font> AwKih dyv ]"
 		},
 		{
-			"Gurmukhi": "AwKih suir <font color='#FFA500'>nr </font> muin jn syv ]"
+			"type": "AwKih suir <font color='#FFA500'>nr </font> muin jn syv ]"
 		},
 		{
-			"Gurmukhi": "kyqy <font color='#FFA500'>AwKih </font> AwKix pwih ]"
+			"type": "kyqy <font color='#FFA500'>AwKih </font> AwKix pwih ]"
 		},
 		{
-			"Gurmukhi": "kyqy kih <font color='#FFA500'>kih </font> auiT auiT jwih ]"
+			"type": "kyqy kih <font color='#FFA500'>kih </font> auiT auiT jwih ]"
 		},
 		{
-			"Gurmukhi": "eyqy <font color='#FFA500'>kIqy </font> hoir kryih ]"
+			"type": "eyqy <font color='#FFA500'>kIqy </font> hoir kryih ]"
 		},
 		{
-			"Gurmukhi": "qw AwiK n <font color='#FFA500'>skih </font> kyeI kyie ]"
+			"type": "qw AwiK n <font color='#FFA500'>skih </font> kyeI kyie ]"
 		},
 		{
-			"Gurmukhi": "jyvfu <font color='#FFA500'>BwvY </font> qyvfu hoie ]"
+			"type": "jyvfu <font color='#FFA500'>BwvY </font> qyvfu hoie ]"
 		},
 		{
-			"Gurmukhi": "nwnk <font color='#FFA500'>jwxY </font> swcw soie ]"
+			"type": "nwnk <font color='#FFA500'>jwxY </font> swcw soie ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>AwKY </font> bolu ivgwVu ]"
+			"type": "jy ko <font color='#FFA500'>AwKY </font> bolu ivgwVu ]"
 		},
 		{
-			"Gurmukhi": "qw <font color='#FFA500'>ilKIAY </font> isir gwvwrw gwvwru ]26]"
+			"type": "qw <font color='#FFA500'>ilKIAY </font> isir gwvwrw gwvwru ]26]"
 		},
 		{
-			"Gurmukhi": "so dru <font color='#009900'>kyhw </font> so Gru <font color='#FFA500'>kyhw </font> ijqu <font color='#009900'>bih </font> srb smwly ]"
+			"type": "so dru <font color='#009900'>kyhw </font> so Gru <font color='#FFA500'>kyhw </font> ijqu <font color='#009900'>bih </font> srb smwly ]"
 		},
 		{
-			"Gurmukhi": "vwjy nwd Anyk <font color='#FFA500'>AsMKw </font> kyqy vwvxhwry ]"
+			"type": "vwjy nwd Anyk <font color='#FFA500'>AsMKw </font> kyqy vwvxhwry ]"
 		},
 		{
-			"Gurmukhi": "kyqy rwg prI isau <font color='#FFA500'>khIAin </font> kyqy gwvxhwry ]"
+			"type": "kyqy rwg prI isau <font color='#FFA500'>khIAin </font> kyqy gwvxhwry ]"
 		},
 		{
-			"Gurmukhi": "gwvih <font color='#009900'>quhno </font> pauxu pwxI <font color='#FFA500'>bYsMqru </font>"
+			"type": "gwvih <font color='#009900'>quhno </font> pauxu pwxI <font color='#FFA500'>bYsMqru </font>"
 		},
 		{
-			"Gurmukhi": "gwvY rwjwDrmu duAwry ]"
+			"type": "gwvY rwjwDrmu duAwry ]"
 		},
 		{
-			"Gurmukhi": "gwvih icqu <font color='#009900'>gupqu </font> iliK <font color='#FFA500'>jwxih </font> iliK iliK Drmu vIcwry ]"
+			"type": "gwvih icqu <font color='#009900'>gupqu </font> iliK <font color='#FFA500'>jwxih </font> iliK iliK Drmu vIcwry ]"
 		},
 		{
-			"Gurmukhi": "gwvih eIsru brmw <font color='#FFA500'>dyvI </font> sohin sdw svwry ]"
+			"type": "gwvih eIsru brmw <font color='#FFA500'>dyvI </font> sohin sdw svwry ]"
 		},
 		{
-			"Gurmukhi": "gwvih <font color='#009900'>ieMd </font> iedwsix <font color='#FFA500'>bYTy </font> dyviqAw dir nwly ]"
+			"type": "gwvih <font color='#009900'>ieMd </font> iedwsix <font color='#FFA500'>bYTy </font> dyviqAw dir nwly ]"
 		},
 		{
-			"Gurmukhi": "gwvih <font color='#009900'>isD </font> smwDI <font color='#FFA500'>AMdir </font> gwvin swD ivcwry ]"
+			"type": "gwvih <font color='#009900'>isD </font> smwDI <font color='#FFA500'>AMdir </font> gwvin swD ivcwry ]"
 		},
 		{
-			"Gurmukhi": "gwvin jqI sqI <font color='#FFA500'>sMqoKI </font> gwvih vIr krwry ]"
+			"type": "gwvin jqI sqI <font color='#FFA500'>sMqoKI </font> gwvih vIr krwry ]"
 		},
 		{
-			"Gurmukhi": "gwvin pMifq pVin <font color='#FFA500'>rKIsr </font> jugu jugu vydw nwly ]"
+			"type": "gwvin pMifq pVin <font color='#FFA500'>rKIsr </font> jugu jugu vydw nwly ]"
 		},
 		{
-			"Gurmukhi": "gwvih mohxIAw mnu <font color='#FFA500'>mohin </font> surgw mC pieAwly ]"
+			"type": "gwvih mohxIAw mnu <font color='#FFA500'>mohin </font> surgw mC pieAwly ]"
 		},
 		{
-			"Gurmukhi": "gwvin rqn aupwey <font color='#FFA500'>qyry </font> ATsiT qIrQ nwly ]"
+			"type": "gwvin rqn aupwey <font color='#FFA500'>qyry </font> ATsiT qIrQ nwly ]"
 		},
 		{
-			"Gurmukhi": "gwvih joD mhwbl <font color='#FFA500'>sUrw </font> gwvih KwxI cwry ]"
+			"type": "gwvih joD mhwbl <font color='#FFA500'>sUrw </font> gwvih KwxI cwry ]"
 		},
 		{
-			"Gurmukhi": "gwvih KMf mMfl <font color='#FFA500'>vrBMfw </font> kir kir rKy Dwry ]"
+			"type": "gwvih KMf mMfl <font color='#FFA500'>vrBMfw </font> kir kir rKy Dwry ]"
 		},
 		{
-			"Gurmukhi": "syeI quDuno <font color='#009900'>gwvih </font> jo quDu <font color='#FFA500'>Bwvin </font> rqy qyry Bgq rswly ]"
+			"type": "syeI quDuno <font color='#009900'>gwvih </font> jo quDu <font color='#FFA500'>Bwvin </font> rqy qyry Bgq rswly ]"
 		},
 		{
-			"Gurmukhi": "hoir kyqy <font color='#009900'>gwvin </font> sy mY iciq n <font color='#FFA500'>Awvin </font> nwnku ikAw vIcwry ]"
+			"type": "hoir kyqy <font color='#009900'>gwvin </font> sy mY iciq n <font color='#FFA500'>Awvin </font> nwnku ikAw vIcwry ]"
 		},
 		{
-			"Gurmukhi": "soeI soeI sdw scu <font color='#FFA500'>swihbu </font> swcw swcI nweI ]"
+			"type": "soeI soeI sdw scu <font color='#FFA500'>swihbu </font> swcw swcI nweI ]"
 		},
 		{
-			"Gurmukhi": "hY BI <font color='#009900'>hosI </font> jwie n <font color='#FFA500'>jwsI </font> rcnw ijin rcweI ]"
+			"type": "hY BI <font color='#009900'>hosI </font> jwie n <font color='#FFA500'>jwsI </font> rcnw ijin rcweI ]"
 		},
 		{
-			"Gurmukhi": "rMgI rMgI <font color='#009900'>BwqI </font> kir kir <font color='#FFA500'>ijnsI </font> mwieAw ijin aupweI ]"
+			"type": "rMgI rMgI <font color='#009900'>BwqI </font> kir kir <font color='#FFA500'>ijnsI </font> mwieAw ijin aupweI ]"
 		},
 		{
-			"Gurmukhi": "kir kir <font color='#009900'>vyKY </font> kIqw <font color='#FFA500'>Awpxw </font> ijv iqs dI vifAweI ]"
+			"type": "kir kir <font color='#009900'>vyKY </font> kIqw <font color='#FFA500'>Awpxw </font> ijv iqs dI vifAweI ]"
 		},
 		{
-			"Gurmukhi": "jo iqsu BwvY soeI <font color='#FFA500'>krsI </font> hukmu n krxw jweI ]"
+			"type": "jo iqsu BwvY soeI <font color='#FFA500'>krsI </font> hukmu n krxw jweI ]"
 		},
 		{
-			"Gurmukhi": "so pwiqswhu swhw <font color='#FFA500'>pwiqswihbu </font> nwnk rhxu rjweI ]27]"
+			"type": "so pwiqswhu swhw <font color='#FFA500'>pwiqswihbu </font> nwnk rhxu rjweI ]27]"
 		},
 		{
-			"Gurmukhi": "muMdw <font color='#009900'>sMqoKu </font> srmu pqu <font color='#FFA500'>JolI </font> iDAwn kI krih ibBUiq ]"
+			"type": "muMdw <font color='#009900'>sMqoKu </font> srmu pqu <font color='#FFA500'>JolI </font> iDAwn kI krih ibBUiq ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>iKMQw </font> kwlu kuAwrI <font color='#FFA500'>kwieAw </font> jugiq fMfw prqIiq ]"
+			"type": "<font color='#009900'>iKMQw </font> kwlu kuAwrI <font color='#FFA500'>kwieAw </font> jugiq fMfw prqIiq ]"
 		},
 		{
-			"Gurmukhi": "AweI pMQI sgl <font color='#FFA500'>jmwqI </font> min jIqY jgu jIqu ]"
+			"type": "AweI pMQI sgl <font color='#FFA500'>jmwqI </font> min jIqY jgu jIqu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+			"type": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
 		},
 		{
-			"Gurmukhi":"Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu eyko vysu ]28]"
+			"type":"Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu eyko vysu ]28]"
 		},
 		{
-			"Gurmukhi": "Bugiq <font color='#009900'>igAwnu </font> dieAw <font color='#FFA500'>BMfwrix </font> Git Git vwjih nwd ]"
+			"type": "Bugiq <font color='#009900'>igAwnu </font> dieAw <font color='#FFA500'>BMfwrix </font> Git Git vwjih nwd ]"
 		},
 		{
-			"Gurmukhi": "Awip <font color='#009900'>nwQu </font> nwQI sB jw <font color='#FFA500'>kI </font> iriD isiD Avrw swd ]"
+			"type": "Awip <font color='#009900'>nwQu </font> nwQI sB jw <font color='#FFA500'>kI </font> iriD isiD Avrw swd ]"
 		},
 		{
-			"Gurmukhi": "sMjogu ivjogu <font color='#009900'>duie </font> kwr <font color='#FFA500'>clwvih </font> lyKy Awvih Bwg ]"
+			"type": "sMjogu ivjogu <font color='#009900'>duie </font> kwr <font color='#FFA500'>clwvih </font> lyKy Awvih Bwg ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+			"type": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
 		},
 		{
-			"Gurmukhi": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu eyko vysu ]29]"
+			"type": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu eyko vysu ]29]"
 		},
 		{
-			"Gurmukhi": "eykw <font color='#009900'>mweI </font> jugiq <font color='#FFA500'>ivAweI </font> iqin cyly prvwxu ]"
+			"type": "eykw <font color='#009900'>mweI </font> jugiq <font color='#FFA500'>ivAweI </font> iqin cyly prvwxu ]"
 		},
 		{
-			"Gurmukhi": "ieku <font color='#009900'>sMswrI </font> ieku <font color='#FFA500'>BMfwrI </font><font color='#009900'>ieku </font> lwey dI bwxu ]"
+			"type": "ieku <font color='#009900'>sMswrI </font> ieku <font color='#FFA500'>BMfwrI </font><font color='#009900'>ieku </font> lwey dI bwxu ]"
 		},
 		{
-			"Gurmukhi": "ijv iqsu <font color='#009900'>BwvY </font> iqvY <font color='#FFA500'>clwvY </font> ijv hovY Purmwxu ]"
+			"type": "ijv iqsu <font color='#009900'>BwvY </font> iqvY <font color='#FFA500'>clwvY </font> ijv hovY Purmwxu ]"
 		},
 		{
-			"Gurmukhi": "Ehu <font color='#009900'>vyKY </font> Enw ndir n <font color='#FFA500'>AwvY </font> bhuqw eyhu ivfwxu ]"
+			"type": "Ehu <font color='#009900'>vyKY </font> Enw ndir n <font color='#FFA500'>AwvY </font> bhuqw eyhu ivfwxu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+			"type": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
 		},
 		{
-			"Gurmukhi":" Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu eyko vysu ]30]"
+			"type":" Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu eyko vysu ]30]"
 		},
 		{
-			"Gurmukhi": "Awsxu loie <font color='#FFA500'>loie </font> BMfwr ]"
+			"type": "Awsxu loie <font color='#FFA500'>loie </font> BMfwr ]"
 		},
 		{
-			"Gurmukhi": "jo ikCu <font color='#FFA500'>pwieAw </font> su eykw vwr ]"
+			"type": "jo ikCu <font color='#FFA500'>pwieAw </font> su eykw vwr ]"
 		},
 		{
-			"Gurmukhi": "kir kir <font color='#FFA500'>vyKY </font> isrjxhwru ]"
+			"type": "kir kir <font color='#FFA500'>vyKY </font> isrjxhwru ]"
 		},
 		{
-			"Gurmukhi": "nwnk scy <font color='#FFA500'>kI </font> swcI kwr ]"
+			"type": "nwnk scy <font color='#FFA500'>kI </font> swcI kwr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+			"type": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
 		},
 		{
-			"Gurmukhi": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu eyko vysu ]31]"
+			"type": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu eyko vysu ]31]"
 		},
 		{
-			"Gurmukhi": "iekdU jIBO lK <font color='#FFA500'>hoih </font> lK hovih lK vIs ] "
+			"type": "iekdU jIBO lK <font color='#FFA500'>hoih </font> lK hovih lK vIs ] "
 		},
 		{
 
-			"Gurmukhi":"lKu lKu gyVw <font color='#FFA500'>AwKIAih </font> eyku nwmu jgdIs ]"
+			"type":"lKu lKu gyVw <font color='#FFA500'>AwKIAih </font> eyku nwmu jgdIs ]"
 		},
 		{
-			"Gurmukhi": "eyqu rwih piq <font color='#FFA500'>pvVIAw </font> cVIAY hoie iekIs ]"
+			"type": "eyqu rwih piq <font color='#FFA500'>pvVIAw </font> cVIAY hoie iekIs ]"
 		},
 		{
-			"Gurmukhi": "suix glw Awkws <font color='#FFA500'>kI </font> kItw AweI rIs ]"
+			"type": "suix glw Awkws <font color='#FFA500'>kI </font> kItw AweI rIs ]"
 		},
 		{
-			"Gurmukhi": "nwnk ndrI <font color='#FFA500'>pweIAY </font><font color='#009900'>kUVI </font> kUVY TIs ]32]"
+			"type": "nwnk ndrI <font color='#FFA500'>pweIAY </font><font color='#009900'>kUVI </font> kUVY TIs ]32]"
 		},
 		{
-			"Gurmukhi": " AwKix <font color='#FFA500'>joru </font> cupY nh joru ]"
+			"type": " AwKix <font color='#FFA500'>joru </font> cupY nh joru ]"
 		},
 		{
-			"Gurmukhi": "joru n <font color='#FFA500'>mMgix </font> dyix n joru ]"
+			"type": "joru n <font color='#FFA500'>mMgix </font> dyix n joru ]"
 		},
 		{
-			"Gurmukhi": "joru n <font color='#FFA500'>jIvix </font> mrix nh joru ]"
+			"type": "joru n <font color='#FFA500'>jIvix </font> mrix nh joru ]"
 		},
 		{
-			"Gurmukhi": "joru <font color='#009900'>n </font> rwij <font color='#FFA500'>mwil </font> min soru ]"
+			"type": "joru <font color='#009900'>n </font> rwij <font color='#FFA500'>mwil </font> min soru ]"
 		},
 		{
-			"Gurmukhi": "joru n <font color='#FFA500'>surqI </font> igAwin vIcwir ]"
+			"type": "joru n <font color='#FFA500'>surqI </font> igAwin vIcwir ]"
 		},
 		{
-			"Gurmukhi": "joru n <font color='#FFA500'>jugqI </font> CutY sMswru ]"
+			"type": "joru n <font color='#FFA500'>jugqI </font> CutY sMswru ]"
 		},
 		{
-			"Gurmukhi": "ijsu hiQ <font color='#FFA500'>joru </font> kir vyKY soie ]"
+			"type": "ijsu hiQ <font color='#FFA500'>joru </font> kir vyKY soie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> auqmu nIcu n koie ]33]"
+			"type": "<font color='#FFA500'>nwnk </font> auqmu nIcu n koie ]33]"
 		},
 		{
-			"Gurmukhi": "rwqI <font color='#FFA500'>ruqI </font> iQqI vwr ]"
+			"type": "rwqI <font color='#FFA500'>ruqI </font> iQqI vwr ]"
 		},
 		{
-			"Gurmukhi": "pvx <font color='#FFA500'>pwxI </font> AgnI pwqwl ]"
+			"type": "pvx <font color='#FFA500'>pwxI </font> AgnI pwqwl ]"
 		},
 		{
-			"Gurmukhi": "iqsu <font color='#009900'>ivic </font> DrqI Qwip <font color='#FFA500'>rKI </font> Drmswl ]"
+			"type": "iqsu <font color='#009900'>ivic </font> DrqI Qwip <font color='#FFA500'>rKI </font> Drmswl ]"
 		},
 		{
-			"Gurmukhi": "iqsu <font color='#FFA500'>ivic </font> jIA jugiq ky rMg ]"
+			"type": "iqsu <font color='#FFA500'>ivic </font> jIA jugiq ky rMg ]"
 		},
 		{
-			"Gurmukhi": "iqn ky <font color='#FFA500'>nwm </font> Anyk AnMq ]"
+			"type": "iqn ky <font color='#FFA500'>nwm </font> Anyk AnMq ]"
 		},
 		{
-			"Gurmukhi": "krmI <font color='#FFA500'>krmI </font> hoie vIcwru ]"
+			"type": "krmI <font color='#FFA500'>krmI </font> hoie vIcwru ]"
 		},
 		{
-			"Gurmukhi": "scw <font color='#FFA500'>Awip </font> scw drbwru ]"
+			"type": "scw <font color='#FFA500'>Awip </font> scw drbwru ]"
 		},
 		{
-			"Gurmukhi": "iqQY <font color='#FFA500'>sohin </font> pMc prvwxu ]"
+			"type": "iqQY <font color='#FFA500'>sohin </font> pMc prvwxu ]"
 		},
 		{
-			"Gurmukhi": "ndrI <font color='#FFA500'>krim </font> pvY nIswxu ]"
+			"type": "ndrI <font color='#FFA500'>krim </font> pvY nIswxu ]"
 		},
 		{
-			"Gurmukhi": "kc <font color='#FFA500'>pkweI </font> EQY pwie ]"
+			"type": "kc <font color='#FFA500'>pkweI </font> EQY pwie ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>nwnk </font> gieAw jwpY jwie ]34]"
+			"type": "<font color='#FFA500'>nwnk </font> gieAw jwpY jwie ]34]"
 		},
 		{
-			"Gurmukhi": "Drm KMf <font color='#FFA500'>kw </font> eyho Drmu ]"
+			"type": "Drm KMf <font color='#FFA500'>kw </font> eyho Drmu ]"
 		},
 		{
-			"Gurmukhi": "igAwn KMf <font color='#FFA500'>kw </font> AwKhu krmu ]"
+			"type": "igAwn KMf <font color='#FFA500'>kw </font> AwKhu krmu ]"
 		},
 		{
-			"Gurmukhi": "kyqy pvx pwxI <font color='#FFA500'>vYsMqr </font> kyqy kwn mhys ]"
+			"type": "kyqy pvx pwxI <font color='#FFA500'>vYsMqr </font> kyqy kwn mhys ]"
 		},
 		{
-			"Gurmukhi": "kyqy brmy GwViq <font color='#FFA500'>GVIAih </font> rUp rMg ky vys ]"
+			"type": "kyqy brmy GwViq <font color='#FFA500'>GVIAih </font> rUp rMg ky vys ]"
 		},
 		{
-			"Gurmukhi": "kyqIAw <font color='#009900'>krmBUmI </font> myr <font color='#FFA500'>kyqy </font> kyqy <font color='#009900'>DU </font> aupdys ]"
+			"type": "kyqIAw <font color='#009900'>krmBUmI </font> myr <font color='#FFA500'>kyqy </font> kyqy <font color='#009900'>DU </font> aupdys ]"
 		},
 		{
-			"Gurmukhi": "kyqy ieMd <font color='#009900'>cMd </font> sUr <font color='#FFA500'>kyqy </font> kyqy mMfl dys ]"
+			"type": "kyqy ieMd <font color='#009900'>cMd </font> sUr <font color='#FFA500'>kyqy </font> kyqy mMfl dys ]"
 		},
 		{
-			"Gurmukhi": "kyqy isD <font color='#009900'>buD </font> nwQ <font color='#FFA500'>kyqy </font> kyqy dyvI vys ]"
+			"type": "kyqy isD <font color='#009900'>buD </font> nwQ <font color='#FFA500'>kyqy </font> kyqy dyvI vys ]"
 		},
 		{
-			"Gurmukhi": "kyqy dyv dwnv muin <font color='#FFA500'>kyqy </font> kyqy rqn smuMd ]"
+			"type": "kyqy dyv dwnv muin <font color='#FFA500'>kyqy </font> kyqy rqn smuMd ]"
 		},
 		{
-			"Gurmukhi": "kyqIAw <font color='#009900'>KwxI </font> kyqIAw <font color='#FFA500'>bwxI </font> kyqy pwq nirMd ]"
+			"type": "kyqIAw <font color='#009900'>KwxI </font> kyqIAw <font color='#FFA500'>bwxI </font> kyqy pwq nirMd ]"
 		},
 		{
-			"Gurmukhi": "kyqIAw <font color='#009900'>surqI </font> syvk <font color='#FFA500'>kyqy </font><font color='#009900'>nwnk </font> AMqu <font color='#009900'>n </font> AMqu ]35]"
+			"type": "kyqIAw <font color='#009900'>surqI </font> syvk <font color='#FFA500'>kyqy </font><font color='#009900'>nwnk </font> AMqu <font color='#009900'>n </font> AMqu ]35]"
 		},
 		{
-			"Gurmukhi": "igAwn KMf <font color='#FFA500'>mih </font> igAwnu prcMfu ]"
+			"type": "igAwn KMf <font color='#FFA500'>mih </font> igAwnu prcMfu ]"
 		},
 		{
-			"Gurmukhi": "iqQY nwd <font color='#FFA500'>ibnod </font> kof AnMdu ]"
+			"type": "iqQY nwd <font color='#FFA500'>ibnod </font> kof AnMdu ]"
 		},
 		{
-			"Gurmukhi": "srm KMf <font color='#FFA500'>kI </font> bwxI rUpu ]"
+			"type": "srm KMf <font color='#FFA500'>kI </font> bwxI rUpu ]"
 		},
 		{
-			"Gurmukhi": "iqQY GwViq <font color='#FFA500'>GVIAY </font> bhuqu AnUpu ]"
+			"type": "iqQY GwViq <font color='#FFA500'>GVIAY </font> bhuqu AnUpu ]"
 		},
 		{
-			"Gurmukhi": "qw kIAw <font color='#FFA500'>glw </font> kQIAw nw jwih ]"
+			"type": "qw kIAw <font color='#FFA500'>glw </font> kQIAw nw jwih ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwie ]"
+			"type": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwie ]"
 		},
 		{
-			"Gurmukhi": "iqQY <font color='#FFA500'>GVIAY </font> suriq miq min buiD ]"
+			"type": "iqQY <font color='#FFA500'>GVIAY </font> suriq miq min buiD ]"
 		},
 		{
-			"Gurmukhi": "iqQY <font color='#FFA500'>GVIAY </font> surw isDw kI suiD ]36]"
+			"type": "iqQY <font color='#FFA500'>GVIAY </font> surw isDw kI suiD ]36]"
 		},
 		{
-			"Gurmukhi": "krm KMf <font color='#FFA500'>kI </font> bwxI joru ]"
+			"type": "krm KMf <font color='#FFA500'>kI </font> bwxI joru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>iqQY </font> horu n koeI horu ]"
+			"type": "<font color='#FFA500'>iqQY </font> horu n koeI horu ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>iqQY </font> joD mhwbl sUr ]"
+			"type": "<font color='#FFA500'>iqQY </font> joD mhwbl sUr ]"
 		},
 		{
-			"Gurmukhi": "iqn <font color='#FFA500'>mih </font> rwmu rihAw BrpUr ]"
+			"type": "iqn <font color='#FFA500'>mih </font> rwmu rihAw BrpUr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#FFA500'>iqQY </font> sIqo sIqw mihmw mwih ]"
+			"type": "<font color='#FFA500'>iqQY </font> sIqo sIqw mihmw mwih ]"
 		},
 		{
-			"Gurmukhi": "qw ky <font color='#FFA500'>rUp </font> n kQny jwih ]"
+			"type": "qw ky <font color='#FFA500'>rUp </font> n kQny jwih ]"
 		},
 		{
-			"Gurmukhi": "nw Eih <font color='#FFA500'>mrih </font> n Twgy jwih ]"
+			"type": "nw Eih <font color='#FFA500'>mrih </font> n Twgy jwih ]"
 		},
 		{
-			"Gurmukhi": "ijn <font color='#FFA500'>kY </font> rwmu vsY mn mwih ]"
+			"type": "ijn <font color='#FFA500'>kY </font> rwmu vsY mn mwih ]"
 		},
 		{
-			"Gurmukhi": "iqQY Bgq <font color='#FFA500'>vsih </font> ky loA ]"
+			"type": "iqQY Bgq <font color='#FFA500'>vsih </font> ky loA ]"
 		},
 		{
-			"Gurmukhi": "krih <font color='#FFA500'>AnMdu </font> scw min soie ]"
+			"type": "krih <font color='#FFA500'>AnMdu </font> scw min soie ]"
 		},
 		{
-			"Gurmukhi": "scKMif <font color='#FFA500'>vsY </font> inrMkwru ]"
+			"type": "scKMif <font color='#FFA500'>vsY </font> inrMkwru ]"
 		},
 		{
-			"Gurmukhi": "kir kir <font color='#FFA500'>vyKY </font> ndir inhwl ]"
+			"type": "kir kir <font color='#FFA500'>vyKY </font> ndir inhwl ]"
 		},
 		{
-			"Gurmukhi": "iqQY KMf <font color='#FFA500'>mMfl </font> vrBMf ]"
+			"type": "iqQY KMf <font color='#FFA500'>mMfl </font> vrBMf ]"
 		},
 		{
-			"Gurmukhi": "jy ko <font color='#FFA500'>kQY </font> q AMq <font color='#009900'>n </font> AMq ]"
+			"type": "jy ko <font color='#FFA500'>kQY </font> q AMq <font color='#009900'>n </font> AMq ]"
 		},
 		{
-			"Gurmukhi": "iqQY loA <font color='#FFA500'>loA </font> Awkwr ]"
+			"type": "iqQY loA <font color='#FFA500'>loA </font> Awkwr ]"
 		},
 		{
-			"Gurmukhi": "ijv ijv <font color='#FFA500'>hukmu </font> iqvY iqv kwr ]"
+			"type": "ijv ijv <font color='#FFA500'>hukmu </font> iqvY iqv kwr ]"
 		},
 		{
-			"Gurmukhi": "vyKY <font color='#FFA500'>ivgsY </font> kir vIcwru ]"
+			"type": "vyKY <font color='#FFA500'>ivgsY </font> kir vIcwru ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font><font color='#FFA500'>kQnw </font> krVw swru ]37]"
+			"type": "<font color='#009900'>nwnk </font><font color='#FFA500'>kQnw </font> krVw swru ]37]"
 		},
 		{
-			"Gurmukhi": "jqu <font color='#FFA500'>pwhwrw </font> DIrju suinAwru ]"
+			"type": "jqu <font color='#FFA500'>pwhwrw </font> DIrju suinAwru ]"
 		},
 		{
-			"Gurmukhi": "Ahrix <font color='#FFA500'>miq </font> vydu hQIAwru ]"
+			"type": "Ahrix <font color='#FFA500'>miq </font> vydu hQIAwru ]"
 		},
 		{
-			"Gurmukhi": "Bau <font color='#FFA500'>Klw </font> Agin qp qwau ]"
+			"type": "Bau <font color='#FFA500'>Klw </font> Agin qp qwau ]"
 		},
 		{
-			"Gurmukhi": "BWfw <font color='#FFA500'>Bwau </font> AMimRqu iqqu Fwil ]"
+			"type": "BWfw <font color='#FFA500'>Bwau </font> AMimRqu iqqu Fwil ]"
 		},
 		{
-			"Gurmukhi": "GVIAY <font color='#FFA500'>sbdu </font> scI tkswl ]"
+			"type": "GVIAY <font color='#FFA500'>sbdu </font> scI tkswl ]"
 		},
 		{
-			"Gurmukhi": "ijn kau ndir <font color='#FFA500'>krmu </font> iqn kwr ]"
+			"type": "ijn kau ndir <font color='#FFA500'>krmu </font> iqn kwr ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk </font><font color='#FFA500'>ndrI </font> ndir inhwl ]38]"
+			"type": "<font color='#009900'>nwnk </font><font color='#FFA500'>ndrI </font> ndir inhwl ]38]"
 		},
 		{
-			"Gurmukhi": "sloku ]"
+			"type": "sloku ]"
 		},
 		{
-			"Gurmukhi": "pvxu <font color='#009900'>gurU</font> pwxI <font color='#FFA500'>ipqw</font> mwqw Driq mhqu ]"
+			"type": "pvxu <font color='#009900'>gurU</font> pwxI <font color='#FFA500'>ipqw</font> mwqw Driq mhqu ]"
 		},
 		{
-			"Gurmukhi": "idvsu rwiq <font color='#009900'>duie</font> dweI <font color='#FFA500'>dwieAw</font> KylY sgl jgqu ]"
+			"type": "idvsu rwiq <font color='#009900'>duie</font> dweI <font color='#FFA500'>dwieAw</font> KylY sgl jgqu ]"
 		},
 		{
-			"Gurmukhi": "cMigAweIAw <font color='#FFA500'>buirAweIAw</font> vwcY Drmu hdUir ]"
+			"type": "cMigAweIAw <font color='#FFA500'>buirAweIAw</font> vwcY Drmu hdUir ]"
 		},
 		{
-			"Gurmukhi": "krmI Awpo <font color='#FFA500'>AwpxI</font> ky nyVY ky dUir ]"
+			"type": "krmI Awpo <font color='#FFA500'>AwpxI</font> ky nyVY ky dUir ]"
 		},
 		{
-			"Gurmukhi": "ijnI nwmu <font color='#FFA500'>iDAwieAw</font> gey mskiq Gwil ]"
+			"type": "ijnI nwmu <font color='#FFA500'>iDAwieAw</font> gey mskiq Gwil ]"
 		},
 		{
-			"Gurmukhi": "<font color='#009900'>nwnk</font> qy muK <font color='#FFA500'>aujly</font> kyqI CutI nwil ]1]  "
+			"type": "<font color='#009900'>nwnk</font> qy muK <font color='#FFA500'>aujly</font> kyqI CutI nwil ]1]  "
 		}
 	]
 }
