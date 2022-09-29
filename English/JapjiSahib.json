@@ -1,11 +1,29 @@
 {
 	"japjisahib": [		
-{"english": "Japji Sahib"},
-{"english": "ikOankaar sat naam karataa purakh"},
-{"english": "nirabhau niravair"},
-{"english": "akaal moorat ajoonee saibha(n)"},
-{"english": "gur prasaadh ||"},
-{"english": "|| jap ||"},
+{
+	"english": "Japji Sahib"
+	"type": "jpu jI swihb"
+},
+{
+	"english": "ikOankaar sat naam karataa purakh"
+	"type": "<font color='#FFA500'>&lt;&gt; </font> <font color='#009900'>siqnwmu </font> krqw <font color='#009900'>purKu</font>"
+},
+{
+	"english": "nirabhau niravair"
+	"type": "inrBau <font color='#FFA500'>inrvYru</font>"
+},
+{
+	"english": "akaal moorat ajoonee saibha(n)"
+	"type": "Akwl <font color='#009900'>mUriq </font> AjUnI <font color='#009900'>sYBM </font>"
+},
+{
+	"english": "gur prasaadh ||"
+	"type": "gurpRswid ]"
+},
+{
+	"english": "|| jap ||"
+	"type": "]jpu ]"
+},
 {"english": "aadh sach jugaadh sach ||"},
 {"english": "hai bhee sach naanak hosee bhee sach ||1||"},
 {"english": "sochai soch na hoviee je sochee lakh vaar ||"},
