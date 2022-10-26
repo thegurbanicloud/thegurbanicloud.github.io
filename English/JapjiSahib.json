@@ -1563,396 +1563,2740 @@
 			"gurmukhi": "<font color='#009900'>nwnk</font> qy muK <font color='#FFA500'>aujly</font> kyqI CutI nwil ]1]  "
 		}
 	],
-	"japjisahibhindi": [
-{"hindi": "जपुजी साहिब"},
-{"hindi": "ੴ सति नामु करता पुरखु"},
-{"hindi": "निरभउ निरवैरु "},		
-{"hindi": "अकाल मूरति अजूनी सैभं "},
-{"hindi": "गुर प्रसादि ॥"},
-{"hindi": "॥ जपु ॥"},
-{"hindi": "आदि सचु जुगादि सचु ॥"},
-{"hindi": "है भी सचु नानक होसी भी सचु ॥१॥"},
-{"hindi": "सोचै सोचि न होवई जे सोची लख वार ॥"},
-{"hindi": "चुपै चुप न होवई जे लाइ रहा लिव तार ॥"},
-{"hindi": "भुखिआ भुख न उतरी जे बंना पुरीआ भार ॥"},
-{"hindi": "सहस सिआणपा लख होहि त इक न चलै नालि ॥"},
-{"hindi": "किव सचिआरा होईऐ किव कूड़ै तुटै पालि ॥"},
-{"hindi": "हुकमि रजाई चलणा नानक लिखिआ नालि ॥१॥"},
-{"hindi": "हुकमी होवनि आकार हुकमु न कहिआ जाई ॥"},
-{"hindi": "हुकमी होवनि जीअ हुकमि मिलै वडिआई ॥"},
-{"hindi": "हुकमी उतमु नीचु हुकमि लिखि दुख सुख पाईअहि ॥"},
-{"hindi": "इकना हुकमी बखसीस इकि हुकमी सदा भवाईअहि ॥"},
-{"hindi": "हुकमै अंदरि सभु को बाहरि हुकम न कोइ ॥"},
-{"hindi": "नानक हुकमै जे बुझै त हउमै कहै न कोइ ॥२॥"},
-{"hindi": "गावै को ताणु होवै किसै ताणु ॥"},
-{"hindi": "गावै को दाति जाणै नीसाणु ॥"},
-{"hindi": "गावै को गुण वडिआईआ चार ॥"},
-{"hindi": "गावै को विदिआ विखमु वीचारु ॥"},
-{"hindi": "गावै को साजि करे तनु खेह ॥"},
-{"hindi": "गावै को जीअ लै फिरि देह ॥"},
-{"hindi": "गावै को जापै दिसै दूरि ॥"},
-{"hindi": "गावै को वेखै हादरा हदूरि ॥"},
-{"hindi": "कथना कथी न आवै तोटि ॥"},
-{"hindi": "कथि कथि कथी कोटी कोटि कोटि ॥"},
-{"hindi": "देदा दे लैदे थकि पाहि ॥"},
-{"hindi": "जुगा जुगंतरि खाही खाहि ॥"},
-{"hindi": "हुकमी हुकमु चलाए राहु ॥"},
-{"hindi": "नानक विगसै वेपरवाहु ॥३॥"},
-{"hindi": "साचा साहिबु साचु नाइ भाखिआ भाउ अपारु ॥"},
-{"hindi": "आखहि मंगहि देहि देहि दाति करे दातारु ॥"},
-{"hindi": "फेरि कि अगै रखीऐ जितु दिसै दरबारु ॥"},
-{"hindi": "मुहौ कि बोलणु बोलीऐ जितु सुणि धरे पिआरु ॥"},
-{"hindi": "अंमृत वेला सचु नाउ वडिआई वीचारु ॥"},
-{"hindi": "करमी आवै कपड़ा नदरी मोखु दुआरु ॥"},
-{"hindi": "नानक एवै जाणीऐ सभु आपे सचिआरु ॥४॥"},
-{"hindi": "थापिआ न जाइ कीता न होइ ॥"},
-{"hindi": "आपे आपि निरंजनु सोइ ॥"},
-{"hindi": "जिनि सेविआ तिनि पाइआ मानु ॥"},
-{"hindi": "नानक गावीऐ गुणी निधानु ॥"},
-{"hindi": "गावीऐ सुणीऐ मनि रखीऐ भाउ ॥"},
-{"hindi": "दुखु परहरि सुखु घरि लै जाइ ॥"},
-{"hindi": "गुरमुखि नादं गुरमुखि वेदं गुरमुखि रहिआ समाई ॥"},
-{"hindi": "गुरु ईसरु गुरु गोरखु बरमा गुरु पारबती माई ॥"},
-{"hindi": "जे हउ जाणा आखा नाही कहणा कथनु न जाई ॥"},
-{"hindi": "गुरा इक देहि बुझाई ॥"},
-{"hindi": "सभना जीआ का इकु दाता सो मै विसरि न जाई ॥५॥"},
-{"hindi": "तीरथि नावा जे तिसु भावा विणु भाणे कि नाइ करी ॥"},
-{"hindi": "जेती सिरठि उपाई वेखा विणु करमा कि मिलै लई ॥"},
-{"hindi": "मति विचि रतन जवाहर माणिक जे इक गुर की सिख सुणी ॥"},
-{"hindi": "गुरा इक देहि बुझाई ॥"},
-{"hindi": "सभना जीआ का इकु दाता सो मै विसरि न जाई ॥६॥"},
-{"hindi": "जे जुग चारे आरजा होर दसूणी होइ ॥"},
-{"hindi": "नवा खंडा विचि जाणीऐ नालि चलै सभु कोइ ॥"},
-{"hindi": "चंगा नाउ रखाइ कै जसु कीरति जगि लेइ ॥"},
-{"hindi": "जे तिसु नदरि न आवई त वात न पुछै के ॥"},
-{"hindi": "कीटा अंदरि कीटु करि दोसी दोसु धरे ॥"},
-{"hindi": "नानक निरगुणि गुणु करे गुणवंतिआ गुणु दे ॥"},
-{"hindi": "तेहा कोइ न सुझई जि तिसु गुणु कोइ करे ॥७॥"},
-{"hindi": "सुणिऐ सिध पीर सुरि नाथ ॥"},
-{"hindi": "सुणिऐ धरति धवल आकास ॥"},
-{"hindi": "सुणिऐ दीप लोअ पाताल ॥"},
-{"hindi": "सुणिऐ पोहि न सकै कालु ॥"},
-{"hindi": "नानक भगता सदा विगासु ॥"},
-{"hindi": "सुणिऐ दूख पाप का नासु ॥८॥"},
-{"hindi": "सुणिऐ ईसरु बरमा इंदु ॥"},
-{"hindi": "सुणिऐ मुखि सालाहण मंदु ॥"},
-{"hindi": "सुणिऐ जोग जुगति तनि भेद ॥"},
-{"hindi": "सुणिऐ सासत सिमृति वेद ॥"},
-{"hindi": "नानक भगता सदा विगासु ॥"},
-{"hindi": "सुणिऐ दूख पाप का नासु ॥९॥"},
-{"hindi": "सुणिऐ सतु संतोखु गिआनु ॥"},
-{"hindi": "सुणिऐ अठसठि का इसनानु ॥"},
-{"hindi": "सुणिऐ पड़ि पड़ि पावहि मानु ॥"},
-{"hindi": "सुणिऐ लागै सहजि धिआनु ॥"},
-{"hindi": "नानक भगता सदा विगासु ॥"},
-{"hindi": "सुणिऐ दूख पाप का नासु ॥१०॥"},
-{"hindi": "सुणिऐ सरा गुणा के गाह ॥"},
-{"hindi": "सुणिऐ सेख पीर पातिसाह ॥"},
-{"hindi": "सुणिऐ अंधे पावहि राहु ॥"},
-{"hindi": "सुणिऐ हाथ होवै असगाहु ॥"},
-{"hindi": "नानक भगता सदा विगासु ॥"},
-{"hindi": "सुणिऐ दूख पाप का नासु ॥११॥"},
-{"hindi": "मंने की गति कही न जाइ ॥"},
-{"hindi": "जे को कहै पिछै पछुताइ ॥"},
-{"hindi": "कागदि कलम न लिखणहारु ॥"},
-{"hindi": "मंने का बहि करनि वीचारु ॥"},
-{"hindi": "ऐसा नामु निरंजनु होइ ॥"},
-{"hindi": "जे को मंनि जाणै मनि कोइ ॥१२॥"},
-{"hindi": "मंनै सुरति होवै मनि बुधि ॥"},
-{"hindi": "मंनै सगल भवण की सुधि ॥"},
-{"hindi": "मंनै मुहि चोटा ना खाइ ॥"},
-{"hindi": "मंनै जम कै साथि न जाइ ॥"},
-{"hindi": "ऐसा नामु निरंजनु होइ ॥"},
-{"hindi": "जे को मंनि जाणै मनि कोइ ॥१३॥"},
-{"hindi": "मंनै मारगि ठाक न पाइ ॥"},
-{"hindi": "मंनै पति सिउ परगटु जाइ ॥"},
-{"hindi": "मंनै मगु न चलै पंथु ॥"},
-{"hindi": "मंनै धरम सेती सनबंधु ॥"},
-{"hindi": "ऐसा नामु निरंजनु होइ ॥"},
-{"hindi": "जे को मंनि जाणै मनि कोइ ॥१४॥"},
-{"hindi": "मंनै पावहि मोखु दुआरु ॥"},
-{"hindi": "मंनै परवारै साधारु ॥"},
-{"hindi": "मंनै तरै तारे गुरु सिख ॥"},
-{"hindi": "मंनै नानक भवहि न भिख ॥"},
-{"hindi": "ऐसा नामु निरंजनु होइ ॥"},
-{"hindi": "जे को मंनि जाणै मनि कोइ ॥१५॥"},
-{"hindi": "पंच परवाण पंच परधानु ॥"},
-{"hindi": "पंचे पावहि दरगहि मानु ॥"},
-{"hindi": "पंचे सोहहि दरि राजानु ॥"},
-{"hindi": "पंचा का गुरु एकु धिआनु ॥"},
-{"hindi": "जे को कहै करै वीचारु ॥"},
-{"hindi": "करते कै करणै नाही सुमारु ॥"},
-{"hindi": "धौलु धरमु दइआ का पूतु ॥"},
-{"hindi": "संतोखु थापि रखिआ जिनि सूति ॥"},
-{"hindi": "जे को बुझै होवै सचिआरु ॥"},
-{"hindi": "धवलै उपरि केता भारु ॥"},
-{"hindi": "धरती होरु परै होरु होरु ॥"},
-{"hindi": "तिस ते भारु तलै कवणु जोरु ॥"},
-{"hindi": "जीअ जाति रंगा के नाव ॥"},
-{"hindi": "सभना लिखिआ वुड़ी कलाम ॥"},
-{"hindi": "एहु लेखा लिखि जाणै कोइ ॥"},
-{"hindi": "लेखा लिखिआ केता होइ ॥"},
-{"hindi": "केता ताणु सुआलिहु रूपु ॥"},
-{"hindi": "केती दाति जाणै कौणु कूतु ॥"},
-{"hindi": "कीता पसाउ एको कवाउ ॥"},
-{"hindi": "तिस ते होए लख दरीआउ ॥"},
-{"hindi": "कुदरति कवण कहा वीचारु ॥"},
-{"hindi": "वारिआ न जावा एक वार ॥"},
-{"hindi": "जो तुधु भावै साई भली कार ॥"},
-{"hindi": "तू सदा सलामति निरंकार ॥१६॥"},
-{"hindi": "असंख जप असंख भाउ ॥"},
-{"hindi": "असंख पूजा असंख तप ताउ ॥"},
-{"hindi": "असंख गरंथ मुखि वेद पाठ ॥"},
-{"hindi": "असंख जोग मनि रहहि उदास ॥"},
-{"hindi": "असंख भगत गुण गिआन वीचार ॥"},
-{"hindi": "असंख सती असंख दातार ॥"},
-{"hindi": "असंख सूर मुह भख सार ॥"},
-{"hindi": "असंख मोनि लिव लाइ तार ॥"},
-{"hindi": "कुदरति कवण कहा वीचारु ॥"},
-{"hindi": "वारिआ न जावा एक वार ॥"},
-{"hindi": "जो तुधु भावै साई भली कार ॥"},
-{"hindi": "तू सदा सलामति निरंकार ॥१७॥"},
-{"hindi": "असंख मूरख अंध घोर ॥"},
-{"hindi": "असंख चोर हरामखोर ॥"},
-{"hindi": "असंख अमर करि जाहि जोर ॥"},
-{"hindi": "असंख गलवढ हतिआ कमाहि ॥"},
-{"hindi": "असंख पापी पापु करि जाहि ॥"},
-{"hindi": "असंख कूड़िआर कूड़े फिराहि ॥"},
-{"hindi": "असंख मलेछ मलु भखि खाहि ॥"},
-{"hindi": "असंख निंदक सिरि करहि भारु ॥"},
-{"hindi": "नानकु नीचु कहै वीचारु ॥"},
-{"hindi": "वारिआ न जावा एक वार ॥"},
-{"hindi": "जो तुधु भावै साई भली कार ॥"},
-{"hindi": "तू सदा सलामति निरंकार ॥१८॥"},
-{"hindi": "असंख नाव असंख थाव ॥"},
-{"hindi": "अगंम अगंम असंख लोअ ॥"},
-{"hindi": "असंख कहहि सिरि भारु होइ ॥"},
-{"hindi": "अखरी नामु अखरी सालाह ॥"},
-{"hindi": "अखरी गिआनु गीत गुण गाह ॥"},
-{"hindi": "अखरी लिखणु बोलणु बाणि ॥"},
-{"hindi": "अखरा सिरि संजोगु वखाणि ॥"},
-{"hindi": "जिनि एहि लिखे तिसु सिरि नाहि ॥"},
-{"hindi": "जिव फुरमाए तिव तिव पाहि ॥"},
-{"hindi": "जेता कीता तेता नाउ ॥"},
-{"hindi": "विणु नावै नाही को थाउ ॥"},
-{"hindi": "कुदरति कवण कहा वीचारु ॥"},
-{"hindi": "वारिआ न जावा एक वार ॥"},
-{"hindi": "जो तुधु भावै साई भली कार ॥"},
-{"hindi": "तू सदा सलामति निरंकार ॥१९॥"},
-{"hindi": "भरीऐ हथु पैरु तनु देह ॥"},
-{"hindi": "पाणी धोतै उतरसु खेह ॥"},
-{"hindi": "मूत पलीती कपड़ु होइ ॥"},
-{"hindi": "दे साबूणु लईऐ ओहु धोइ ॥"},
-{"hindi": "भरीऐ मति पापा कै संगि ॥"},
-{"hindi": "ओहु धोपै नावै कै रंगि ॥"},
-{"hindi": "पुँनी पापी आखणु नाहि ॥"},
-{"hindi": "करि करि करणा लिखि लै जाहु ॥"},
-{"hindi": "आपे बीजि आपे ही खाहु ॥"},
-{"hindi": "नानक हुकमी आवहु जाहु ॥२०॥"},
-{"hindi": "तीरथु तपु दइआ दतु दानु ॥"},
-{"hindi": "जे को पावै तिल का मानु ॥"},
-{"hindi": "सुणिआ मंनिआ मनि कीता भाउ ॥"},
-{"hindi": "अंतरगति तीरथि मलि नाउ ॥"},
-{"hindi": "सभि गुण तेरे मै नाही कोइ ॥"},
-{"hindi": "विणु गुण कीते भगति न होइ ॥"},
-{"hindi": "सुअसति आथि बाणी बरमाउ ॥"},
-{"hindi": "सति सुहाणु सदा मनि चाउ ॥"},
-{"hindi": "कवणु सु वेला वखतु कवणु कवण थिति कवणु वारु ॥"},
-{"hindi": "कवणि सि रुती माहु कवणु जितु होआ आकारु ॥"},
-{"hindi": "वेल न पाईआ पंडती जि होवै लेखु पुराणु ॥"},
-{"hindi": "वखतु न पाइओ कादीआ जि लिखनि लेखु कुराणु ॥"},
-{"hindi": "थिति वारु ना जोगी जाणै रुति माहु ना कोई ॥"},
-{"hindi": "जा करता सिरठी कउ साजे आपे जाणै सोई ॥"},
-{"hindi": "किव करि आखा किव सालाही किउ वरनी किव जाणा ॥"},
-{"hindi": "नानक आखणि सभु को आखै इक दू इकु सिआणा ॥"},
-{"hindi": "वडा साहिबु वडी नाई कीता जा का होवै ॥"},
-{"hindi": "नानक जे को आपौ जाणै अगै गइआ न सोहै ॥२१॥"},
-{"hindi": "पाताला पाताल लख आगासा आगास ॥"},
-{"hindi": "ओड़क ओड़क भालि थके वेद कहनि इक वात ॥"},
-{"hindi": "सहस अठारह कहनि कतेबा असुलू इकु धातु ॥"},
-{"hindi": "लेखा होइ त लिखीऐ लेखै होइ विणासु ॥"},
-{"hindi": "नानक वडा आखीऐ आपे जाणै आपु ॥२२॥"},
-{"hindi": "सालाही सालाहि एती सुरति न पाईआ ॥"},
-{"hindi": "नदीआ अतै वाह पवहि समुँदि न जाणीअहि ॥"},
-{"hindi": "समुँद साह सुलतान गिरहा सेती मालु धनु ॥"},
-{"hindi": "कीड़ी तुलि न होवनी जे तिसु मनहु न वीसरहि ॥२३॥"},
-{"hindi": "अंतु न सिफती कहणि न अंतु ॥"},
-{"hindi": "अंतु न करणै देणि न अंतु ॥"},
-{"hindi": "अंतु न वेखणि सुणणि न अंतु ॥"},
-{"hindi": "अंतु न जापै किआ मनि मंतु ॥"},
-{"hindi": "अंतु न जापै कीता आकारु ॥"},
-{"hindi": "अंतु न जापै पारावारु ॥"},
-{"hindi": "अंत कारणि केते बिललाहि ॥"},
-{"hindi": "ता के अंत न पाए जाहि ॥"},
-{"hindi": "एहु अंतु न जाणै कोइ ॥"},
-{"hindi": "बहुता कहीऐ बहुता होइ ॥"},
-{"hindi": "वडा साहिबु ऊचा थाउ ॥"},
-{"hindi": "ऊचे उपरि ऊचा नाउ ॥"},
-{"hindi": "एवडु ऊचा होवै कोइ ॥"},
-{"hindi": "तिसु ऊचे कउ जाणै सोइ ॥"},
-{"hindi": "जेवडु आपि जाणै आपि आपि ॥"},
-{"hindi": "नानक नदरी करमी दाति ॥२४॥"},
-{"hindi": "बहुता करमु लिखिआ ना जाइ ॥"},
-{"hindi": "वडा दाता तिलु न तमाइ ॥"},
-{"hindi": "केते मंगहि जोध अपार ॥"},
-{"hindi": "केतिआ गणत नही वीचारु ॥"},
-{"hindi": "केते खपि तुटहि वेकार ॥"},
-{"hindi": "केते लै लै मुकरु पाहि ॥"},
-{"hindi": "केते मूरख खाही खाहि ॥"},
-{"hindi": "केतिआ दूख भूख सद मार ॥"},
-{"hindi": "एहि भि दाति तेरी दातार ॥"},
-{"hindi": "बंदि खलासी भाणै होइ ॥"},
-{"hindi": "होरु आखि न सकै कोइ ॥"},
-{"hindi": "जे को खाइकु आखणि पाइ ॥"},
-{"hindi": "ओहु जाणै जेतीआ मुहि खाइ ॥"},
-{"hindi": "आपे जाणै आपे देइ ॥"},
-{"hindi": "आखहि सि भि केई केइ ॥"},
-{"hindi": "जिस नो बखसे सिफति सालाह ॥"},
-{"hindi": "नानक पातिसाही पातिसाहु ॥२५॥"},
-{"hindi": "अमुल गुण अमुल वापार ॥"},
-{"hindi": "अमुल वापारीए अमुल भंडार ॥"},
-{"hindi": "अमुल आवहि अमुल लै जाहि ॥"},
-{"hindi": "अमुल भाइ अमुला समाहि ॥"},
-{"hindi": "अमुलु धरमु अमुलु दीबाणु ॥"},
-{"hindi": "अमुलु तुलु अमुलु परवाणु ॥"},
-{"hindi": "अमुलु बखसीस अमुलु नीसाणु ॥"},
-{"hindi": "अमुलु करमु अमुलु फुरमाणु ॥"},
-{"hindi": "अमुलो अमुलु आखिआ न जाइ ॥"},
-{"hindi": "आखि आखि रहे लिव लाइ ॥"},
-{"hindi": "आखहि वेद पाठ पुराण ॥"},
-{"hindi": "आखहि पड़े करहि वखिआण ॥"},
-{"hindi": "आखहि बरमे आखहि इंद ॥"},
-{"hindi": "आखहि गोपी तै गोविंद ॥"},
-{"hindi": "आखहि ईसर आखहि सिध ॥"},
-{"hindi": "आखहि केते कीते बुध ॥"},
-{"hindi": "आखहि दानव आखहि देव ॥"},
-{"hindi": "आखहि सुरि नर मुनि जन सेव ॥"},
-{"hindi": "केते आखहि आखणि पाहि ॥"},
-{"hindi": "केते कहि कहि उठि उठि जाहि ॥"},
-{"hindi": "एते कीते होरि करेहि ॥"},
-{"hindi": "ता आखि न सकहि केई केइ ॥"},
-{"hindi": "जेवडु भावै तेवडु होइ ॥"},
-{"hindi": "नानक जाणै साचा सोइ ॥"},
-{"hindi": "जे को आखै बोलुविगाड़ु ॥"},
-{"hindi": "ता लिखीऐ सिरि गावारा गावारु ॥२६॥"},
-{"hindi": "सो दरु केहा सो घरु केहा जितु बहि सरब समाले ॥"},
-{"hindi": "वाजे नाद अनेक असंखा केते वावणहारे ॥"},
-{"hindi": "केते राग परी सिउ कहीअनि केते गावणहारे ॥"},
-{"hindi": "गावहि तुहनो पउणु पाणी बैसंतरु"},
-{"hindi": "गावै राजा धरमु दुआरे ॥"},
-{"hindi": "गावहि चितु गुपतु लिखि जाणहि लिखि लिखि धरमु वीचारे ॥"},
-{"hindi": "गावहि ईसरु बरमा देवी सोहनि सदा सवारे ॥"},
-{"hindi": "गावहि इंद इदासणि बैठे देवतिआ दरि नाले ॥"},
-{"hindi": "गावहि सिध समाधी अंदरि गावनि साध विचारे ॥"},
-{"hindi": "गावनि जती सती संतोखी गावहि वीर करारे ॥"},
-{"hindi": "गावनि पंडित पड़नि रखीसर जुगु जुगु वेदा नाले ॥"},
-{"hindi": "गावहि मोहणीआ मनु मोहनि सुरगा मछ पइआले ॥"},
-{"hindi": "गावनि रतन उपाए तेरे अठसठि तीरथ नाले ॥"},
-{"hindi": "गावहि जोध महाबल सूरा गावहि खाणी चारे ॥"},
-{"hindi": "गावहि खंड मंडल वरभंडा करि करि रखे धारे ॥"},
-{"hindi": "सेई तुधुनो गावहि जो तुधु भावनि रते तेरे भगत रसाले ॥"},
-{"hindi": "होरि केते गावनि से मै चिति न आवनि नानकु किआ वीचारे ॥"},
-{"hindi": "सोई सोई सदा सचु साहिबु साचा साची नाई ॥"},
-{"hindi": "है भी होसी जाइ न जासी रचना जिनि रचाई ॥"},
-{"hindi": "रंगी रंगी भाती करि करि जिनसी माइआ जिनि उपाई ॥"},
-{"hindi": "करि करि वेखै कीता आपणा जिव तिस दी वडिआई ॥"},
-{"hindi": "जो तिसु भावै सोई करसी हुकमु न करणा जाई ॥"},
-{"hindi": "सो पातिसाहु साहा पातिसाहिबु नानक रहणु रजाई ॥२७॥"},
-{"hindi": "मुँदा संतोखु सरमु पतु झोली धिआन की करहि बिभूति ॥"},
-{"hindi": "खिंथा कालु कुआरी काइआ जुगति डंडा परतीति ॥"},
-{"hindi": "आई पंथी सगल जमाती मनि जीतै जगु जीतु ॥"},
-{"hindi": "आदेसु तिसै आदेसु ॥"},
-{"hindi": "आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥२८॥"},
-{"hindi": "भुगति गिआनु दइआ भंडारणि घटि घटि वाजहि नाद ॥"},
-{"hindi": "आपि नाथु नाथी सभ जा की रिधि सिधि अवरा साद ॥"},
-{"hindi": "संजोगु विजोगु दुइ कार चलावहि लेखे आवहि भाग ॥"},
-{"hindi": "आदेसु तिसै आदेसु ॥"},
-{"hindi": "आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥२९॥"},
-{"hindi": "एका माई जुगति विआई तिनि चेले परवाणु ॥"},
-{"hindi": "इकु संसारी इकु भंडारी इकु लाए दीबाणु ॥"},
-{"hindi": "जिव तिसु भावै तिवै चलावै जिव होवै फुरमाणु ॥"},
-{"hindi": "ओहु वेखै ओना नदरि न आवै बहुता एहु विडाणु ॥"},
-{"hindi": "आदेसु तिसै आदेसु ॥"},
-{"hindi": "आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥३०॥"},
-{"hindi": "आसणु लोइ लोइ भंडार ॥"},
-{"hindi": "जो किछु पाइआ सु एका वार ॥"},
-{"hindi": "करि करि वेखै सिरजणहारु ॥"},
-{"hindi": "नानक सचे की साची कार ॥"},
-{"hindi": "आदेसु तिसै आदेसु ॥"},
-{"hindi": "आदि अनीलु अनादि अनाहति जुगु जुगु एको वेसु ॥३१॥"},
-{"hindi": "इक दू जीभौ लख होहि लख होवहि लख वीस ॥"},
-{"hindi": "लखु लखु गेड़ा आखीअहि एकु नामु जगदीस ॥"},
-{"hindi": "एतु राहि पति पवड़ीआ चड़ीऐ होइ इकीस ॥"},
-{"hindi": "सुणि गला आकास की कीटा आई रीस ॥"},
-{"hindi": "नानक नदरी पाईऐ कूड़ी कूड़ै ठीस ॥३२॥"},
-{"hindi": "आखणि जोरु चुपै नह जोरु ॥"},
-{"hindi": "जोरु न मंगणि देणि न जोरु ॥"},
-{"hindi": "जोरु न जीवणि मरणि नह जोरु ॥"},
-{"hindi": "जोरु न राजि मालि मनि सोरु ॥"},
-{"hindi": "जोरु न सुरती गिआनि वीचारि ॥"},
-{"hindi": "जोरु न जुगती छुटै संसारु ॥"},
-{"hindi": "जिसु हथि जोरु करि वेखै सोइ ॥"},
-{"hindi": "नानक उतमु नीचु न कोइ ॥३३॥"},
-{"hindi": "राती रुती थिती वार ॥"},
-{"hindi": "पवण पाणी अगनी पाताल ॥"},
-{"hindi": "तिसु विचि धरती थापि रखी धरम साल ॥"},
-{"hindi": "तिसु विचि जीअ जुगति के रंग ॥"},
-{"hindi": "तिन के नाम अनेक अनंत ॥"},
-{"hindi": "करमी करमी होइ वीचारु ॥"},
-{"hindi": "सचा आपि सचा दरबारु ॥"},
-{"hindi": "तिथै सोहनि पंच परवाणु ॥"},
-{"hindi": "नदरी करमि पवै नीसाणु ॥"},
-{"hindi": "कच पकाई ओथै पाइ ॥"},
-{"hindi": "नानक गइआ जापै जाइ ॥३४॥"},
-{"hindi": "धरम खंड का एहो धरमु ॥"},
-{"hindi": "गिआन खंड का आखहु करमु ॥"},
-{"hindi": "केते पवण पाणी वैसंतर केते कान महेस ॥"},
-{"hindi": "केते बरमे घाड़ति घड़ीअहि रूप रंग के वेस ॥"},
-{"hindi": "केतीआ करम भूमी मेर केते केते धू उपदेस ॥"},
-{"hindi": "केते इंद चंद सूर केते केते मंडल देस ॥"},
-{"hindi": "केते सिध बुध नाथ केते केते देवी वेस ॥"},
-{"hindi": "केते देव दानव मुनि केते केते रतन समुँद ॥"},
-{"hindi": "केतीआ खाणी केतीआ बाणी केते पात नरिंद ॥"},
-{"hindi": "केतीआ सुरती सेवक केते नानक अंतु न अंतु ॥३५॥"},
-{"hindi": "गिआन खंड महि गिआनु परचंडु ॥"},
-{"hindi": "तिथै नाद बिनोद कोड अनंदु ॥"},
-{"hindi": "सरम खंड की बाणी रूपु ॥"},
-{"hindi": "तिथै घाड़ति घड़ीऐ बहुतु अनूपु ॥"},
-{"hindi": "ता कीआ गला कथीआ ना जाहि ॥"},
-{"hindi": "जे को कहै पिछै पछुताइ ॥"},
-{"hindi": "तिथै घड़ीऐ सुरति मति मनि बुधि ॥"},
-{"hindi": "तिथै घड़ीऐ सुरा सिधा की सुधि ॥३६॥"},
-{"hindi": "करम खंड की बाणी जोरु ॥"},
-{"hindi": "तिथै होरु न कोई होरु ॥"},
-{"hindi": "तिथै जोध महाबल सूर ॥"},
-{"hindi": "तिन महि रामु रहिआ भरपूर ॥"},
-{"hindi": "तिथै सीतो सीता महिमा माहि ॥"},
-{"hindi": "ता के रूप न कथने जाहि ॥"},
-{"hindi": "ना ओहि मरहि न ठागे जाहि ॥"},
-{"hindi": "जिन कै रामु वसै मन माहि ॥"},
-{"hindi": "तिथै भगत वसहि के लोअ ॥"},
-{"hindi": "करहि अनंदु सचा मनि सोइ ॥"},
-{"hindi": "सच खंडि वसै निरंकारु ॥"},
-{"hindi": "करि करि वेखै नदरि निहाल ॥"},
-{"hindi": "तिथै खंड मंडल वरभंड ॥"},
-{"hindi": "जे को कथै त अंत न अंत ॥"},
-{"hindi": "तिथै लोअ लोअ आकार ॥"},
-{"hindi": "जिव जिव हुकमु तिवै तिव कार ॥"},
-{"hindi": "वेखै विगसै करि वीचारु ॥"},
-{"hindi": "नानक कथना करड़ा सारु ॥३७॥"},
-{"hindi": "जतु पाहारा धीरजु सुनिआरु ॥"},
-{"hindi": "अहरणि मति वेदु हथीआरु ॥"},
-{"hindi": "भउ खला अगनि तप ताउ ॥"},
-{"hindi": "भाँडा भाउ अंमृतु तितु ढालि ॥"},
-{"hindi": "घड़ीऐ सबदु सची टकसाल ॥"},
-{"hindi": "जिन कउ नदरि करमु तिन कार ॥"},
-{"hindi": "नानक नदरी नदरि निहाल ॥३८॥"},
-{"hindi": "सलोकु ॥"},
-{"hindi": "पवणु गुरू पाणी पिता माता धरति महतु ॥"},
-{"hindi": "दिवसु राति दुइ दाई दाइआ खेलै सगल जगतु ॥"},
-{"hindi": "चंगिआईआ बुरिआईआ वाचै धरमु हदूरि ॥"},
-{"hindi": "करमी आपो आपणी के नेड़ै के दूरि ॥"},
-{"hindi": "जिनी नामु धिआइआ गए मसकति घालि ॥"},
-{"hindi": "नानक ते मुख उजले केती छुटी नालि ॥१॥"}
-]
+	"japjisahibenglish": [
+{"english": "Japji Sahib"},
+	{"english": "<font color='#FFA500'>ikOankaar</font> <font color='#009900'>sat naam</font> karataa <font color='#009900'>purakh</font>"},
+	{"english": "nirabhau <font color='#FFA500'>niravair</font>"},
+	{"english": "akaal <font color='#009900'>moorat</font> ajoonee <font color='#009900'>saibha(n)</font>"},
+	{"english": "gur prasaadh ||"},
+	{"english": "|| jap ||"},
+	{"english": "aadh <font color='#FFA500'>sach</font> jugaadh sach ||"},
+	{"english": "hai bhee <font color='#FFA500'>sach</font> naanak hosee bhee sach ||1||"},
+{"english": "sochai soch na hoviee je sochee lakh vaar ||"},
+{"english": "chupai chup na hoviee je lai rahaa liv taar ||"},
+{"english": "bhukhiaa bhukh na utaree je ba(n)naa pureeaa bhaar ||"},
+{"english": "sahas siaanapaa lakh hoh ta ik na chalai naal ||"},
+{"english": "kiv sachiaaraa hoieeaai kiv kooRai tuTai paal ||"},
+{"english": "hukam rajaiee chalanaa naanak likhiaa naal ||1||"},
+{"english": "hukamee hovan aakaar hukam na kahiaa jaiee ||"},
+{"english": "hukamee hovan jeea hukam milai vaddiaaiee ||"},
+{"english": "hukamee utam neech hukam likh dhukh sukh paie'eeh ||"},
+{"english": "eikanaa hukamee bakhasees ik hukamee sadhaa bhavaie'eeh ||"},
+{"english": "hukamai a(n)dhar sabh ko baahar hukam na koi ||"},
+{"english": "naanak hukamai je bujhai ta haumai kahai na koi ||2||"},
+{"english": "gaavai ko taan hovai kisai taan ||"},
+{"english": "gaavai ko dhaat jaanai neesaan ||"},
+{"english": "gaavai ko gun vaddiaaieeaa chaar ||"},
+{"english": "gaavai ko vidhiaa vikham veechaar ||"},
+{"english": "gaavai ko saaj kare tan kheh ||"},
+{"english": "gaavai ko jeea lai fir dheh ||"},
+{"english": "gaavai ko jaapai dhisai dhoor ||"},
+{"english": "gaavai ko vekhai haadharaa hadhoor ||"},
+{"english": "kathanaa kathee na aavai toT ||"},
+{"english": "kath kath kathee koTee koT koT ||"},
+{"english": "dhedhaa dhe laidhe thak paeh ||"},
+{"english": "jugaa juga(n)tar khaahee khaeh ||"},
+{"english": "hukamee hukam chalaae raahu ||"},
+{"english": "naanak vigasai veparavaahu ||3||"},
+{"english": "saachaa saahib saach nai bhaakhiaa bhaau apaar ||"},
+{"english": "aakheh ma(n)geh dheh dheh dhaat kare dhaataar ||"},
+{"english": "fer k agai rakheeaai jit dhisai dharabaar ||"},
+{"english": "muhau k bolan boleeaai jit sun dhare piaar ||"},
+{"english": "a(n)mirat velaa sach naau vaddiaaiee veechaar ||"},
+{"english": "karamee aavai kapaRaa nadharee mokh dhuaar ||"},
+{"english": "naanak evai jaaneeaai sabh aape sachiaar ||4||"},
+{"english": "thaapiaa na jai keetaa na hoi ||"},
+{"english": "aape aap nira(n)jan soi ||"},
+{"english": "jin seviaa tin paiaa maan ||"},
+{"english": "naanak gaaveeaai gunee nidhaan ||"},
+{"english": "gaaveeaai suneeaai man rakheeaai bhaau ||"},
+{"english": "dhukh parahar sukh ghar lai jai ||"},
+{"english": "gurmukh naadha(n) gurmukh vedha(n) gurmukh rahiaa samaiee ||"},
+{"english": "gur ieesar gur gorakh baramaa gur paarabatee maiee ||"},
+{"english": "je hau jaanaa aakhaa naahee kahanaa kathan na jaiee ||"},
+{"english": "guraa ik dheh bujhaiee ||"},
+{"english": "sabhanaa jeeaa kaa ik dhaataa so mai visar na jaiee ||5||"},
+{"english": "teerath naavaa je tis bhaavaa vin bhaane k nai karee ||"},
+{"english": "jetee siraTh upaiee vekhaa vin karamaa k milai liee ||"},
+{"english": "mat vich ratan javaahar maanik je ik gur kee sikh sunee ||"},
+{"english": "guraa ik dheh bujhaiee ||"},
+{"english": "sabhanaa jeeaa kaa ik dhaataa so mai visar na jaiee ||6||"},
+{"english": "je jug chaare aarajaa hor dhasoonee hoi ||"},
+{"english": "navaa kha(n)ddaa vich jaaneeaai naal chalai sabh koi ||"},
+{"english": "cha(n)gaa naau rakhai kai jas keerat jag lei ||"},
+{"english": "je tis nadhar na aaviee ta vaat na puchhai ke ||"},
+{"english": "keeTaa a(n)dhar keeT kar dhosee dhos dhare ||"},
+{"english": "naanak niragun gun kare gunava(n)tiaa gun dhe ||"},
+{"english": "tehaa koi na sujhiee j tis gun koi kare ||7||"},
+{"english": "suniaai sidh peer sur naath ||"},
+{"english": "suniaai dharat dhaval aakaas ||"},
+{"english": "suniaai dheep loa paataal ||"},
+{"english": "suniaai poh na sakai kaal ||"},
+{"english": "naanak bhagataa sadhaa vigaas ||"},
+{"english": "suniaai dhookh paap kaa naas ||8||"},
+{"english": "suniaai ieesar baramaa i(n)dh ||"},
+{"english": "suniaai mukh saalaahan ma(n)dh ||"},
+{"english": "suniaai jog jugat tan bhedh ||"},
+{"english": "suniaai saasat simirat vedh ||"},
+{"english": "naanak bhagataa sadhaa vigaas ||"},
+{"english": "suniaai dhookh paap kaa naas ||9||"},
+{"english": "suniaai sat sa(n)tokh giaan ||"},
+{"english": "suniaai aThasaTh kaa isanaan ||"},
+{"english": "suniaai paR paR paaveh maan ||"},
+{"english": "suniaai laagai sahaj dhiaan ||"},
+{"english": "naanak bhagataa sadhaa vigaas ||"},
+{"english": "suniaai dhookh paap kaa naas ||10||"},
+{"english": "suniaai saraa gunaa ke gaeh ||"},
+{"english": "suniaai sekh peer paatisaeh ||"},
+{"english": "suniaai a(n)dhe paaveh raahu ||"},
+{"english": "suniaai haath hovai asagaahu ||"},
+{"english": "naanak bhagataa sadhaa vigaas ||"},
+{"english": "suniaai dhookh paap kaa naas ||11||"},
+{"english": "ma(n)ne kee gat kahee na jai ||"},
+{"english": "je ko kahai pichhai pachhutai ||"},
+{"english": "kaagadh kalam na likhanahaar ||"},
+{"english": "ma(n)ne kaa beh karan veechaar ||"},
+{"english": "aaisaa naam nira(n)jan hoi ||"},
+{"english": "je ko ma(n)n jaanai man koi ||12||"},
+{"english": "ma(n)nai surat hovai man budh ||"},
+{"english": "ma(n)nai sagal bhavan kee sudh ||"},
+{"english": "ma(n)nai muh choTaa naa khai ||"},
+{"english": "ma(n)nai jam kai saath na jai ||"},
+{"english": "aaisaa naam nira(n)jan hoi ||"},
+{"english": "je ko ma(n)n jaanai man koi ||13||"},
+{"english": "ma(n)nai maarag Thaak na pai ||"},
+{"english": "ma(n)nai pat siau paragaT jai ||"},
+{"english": "ma(n)nai mag na chalai pa(n)th ||"},
+{"english": "ma(n)nai dharam setee sanaba(n)dh ||"},
+{"english": "aaisaa naam nira(n)jan hoi ||"},
+{"english": "je ko ma(n)n jaanai man koi ||14||"},
+{"english": "ma(n)nai paaveh mokh dhuaar ||"},
+{"english": "ma(n)nai paravaarai saadhaar ||"},
+{"english": "ma(n)nai tarai taare gur sikh ||"},
+{"english": "ma(n)nai naanak bhaveh na bhikh ||"},
+{"english": "aaisaa naam nira(n)jan hoi ||"},
+{"english": "je ko ma(n)n jaanai man koi ||15||"},
+{"english": "pa(n)ch paravaan pa(n)ch paradhaan ||"},
+{"english": "pa(n)che paaveh dharageh maan ||"},
+{"english": "pa(n)che soheh dhar raajaan ||"},
+{"english": "pa(n)chaa kaa gur ek dhiaan ||"},
+{"english": "je ko kahai karai veechaar ||"},
+{"english": "karate kai karanai naahee sumaar ||"},
+{"english": "dhaual dharam dhiaa kaa poot ||"},
+{"english": "sa(n)tokh thaap rakhiaa jin soot ||"},
+{"english": "je ko bujhai hovai sachiaar ||"},
+{"english": "dhavalai upar ketaa bhaar ||"},
+{"english": "dharatee hor parai hor hor ||"},
+{"english": "tis te bhaar talai kavan jor ||"},
+{"english": "jeea jaat ra(n)gaa ke naav ||"},
+{"english": "sabhanaa likhiaa vuRee kalaam ||"},
+{"english": "eh lekhaa likh jaanai koi ||"},
+{"english": "lekhaa likhiaa ketaa hoi ||"},
+{"english": "ketaa taan suaalih roop ||"},
+{"english": "ketee dhaat jaanai kauan koot ||"},
+{"english": "keetaa pasaau eko kavaau ||"},
+{"english": "tis te hoe lakh dhareeaau ||"},
+{"english": "kudharat kavan kahaa veechaar ||"},
+{"english": "vaariaa na jaavaa ek vaar ||"},
+{"english": "jo tudh bhaavai saiee bhalee kaar ||"},
+{"english": "too sadhaa salaamat nira(n)kaar ||16||"},
+{"english": "asa(n)kh jap asa(n)kh bhaau ||"},
+{"english": "asa(n)kh poojaa asa(n)kh tap taau ||"},
+{"english": "asa(n)kh gara(n)th mukh vedh paaTh ||"},
+{"english": "asa(n)kh jog man raheh udhaas ||"},
+{"english": "asa(n)kh bhagat gun giaan veechaar ||"},
+{"english": "asa(n)kh satee asa(n)kh dhaataar ||"},
+{"english": "asa(n)kh soor muh bhakh saar ||"},
+{"english": "asa(n)kh mon liv lai taar ||"},
+{"english": "kudharat kavan kahaa veechaar ||"},
+{"english": "vaariaa na jaavaa ek vaar ||"},
+{"english": "jo tudh bhaavai saiee bhalee kaar ||"},
+{"english": "too sadhaa salaamat nira(n)kaar ||17||"},
+{"english": "asa(n)kh moorakh a(n)dh ghor ||"},
+{"english": "asa(n)kh chor haraamakhor ||"},
+{"english": "asa(n)kh amar kar jaeh jor ||"},
+{"english": "asa(n)kh galavadd hatiaa kamaeh ||"},
+{"english": "asa(n)kh paapee paap kar jaeh ||"},
+{"english": "asa(n)kh kooRiaar kooRe firaeh ||"},
+{"english": "asa(n)kh malechh mal bhakh khaeh ||"},
+{"english": "asa(n)kh ni(n)dhak sir kareh bhaar ||"},
+{"english": "naanak neech kahai veechaar ||"},
+{"english": "vaariaa na jaavaa ek vaar ||"},
+{"english": "jo tudh bhaavai saiee bhalee kaar ||"},
+{"english": "too sadhaa salaamat nira(n)kaar ||18||"},
+{"english": "asa(n)kh naav asa(n)kh thaav ||"},
+{"english": "aga(n)m aga(n)m asa(n)kh loa ||"},
+{"english": "asa(n)kh kaheh sir bhaar hoi ||"},
+{"english": "akharee naam akharee saalaeh ||"},
+{"english": "akharee giaan geet gun gaeh ||"},
+{"english": "akharee likhan bolan baan ||"},
+{"english": "akharaa sir sa(n)jog vakhaan ||"},
+{"english": "jin eh likhe tis sir naeh ||"},
+{"english": "jiv furamaae tiv tiv paeh ||"},
+{"english": "jetaa keetaa tetaa naau ||"},
+{"english": "vin naavai naahee ko thaau ||"},
+{"english": "kudharat kavan kahaa veechaar ||"},
+{"english": "vaariaa na jaavaa ek vaar ||"},
+{"english": "jo tudh bhaavai saiee bhalee kaar ||"},
+{"english": "too sadhaa salaamat nira(n)kaar ||19||"},
+{"english": "bhareeaai hath pair tan dheh ||"},
+{"english": "paanee dhotai utaras kheh ||"},
+{"english": "moot paleetee kapaR hoi ||"},
+{"english": "dhe saaboon lieeaai oh dhoi ||"},
+{"english": "bhareeaai mat paapaa kai sa(n)g ||"},
+{"english": "oh dhopai naavai kai ra(n)g ||"},
+{"english": "pu(n)nee paapee aakhan naeh ||"},
+{"english": "kar kar karanaa likh lai jaahu ||"},
+{"english": "aape beej aape hee khaahu ||"},
+{"english": "naanak hukamee aavahu jaahu ||20||"},
+{"english": "teerath tap dhiaa dhat dhaan ||"},
+{"english": "je ko paavai til kaa maan ||"},
+{"english": "suniaa ma(n)niaa man keetaa bhaau ||"},
+{"english": "a(n)taragat teerath mal naau ||"},
+{"english": "sabh gun tere mai naahee koi ||"},
+{"english": "vin gun keete bhagat na hoi ||"},
+{"english": "suasat aath baanee baramaau ||"},
+{"english": "sat suhaan sadhaa man chaau ||"},
+{"english": "kavanu su velaa vakhat kavan kavan thit kavan vaar ||"},
+{"english": "kavan s rutee maahu kavan jit hoaa aakaar ||"},
+{"english": "vel na paieeaa pa(n)ddatee j hovai lekh puraan ||"},
+{"english": "vakhat na paio kaadheeaa j likhan lekh kuraan ||"},
+{"english": "thit vaar naa jogee jaanai rut maahu naa koiee ||"},
+{"english": "jaa karataa siraThee kau saaje aape jaanai soiee ||"},
+{"english": "kiv kar aakhaa kiv saalaahee kiau varanee kiv jaanaa ||"},
+{"english": "naanak aakhan sabh ko aakhai ik dhoo ik siaanaa ||"},
+{"english": "vaddaa saahib vaddee naiee keetaa jaa kaa hovai ||"},
+{"english": "naanak je ko aapau jaanai agai giaa na sohai ||21||"},
+{"english": "paataalaa paataal lakh aagaasaa aagaas ||"},
+{"english": "oRak oRak bhaal thake vedh kahan ik vaat ||"},
+{"english": "sahas aThaareh kahan katebaa asuloo ik dhaat ||"},
+{"english": "lekhaa hoi ta likheeaai lekhai hoi vinaas ||"},
+{"english": "naanak vaddaa aakheeaai aape jaanai aap ||22||"},
+{"english": "saalaahee saalaeh etee surat na paieeaa ||"},
+{"english": "nadheeaa atai vaeh paveh samu(n)dh na jaane'eeh ||"},
+{"english": "samu(n)dh saeh sulataan girahaa setee maal dhan ||"},
+{"english": "keeRee tul na hovanee je tis manahu na veesareh ||23||"},
+{"english": "a(n)t na sifatee kahan na a(n)t ||"},
+{"english": "a(n)t na karanai dhen na a(n)t ||"},
+{"english": "a(n)t na vekhan sunan na a(n)t ||"},
+{"english": "a(n)t na jaapai kiaa man ma(n)t ||"},
+{"english": "a(n)t na jaapai keetaa aakaar ||"},
+{"english": "a(n)t na jaapai paaraavaar ||"},
+{"english": "a(n)t kaaran kete bilalaeh ||"},
+{"english": "taa ke a(n)t na paae jaeh ||"},
+{"english": "eh a(n)t na jaanai koi ||"},
+{"english": "bahutaa kaheeaai bahutaa hoi ||"},
+{"english": "vaddaa saahib uoochaa thaau ||"},
+{"english": "uooche upar uoochaa naau ||"},
+{"english": "evadd uoochaa hovai koi ||"},
+{"english": "tis uooche kau jaanai soi ||"},
+{"english": "jevadd aap jaanai aap aap ||"},
+{"english": "naanak nadharee karamee dhaat ||24||"},
+{"english": "bahutaa karam likhiaa naa jai ||"},
+{"english": "vaddaa dhaataa til na tamai ||"},
+{"english": "kete ma(n)geh jodh apaar ||"},
+{"english": "ketiaa ganat nahee veechaar ||"},
+{"english": "kete khap tuTeh vekaar ||"},
+{"english": "kete lai lai mukar paeh ||"},
+{"english": "kete moorakh khaahee khaeh ||"},
+{"english": "ketiaa dhookh bhookh sadh maar ||"},
+{"english": "eh bh dhaat teree dhaataar ||"},
+{"english": "ba(n)dh khalaasee bhaanai hoi ||"},
+{"english": "hor aakh na sakai koi ||"},
+{"english": "je ko khaik aakhan pai ||"},
+{"english": "oh jaanai jeteeaa muh khai ||"},
+{"english": "aape jaanai aape dhei ||"},
+{"english": "aakheh s bh keiee kei ||"},
+{"english": "jis no bakhase sifat saalaeh ||"},
+{"english": "naanak paatisaahee paatisaahu ||25||"},
+{"english": "amul gun amul vaapaar ||"},
+{"english": "amul vaapaare'e amul bha(n)ddaar ||"},
+{"english": "amul aaveh amul lai jaeh ||"},
+{"english": "amul bhai amulaa samaeh ||"},
+{"english": "amul dharam amul dheebaan ||"},
+{"english": "amul tul amul paravaan ||"},
+{"english": "amul bakhasees amul neesaan ||"},
+{"english": "amul karam amul furamaan ||"},
+{"english": "amulo amul aakhiaa na jai ||"},
+{"english": "aakh aakh rahe liv lai ||"},
+{"english": "aakheh vedh paaTh puraan ||"},
+{"english": "aakheh paRe kareh vakhiaan ||"},
+{"english": "aakheh barame aakheh i(n)dh ||"},
+{"english": "aakheh gopee tai govi(n)dh ||"},
+{"english": "aakheh ieesar aakheh sidh ||"},
+{"english": "aakheh kete keete budh ||"},
+{"english": "aakheh dhaanav aakheh dhev ||"},
+{"english": "aakheh sur nar mun jan sev ||"},
+{"english": "kete aakheh aakhan paeh ||"},
+{"english": "kete keh keh uTh uTh jaeh ||"},
+{"english": "ete keete hor kareh ||"},
+{"english": "taa aakh na sakeh keiee kei ||"},
+{"english": "jevadd bhaavai tevadd hoi ||"},
+{"english": "naanak jaanai saachaa soi ||"},
+{"english": "je ko aakhai boluvigaaR ||"},
+{"english": "taa likheeaai sir gaavaaraa gaavaar ||26||"},
+{"english": "so dhar kehaa so ghar kehaa jit beh sarab samaale ||"},
+{"english": "vaaje naadh anek asa(n)khaa kete vaavanahaare ||"},
+{"english": "kete raag paree siau kaheean kete gaavanahaare ||"},
+{"english": "gaaveh tuhano paun paanee baisa(n)tar"},
+{"english": "gaavai raajaa dharam dhuaare ||"},
+{"english": "gaaveh chit gupat likh jaaneh likh likh dharam veechaare ||"},
+{"english": "gaaveh ieesar baramaa dhevee sohan sadhaa savaare ||"},
+{"english": "gaaveh i(n)dh idhaasan baiThe dhevatiaa dhar naale ||"},
+{"english": "gaaveh sidh samaadhee a(n)dhar gaavan saadh vichaare ||"},
+{"english": "gaavan jatee satee sa(n)tokhee gaaveh veer karaare ||"},
+{"english": "gaavan pa(n)ddit paRan rakheesar jug jug vedhaa naale ||"},
+{"english": "gaaveh mohaneeaa man mohan suragaa machh piaale ||"},
+{"english": "gaavan ratan upaae tere aThasaTh teerath naale ||"},
+{"english": "gaaveh jodh mahaabal sooraa gaaveh khaanee chaare ||"},
+{"english": "gaaveh kha(n)dd ma(n)ddal varabha(n)ddaa kar kar rakhe dhaare ||"},
+{"english": "seiee tudhuno gaaveh jo tudh bhaavan rate tere bhagat rasaale ||"},
+{"english": "hor kete gaavan se mai chit na aavan naanak kiaa veechaare ||"},
+{"english": "soiee soiee sadhaa sach saahib saachaa saachee naiee ||"},
+{"english": "hai bhee hosee jai na jaasee rachanaa jin rachaiee ||"},
+{"english": "ra(n)gee ra(n)gee bhaatee kar kar jinasee maiaa jin upaiee ||"},
+{"english": "kar kar vekhai keetaa aapanaa jiv tis dhee vaddiaaiee ||"},
+{"english": "jo tis bhaavai soiee karasee hukam na karanaa jaiee ||"},
+{"english": "so paatisaahu saahaa paatisaahib naanak rahan rajaiee ||27||"},
+{"english": "mu(n)dhaa sa(n)tokh saram pat jholee dhiaan kee kareh bibhoot ||"},
+{"english": "khi(n)thaa kaal kuaaree kaiaa jugat dda(n)ddaa parateet ||"},
+{"english": "aaiee pa(n)thee sagal jamaatee man jeetai jag jeet ||"},
+{"english": "aadhes tisai aadhes ||"},
+{"english": "aadh aneel anaadh anaahat jug jug eko ves ||28||"},
+{"english": "bhugat giaan dhiaa bha(n)ddaaran ghaT ghaT vaajeh naadh ||"},
+{"english": "aap naath naathee sabh jaa kee ridh sidh avaraa saadh ||"},
+{"english": "sa(n)jog vijog dhui kaar chalaaveh lekhe aaveh bhaag ||"},
+{"english": "aadhes tisai aadhes ||"},
+{"english": "aadh aneel anaadh anaahat jug jug eko ves ||29||"},
+{"english": "ekaa maiee jugat viaaiee tin chele paravaan ||"},
+{"english": "eik sa(n)saaree ik bha(n)ddaaree ik laae dheebaan ||"},
+{"english": "jiv tis bhaavai tivai chalaavai jiv hovai furamaan ||"},
+{"english": "oh vekhai onaa nadhar na aavai bahutaa eh viddaan ||"},
+{"english": "aadhes tisai aadhes ||"},
+{"english": "aadh aneel anaadh anaahat jug jug eko ves ||30||"},
+{"english": "aasan loi loi bha(n)ddaar ||"},
+{"english": "jo kichh paiaa su ekaa vaar ||"},
+{"english": "kar kar vekhai sirajanahaar ||"},
+{"english": "naanak sache kee saachee kaar ||"},
+{"english": "aadhes tisai aadhes ||"},
+{"english": "aadh aneel anaadh anaahat jug jug eko ves ||31||"},
+{"english": "eik dhoo jeebhau lakh hoh lakh hoveh lakh vees ||"},
+{"english": "lakh lakh geRaa aakhe'eeh ek naam jagadhees ||"},
+{"english": "et raeh pat pavaReeaa chaReeaai hoi ikees ||"},
+{"english": "sun galaa aakaas kee keeTaa aaiee rees ||"},
+{"english": "naanak nadharee paieeaai kooRee kooRai Thees ||32||"},
+{"english": "aakhan jor chupai neh jor ||"},
+{"english": "jor na ma(n)gan dhen na jor ||"},
+{"english": "jor na jeevan maran neh jor ||"},
+{"english": "jor na raaj maal man sor ||"},
+{"english": "jor na suratee giaan veechaar ||"},
+{"english": "jor na jugatee chhuTai sa(n)saar ||"},
+{"english": "jis hath jor kar vekhai soi ||"},
+{"english": "naanak utam neech na koi ||33||"},
+{"english": "raatee rutee thitee vaar ||"},
+{"english": "pavan paanee aganee paataal ||"},
+{"english": "tis vich dharatee thaap rakhee dharam saal ||"},
+{"english": "tis vich jeea jugat ke ra(n)g ||"},
+{"english": "tin ke naam anek ana(n)t ||"},
+{"english": "karamee karamee hoi veechaar ||"},
+{"english": "sachaa aap sachaa dharabaar ||"},
+{"english": "tithai sohan pa(n)ch paravaan ||"},
+{"english": "nadharee karam pavai neesaan ||"},
+{"english": "kach pakaiee othai pai ||"},
+{"english": "naanak giaa jaapai jai ||34||"},
+{"english": "dharam kha(n)dd kaa eho dharam ||"},
+{"english": "giaan kha(n)dd kaa aakhahu karam ||"},
+{"english": "kete pavan paanee vaisa(n)tar kete kaan mahes ||"},
+{"english": "kete barame ghaaRat ghaRe'eh roop ra(n)g ke ves ||"},
+{"english": "keteeaa karam bhoomee mer kete kete dhoo upadhes ||"},
+{"english": "kete i(n)dh cha(n)dh soor kete kete ma(n)ddal dhes ||"},
+{"english": "kete sidh budh naath kete kete dhevee ves ||"},
+{"english": "kete dhev dhaanav mun kete kete ratan samu(n)dh ||"},
+{"english": "keteeaa khaanee keteeaa baanee kete paat nari(n)dh ||"},
+{"english": "keteeaa suratee sevak kete naanak a(n)t na a(n)t ||35||"},
+{"english": "giaan kha(n)dd meh giaan paracha(n)dd ||"},
+{"english": "tithai naadh binodh kodd ana(n)dh ||"},
+{"english": "saram kha(n)dd kee baanee roop ||"},
+{"english": "tithai ghaaRat ghaReeaai bahut anoop ||"},
+{"english": "taa keeaa galaa katheeaa naa jaeh ||"},
+{"english": "je ko kahai pichhai pachhutai ||"},
+{"english": "tithai ghaReeaai surat mat man budh ||"},
+{"english": "tithai ghaReeaai suraa sidhaa kee sudh ||36||"},
+{"english": "karam kha(n)dd kee baanee jor ||"},
+{"english": "tithai hor na koiee hor ||"},
+{"english": "tithai jodh mahaabal soor ||"},
+{"english": "tin meh raam rahiaa bharapoor ||"},
+{"english": "tithai seeto seetaa mahimaa maeh ||"},
+{"english": "taa ke roop na kathane jaeh ||"},
+{"english": "naa oh mareh na Thaage jaeh ||"},
+{"english": "jin kai raam vasai man maeh ||"},
+{"english": "tithai bhagat vaseh ke loa ||"},
+{"english": "kareh ana(n)dh sachaa man soi ||"},
+{"english": "sach kha(n)dd vasai nira(n)kaar ||"},
+{"english": "kar kar vekhai nadhar nihaal ||"},
+{"english": "tithai kha(n)dd ma(n)ddal varabha(n)dd ||"},
+{"english": "je ko kathai ta a(n)t na a(n)t ||"},
+{"english": "tithai loa loa aakaar ||"},
+{"english": "jiv jiv hukam tivai tiv kaar ||"},
+{"english": "vekhai vigasai kar veechaar ||"},
+{"english": "naanak kathanaa karaRaa saar ||37||"},
+{"english": "jat paahaaraa dheeraj suniaar ||"},
+{"english": "aharan mat vedh hatheeaar ||"},
+{"english": "bhau khalaa agan tap taau ||"},
+{"english": "bhaa(n)ddaa bhaau a(n)mrit tit ddaal ||"},
+{"english": "ghaReeaai sabadh sachee Takasaal ||"},
+{"english": "jin kau nadhar karam tin kaar ||"},
+{"english": "naanak nadharee nadhar nihaal ||38||"},
+{"english": "salok ||"},
+{"english": "pavan guroo paanee pitaa maataa dharat mahat ||"},
+{"english": "dhivas raat dhui dhaiee dhaiaa khelai sagal jagat ||"},
+{"english": "cha(n)giaaieeaa buriaaieeaa vaachai dharam hadhoor ||"},
+{"english": "karamee aapo aapanee ke neRai ke dhoor ||"},
+{"english": "jinee naam dhiaaiaa ge masakat ghaal ||"},
+{"english": "naanak te mukh ujale ketee chhuTee naal ||1||"}
+],
+	"japjisahibgurmukhi": [{
+			"gurmukhi": "jpu jI swihb"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>&lt;&gt; </font> <font color='#009900'>siqnwmu </font> krqw <font color='#009900'>purKu</font>"
+		},
+		{
+			"gurmukhi": "inrBau <font color='#FFA500'>inrvYru</font>"
+		},
+		{
+			"gurmukhi": "Akwl <font color='#009900'>mUriq </font> AjUnI <font color='#009900'>sYBM </font>"
+		},
+		{
+			"gurmukhi": "gurpRswid ]"
+		},
+		{
+			"gurmukhi": "]jpu ]"
+		},
+		{
+			"gurmukhi": "Awid <font color='#FFA500'>scu</font> jugwid scu ]"
+		},
+		{
+			"gurmukhi": "hY BI <font color='#FFA500'>scu</font> nwnk hosI BI scu ]1]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>socY </font> soic n <font color='#FFA500'>hoveI </font> jy socI lK vwr ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>cupY </font> cuip n <font color='#FFA500'>hoveI </font> jy lwie rhw ilv qwr ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>BuiKAw </font> BuK n <font color='#FFA500'>auqrI </font> jy bMnw purIAw Bwr ]"
+		},
+		{
+			"gurmukhi": "shs isAwxpw lK <font color='#FFA500'>hoih </font> q iek n clY nwil ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>ikv </font> sicAwrw <font color='#FFA500'>hoeIAY </font><font color='#009900'>ikv </font> kUVY qutY pwil ]"
+		},
+		{
+			"gurmukhi": "hukim rjweI <font color='#FFA500'>clxw </font><font color='#009900'>nwnk </font> iliKAw nwil ]1]"
+		},
+		{
+			"gurmukhi": "hukmI hovin <font color='#FFA500'>Awkwr </font> hukmu n kihAw jweI ]"
+		},
+		{
+			"gurmukhi": "hukmI hovin <font color='#FFA500'>jIA </font> hukim imlY vifAweI ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>hukmI </font> auqmu <font color='#FFA500'>nIcu </font> hukim <font color='#009900'>iliK </font> duK suK pweIAih ]"
+		},
+		{
+			"gurmukhi": "ieknw hukmI <font color='#FFA500'>bKsIs </font> ieik hukmI sdw BvweIAih ]"
+		},
+		{
+			"gurmukhi": "hukmY AMdir sBu <font color='#FFA500'>ko </font> bwhir hukm n koie ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font> hukmY jy <font color='#FFA500'>buJY </font> q haumY khY n koie ]2]"
+		},
+		{
+			"gurmukhi": "gwvY ko <font color='#FFA500'>qwxu </font> hovY iksY qwxu ]"
+		},
+		{
+			"gurmukhi": "gwvY ko <font color='#FFA500'>dwiq </font> jwxY nIswxu ]"
+		},
+		{
+			"gurmukhi": "gwvY <font color='#FFA500'>ko </font> gux vifAweIAw cwr ]"
+		},
+		{
+			"gurmukhi": "gwvY <font color='#FFA500'>ko </font> ividAw ivKmu vIcwru ]"
+		},
+		{
+			"gurmukhi": "gwvY <font color='#FFA500'>ko </font> swij kry qnu Kyh ]"
+		},
+		{
+			"gurmukhi": "gwvY <font color='#FFA500'>ko </font> jIA lY iPir dyh ]"
+		},
+		{
+			"gurmukhi": "gwvY <font color='#FFA500'>ko </font> jwpY idsY dUir ]"
+		},
+		{
+			"gurmukhi": "gwvY <font color='#FFA500'>ko </font> vyKY hwdrw hdUir ]"
+		},
+		{
+			"gurmukhi": "kQnw <font color='#FFA500'>kQI </font> n AwvY qoit ]"
+		},
+		{
+			"gurmukhi": "kiQ kiQ <font color='#FFA500'>kQI </font> kotI koit koit ]"
+		},
+		{
+			"gurmukhi": "dydw <font color='#FFA500'>dy </font> lYdy Qik pwih ]"
+		},
+		{
+			"gurmukhi": "jugw <font color='#FFA500'>jugMqir </font> KwhI Kwih ]"
+		},
+		{
+			"gurmukhi": "hukmI <font color='#FFA500'>hukmu </font> clwey rwhu ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font> ivgsY vyprvwhu ]3]"
+		},
+		{
+			"gurmukhi": "swcw <font color='#009900'>swihbu </font> swcu <font color='#FFA500'>nwie </font> BwiKAw Bwau Apwru ]"
+		},
+		{
+			"gurmukhi": "AwKih <font color='#009900'>mMgih </font> dyih <font color='#FFA500'>dyih </font> dwiq kry dwqwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>Pyir </font> ik AgY <font color='#FFA500'>rKIAY </font> ijqu idsY drbwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>muhO </font> ik bolxu <font color='#FFA500'>bolIAY </font> ijqu suix Dry ipAwru ]"
+		},
+		{
+			"gurmukhi": "AMimRq vylw scu <font color='#FFA500'>nwau </font> vifAweI vIcwru ]"
+		},
+		{
+			"gurmukhi": "krmI AwvY <font color='#FFA500'>kpVw </font> ndrI moKu duAwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font> eyvY <font color='#FFA500'>jwxIAY </font> sBu Awpy sicAwru ]4]"
+		},
+		{
+			"gurmukhi": "QwipAw n <font color='#FFA500'>jwie </font> kIqw n hoie ]"
+		},
+		{
+			"gurmukhi": "Awpy <font color='#FFA500'>Awip </font> inrMjnu soie ]"
+		},
+		{
+			"gurmukhi": "ijin <font color='#FFA500'>syivAw </font> iqin pwieAw mwnu ]"
+		},
+		{
+			"gurmukhi": "nwnk <font color='#FFA500'>gwvIAY </font> guxI inDwnu ]"
+		},
+		{
+			"gurmukhi": "gwvIAY <font color='#FFA500'>suxIAY </font> min rKIAY Bwau ]"
+		},
+		{
+			"gurmukhi": "duKu <font color='#FFA500'>prhir </font> suKu Gir lY jwie ]"
+		},
+		{
+			"gurmukhi": "gurmuiK <font color='#009900'>nwdM </font> gurmuiK <font color='#FFA500'>vydM </font> gurmuiK rihAw smweI ]"
+		},
+		{
+			"gurmukhi": "guru <font color='#009900'>eIsru </font> guru <font color='#009900'>gorKu </font> brmw <font color='#FFA500'>guru </font> pwrbqI mweI ]"
+		},
+		{
+			"gurmukhi": "jy hau <font color='#009900'>jwxw </font> AwKw <font color='#FFA500'>nwhI </font> khxw kQnu n jweI ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>gurw </font> iek dyih buJweI ]"
+		},
+		{
+			"gurmukhi": "sBnw jIAw kw ieku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jweI ]5]"
+		},
+		{
+			"gurmukhi": "qIriQ <font color='#009900'>nwvw </font> jy iqsu <font color='#FFA500'>Bwvw </font> ivxu <font color='#009900'>Bwxy </font> ik nwie krI ]"
+		},
+		{
+			"gurmukhi": "jyqI isriT aupweI <font color='#FFA500'>vyKw </font> ivxu <font color='#009900'>krmw </font> ik imlY leI ]"
+		},
+		{
+			"gurmukhi": "miq ivic rqn jvwhr <font color='#FFA500'>mwixk </font> jy <font color='#009900'>iek </font> gur kI isK suxI ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>gurw </font> iek dyih buJweI ]"
+		},
+		{
+			"gurmukhi": "sBnw jIAw kw ieku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jweI ]6]"
+		},
+		{
+			"gurmukhi": "jy jug cwry <font color='#FFA500'>Awrjw </font> hor dsUxI hoie ]"
+		},
+		{
+			"gurmukhi": "nvw KMfw ivic <font color='#FFA500'>jwxIAY </font> nwil clY sBu koie ]"
+		},
+		{
+			"gurmukhi": "cMgw nwau rKwie <font color='#FFA500'>kY </font> jsu kIriq jig lyie ]"
+		},
+		{
+			"gurmukhi": "jy iqsu ndir n <font color='#FFA500'>AwveI </font> q vwq n puCY ky ]"
+		},
+		{
+			"gurmukhi": "kItw AMdir kItu <font color='#FFA500'>kir </font> dosI dosu Dry ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font> inrguix guxu <font color='#FFA500'>kry </font> guxvMiqAw guxu dy ]"
+		},
+		{
+			"gurmukhi": "qyhw koie n <font color='#FFA500'>suJeI </font> ij iqsu guxu koie kry ]7]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> isD pIr suir nwQ ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> Driq Dvl Awkws ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> dIp loA pwqwl ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> poih n skY kwlu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]8]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> eIsru brmw ieMdu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> muiK swlwhx mMdu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> jog jugiq qin Byd ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> swsq isimRiq vyd ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]9]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> squ sMqoKu igAwnu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> ATsiT kw iesnwnu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> piV piV pwvih mwnu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> lwgY shij iDAwnu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]10]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> srw guxw ky gwh ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> syK pIr pwiqswh ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> AMDy pwvih rwhu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> hwQ hovY Asgwhu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>suixAY </font> dUK pwp kw nwsu ]11]"
+		},
+		{
+			"gurmukhi": "mMny kI <font color='#FFA500'>giq </font> khI n jwie ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwie ]"
+		},
+		{
+			"gurmukhi": "kwgid <font color='#FFA500'>klm </font> n ilKxhwru ]"
+		},
+		{
+			"gurmukhi": "mMny <font color='#FFA500'>kw </font> bih krin vIcwru ]"
+		},
+		{
+			"gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+		},
+		{
+			"gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]12]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> suriq hovY min buiD ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> sgl Bvx kI suiD ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> muih cotw nw Kwie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> jm kY swiQ n jwie ]"
+		},
+		{
+			"gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+		},
+		{
+			"gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]13]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> mwrig Twk n pwie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> piq isau prgtu jwie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> mgu n clY pMQu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> Drm syqI snbMDu ]"
+		},
+		{
+			"gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+		},
+		{
+			"gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]14]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> pwvih moKu duAwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> prvwrY swDwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font> qrY qwry guruisK ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>mMnY </font><font color='#009900'>nwnk </font> Bvih n iBK ]"
+		},
+		{
+			"gurmukhi": "AYsw <font color='#FFA500'>nwmu </font> inrMjnu hoie ]"
+		},
+		{
+			"gurmukhi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koie ]15]"
+		},
+		{
+			"gurmukhi": "pMc <font color='#FFA500'>prvwx </font> pMc prDwnu ]"
+		},
+		{
+			"gurmukhi": "pMcy <font color='#FFA500'>pwvih </font> drgih mwnu ]"
+		},
+		{
+			"gurmukhi": "pMcy <font color='#FFA500'>sohih </font> dir rwjwnu ]"
+		},
+		{
+			"gurmukhi": "pMcw <font color='#FFA500'>kw </font> guru eyku iDAwnu ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>khY </font> krY vIcwru ]"
+		},
+		{
+			"gurmukhi": "krqy kY <font color='#FFA500'>krxY </font> nwhI sumwru ]"
+		},
+		{
+			"gurmukhi": "DOlu <font color='#FFA500'>Drmu </font> dieAw kw pUqu ]"
+		},
+		{
+			"gurmukhi": "sMqoKu Qwip <font color='#FFA500'>riKAw </font> ijin sUiq ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>buJY </font> hovY sicAwru ]"
+		},
+		{
+			"gurmukhi": "DvlY <font color='#FFA500'>aupir </font> kyqw Bwru ]"
+		},
+		{
+			"gurmukhi": "DrqI horu <font color='#FFA500'>prY </font> horu horu ]"
+		},
+		{
+			"gurmukhi": "iqs qy Bwru <font color='#FFA500'>qlY </font> kvxu joru ]"
+		},
+		{
+			"gurmukhi": "jIA <font color='#FFA500'>jwiq </font> rMgw ky nwv ]"
+		},
+		{
+			"gurmukhi": "sBnw <font color='#FFA500'>iliKAw </font> vuVI klwm ]"
+		},
+		{
+			"gurmukhi": "eyhu <font color='#FFA500'>lyKw </font> iliK jwxY koie ]"
+		},
+		{
+			"gurmukhi": "lyKw <font color='#FFA500'>iliKAw </font> kyqw hoie ]"
+		},
+		{
+			"gurmukhi": "kyqw <font color='#FFA500'>qwxu </font> suAwilhu rUpu ]"
+		},
+		{
+			"gurmukhi": "kyqI <font color='#FFA500'>dwiq </font> jwxY kOxu kUqu ]"
+		},
+		{
+			"gurmukhi": "kIqw <font color='#FFA500'>pswau </font> eyko kvwau ]"
+		},
+		{
+			"gurmukhi": "iqs qy <font color='#FFA500'>hoey </font> lK drIAwau ]"
+		},
+		{
+			"gurmukhi": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
+		},
+		{
+			"gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+		},
+		{
+			"gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+		},
+		{
+			"gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]16]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>jp </font> AsMK Bwau ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>pUjw </font> AsMK qp qwau ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>grMQ </font> muiK vyd pwT ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>jog </font> min rhih audws ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>Bgq </font> gux igAwn vIcwr ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>sqI </font> AsMK dwqwr ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>sUr </font> muh BK swr ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>moin </font> ilv lwie qwr ]"
+		},
+		{
+			"gurmukhi": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
+		},
+		{
+			"gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+		},
+		{
+			"gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+		},
+		{
+			"gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]17]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>mUrK </font> AMD Gor ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>cor </font> hrwmKor ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>Amr </font> kir jwih jor ]"
+		},
+		{
+			"gurmukhi": "AsMK gl <font color='#FFA500'> vF </font> hiqAw kmwih ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>pwpI </font> pwpu kir jwih ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>kUiVAwr </font> kUVy iPrwih ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>mlyC </font> mlu BiK Kwih ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>inMdk </font> isir krih Bwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnku </font> nIcu khY vIcwru ]"
+		},
+		{
+			"gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+		},
+		{
+			"gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+		},
+		{
+			"gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]18]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>nwv </font> AsMK Qwv ]"
+		},
+		{
+			"gurmukhi": "AgMm <font color='#FFA500'>AgMm </font> AsMK loA ]"
+		},
+		{
+			"gurmukhi": "AsMK <font color='#FFA500'>khih </font> isir Bwru hoie ]"
+		},
+		{
+			"gurmukhi": "AKrI <font color='#FFA500'>nwmu </font> AKrI swlwh ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>AKrI </font> igAwnu gIq gux gwh ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>AKrI </font> ilKxu bolxu bwix ]"
+		},
+		{
+			"gurmukhi": "AKrw <font color='#FFA500'>isir </font> sMjogu vKwix ]"
+		},
+		{
+			"gurmukhi": "ijin eyih <font color='#FFA500'>ilKy </font> iqsu isir nwih ]"
+		},
+		{
+			"gurmukhi": "ijv <font color='#FFA500'>Purmwey </font> iqv iqv pwih ]"
+		},
+		{
+			"gurmukhi": "jyqw <font color='#FFA500'>kIqw </font> qyqw nwau ]"
+		},
+		{
+			"gurmukhi": "ivxu <font color='#FFA500'>nwvY </font> nwhI ko Qwau ]"
+		},
+		{
+			"gurmukhi": "kudriq <font color='#FFA500'>kvx </font> khw vIcwru ]"
+		},
+		{
+			"gurmukhi": "vwirAw n <font color='#FFA500'>jwvw </font> eyk vwr ]"
+		},
+		{
+			"gurmukhi": "jo quDu <font color='#FFA500'>BwvY </font> sweI BlI kwr ]"
+		},
+		{
+			"gurmukhi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]19]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>BrIAY </font> hQu pYru qnu dyh ]"
+		},
+		{
+			"gurmukhi": "pwxI <font color='#FFA500'>DoqY </font> auqr su Kyh ]"
+		},
+		{
+			"gurmukhi": "mUq <font color='#FFA500'>plIqI </font> kpVu hoie ]"
+		},
+		{
+			"gurmukhi": "dy <font color='#FFA500'>swbUxu </font> leIAY Ehu Doie ]"
+		},
+		{
+			"gurmukhi": "BrIAY <font color='#FFA500'>miq </font> pwpw kY sMig ]"
+		},
+		{
+			"gurmukhi": "Ehu <font color='#FFA500'>DopY </font> nwvY kY rMig ]"
+		},
+		{
+			"gurmukhi": "puMnI <font color='#FFA500'>pwpI </font> AwKxu nwih ]"
+		},
+		{
+			"gurmukhi": "kir kir <font color='#FFA500'>krxw </font> iliK lY jwhu ]"
+		},
+		{
+			"gurmukhi": "Awpy <font color='#FFA500'>bIij </font> Awpy hI Kwhu ]"
+		},
+		{
+			"gurmukhi": "nwnk <font color='#FFA500'>hukmI </font> Awvhu jwhu ]20]"
+		},
+		{
+			"gurmukhi": "qIrQu <font color='#FFA500'>qpu </font> dieAw dqu dwnu ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>pwvY </font> iql kw mwnu ]"
+		},
+		{
+			"gurmukhi": "suixAw <font color='#FFA500'>mMinAw </font> min kIqw Bwau ]"
+		},
+		{
+			"gurmukhi": "AMqrgiq <font color='#FFA500'>qIriQ </font> mil nwau ]"
+		},
+		{
+			"gurmukhi": "siB gux <font color='#FFA500'>qyry </font> mY nwhI koie ]"
+		},
+		{
+			"gurmukhi": "ivxu gux <font color='#FFA500'>kIqy </font> Bgiq n hoie ]"
+		},
+		{
+			"gurmukhi": "suAsiq <font color='#FFA500'>AwiQ </font> bwxI brmwau ]"
+		},
+		{
+			"gurmukhi": "siq <font color='#FFA500'>suhwxu </font> sdw min cwau ]"
+		},
+		{
+			"gurmukhi": "kvxu su <font color='#009900'>vylw </font> vKqu <font color='#FFA500'>kvxu </font> kvx <font color='#009900'>iQiq </font> kvxu vwru ]"
+		},
+		{
+			"gurmukhi": "kvix is <font color='#FFA500'>ruqI </font> mwhu <font color='#009900'>kvxu </font> ijqu hoAw Awkwru ]"
+		},
+		{
+			"gurmukhi": "vyl n pweIAw <font color='#FFA500'>pMfqI </font> ij hovY lyKu purwxu ]"
+		},
+		{
+			"gurmukhi": "vKqu n pwieE <font color='#FFA500'>kwdIAw </font> ij ilKin lyKu kurwxu ]"
+		},
+		{
+			"gurmukhi": "iQiq vwru nw jogI <font color='#FFA500'>jwxY </font> ruiq mwhu nw koeI ]"
+		},
+		{
+			"gurmukhi": "jw krqw isrTI kau <font color='#FFA500'>swjy </font> Awpy jwxY soeI ]"
+		},
+		{
+			"gurmukhi": "ikv kir <font color='#009900'>AwKw </font> ikv <font color='#FFA500'>swlwhI </font> ikau <font color='#009900'>vrnI </font> ikv jwxw ]"
+		},
+		{
+			"gurmukhi": "nwnk <font color='#009900'>AwKix </font> sBu ko <font color='#FFA500'>AwKY </font> iekdU <font color='#009900'>ieku </font> isAwxw ]"
+		},
+		{
+			"gurmukhi": "vfw <font color='#009900'>swihbu </font> vfI <font color='#FFA500'>nweI </font> kIqw jw kw hovY ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font> jy ko AwpO <font color='#FFA500'>jwxY </font> AgY gieAw n sohY ]21]"
+		},
+		{
+			"gurmukhi": "pwqwlw pwqwl <font color='#FFA500'>lK </font> Awgwsw Awgws ]"
+		},
+		{
+			"gurmukhi": "EVk EVk Bwil <font color='#FFA500'>Qky </font> vyd khin iek vwq ]"
+		},
+		{
+			"gurmukhi": "shs ATwrh khin <font color='#FFA500'>kqybw </font> AsulU <font color='#009900'>ieku </font> Dwqu ]"
+		},
+		{
+			"gurmukhi": "lyKw hoie q <font color='#FFA500'>ilKIAY </font> lyKY hoie ivxwsu ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font> vfw <font color='#FFA500'>AwKIAY </font> Awpy jwxY Awpu ]22]"
+		},
+		{
+			"gurmukhi": "swlwhI <font color='#FFA500'>swlwih </font> eyqI suriq n pweIAw ]"
+		},
+		{
+			"gurmukhi": "ndIAw AqY <font color='#FFA500'>vwh </font> pvih <font color='#009900'>smuMid </font> n jwxIAih ]"
+		},
+		{
+			"gurmukhi": "smuMd swh <font color='#FFA500'>sulqwn </font> igrhw syqI mwlu Dnu ]"
+		},
+		{
+			"gurmukhi": "kIVI quil n <font color='#FFA500'>hovnI </font> jy iqsu mnhu n vIsrih ]23]"
+		},
+		{
+			"gurmukhi": "AMqu n <font color='#FFA500'>isPqI </font> khix n AMqu ]"
+		},
+		{
+			"gurmukhi": "AMqu n <font color='#FFA500'>krxY </font> dyix n AMqu ]"
+		},
+		{
+			"gurmukhi": "AMqu n <font color='#FFA500'>vyKix </font> suxix n AMqu ]"
+		},
+		{
+			"gurmukhi": "AMqu n <font color='#FFA500'>jwpY </font> ikAw min mMqu ]"
+		},
+		{
+			"gurmukhi": "AMqu n <font color='#FFA500'>jwpY </font> kIqw Awkwru ]"
+		},
+		{
+			"gurmukhi": "AMqu n <font color='#FFA500'>jwpY </font> pwrwvwru ]"
+		},
+		{
+			"gurmukhi": "AMq <font color='#FFA500'>kwrix </font> kyqy ibllwih ]"
+		},
+		{
+			"gurmukhi": "qw ky <font color='#FFA500'>AMq </font> n pwey jwih ]"
+		},
+		{
+			"gurmukhi": "eyhu <font color='#FFA500'>AMqu </font> n jwxY koie ]"
+		},
+		{
+			"gurmukhi": "bhuqw <font color='#FFA500'>khIAY </font> bhuqw hoie ]"
+		},
+		{
+			"gurmukhi": "vfw <font color='#FFA500'>swihbu </font> aUcw Qwau ]"
+		},
+		{
+			"gurmukhi": "aUcy <font color='#FFA500'>aupir </font> aUcw nwau ]"
+		},
+		{
+			"gurmukhi": "eyvfu <font color='#FFA500'>aUcw </font> hovY koie ]"
+		},
+		{
+			"gurmukhi": "iqsu aUcy <font color='#FFA500'>kau </font> jwxY soie ]"
+		},
+		{
+			"gurmukhi": "jyvfu <font color='#FFA500'>Awip </font> jwxY Awip Awip ]"
+		},
+		{
+			"gurmukhi": "nwnk <font color='#FFA500'>ndrI </font> krmI dwiq ]24]"
+		},
+		{
+			"gurmukhi": "bhuqw <font color='#FFA500'>krmu </font> iliKAw nw jwie ]"
+		},
+		{
+			"gurmukhi": "vfw <font color='#FFA500'>dwqw </font> iqlu n qmwie ]"
+		},
+		{
+			"gurmukhi": "kyqy <font color='#FFA500'>mMgih </font> joD Apwr ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>kyiqAw </font> gxq nhI vIcwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>kyqy </font> Kip qutih vykwr ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>kyqy </font> lY lY mukru pwih ]"
+		},
+		{
+			"gurmukhi": "kyqy <font color='#FFA500'>mUrK </font> KwhI Kwih ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>kyiqAw </font> dUK BUK sd mwr ]"
+		},
+		{
+			"gurmukhi": "eyih iB dwiq <font color='#FFA500'>qyrI </font> dwqwr ]"
+		},
+		{
+			"gurmukhi": "bMid <font color='#FFA500'>KlwsI </font> BwxY hoie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>horu </font> AwiK n skY koie ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>Kwieku </font> AwKix pwie ]"
+		},
+		{
+			"gurmukhi": "Ehu <font color='#FFA500'>jwxY </font> jyqIAw muih Kwie ]"
+		},
+		{
+			"gurmukhi": "Awpy <font color='#FFA500'>jwxY </font> Awpy dyie ]"
+		},
+		{
+			"gurmukhi": "AwKih <font color='#FFA500'>is </font> iB kyeI kyie ]"
+		},
+		{
+			"gurmukhi": "ijsno <font color='#FFA500'>bKsy </font> isPiq swlwh ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> pwiqswhI pwiqswhu ]25]"
+		},
+		{
+			"gurmukhi": "Amul <font color='#FFA500'>gux </font> Amul vwpwr ]"
+		},
+		{
+			"gurmukhi": "Amul <font color='#FFA500'>vwpwrIey </font> Amul BMfwr ]"
+		},
+		{
+			"gurmukhi": "Amul <font color='#FFA500'>Awvih </font> Amul lY jwih ]"
+		},
+		{
+			"gurmukhi": "Amul <font color='#FFA500'>Bwie </font> Amulw smwih ]"
+		},
+		{
+			"gurmukhi": "Amulu <font color='#FFA500'>Drmu </font> Amulu dIbwxu ]"
+		},
+		{
+			"gurmukhi": "Amulu <font color='#FFA500'>qulu </font> Amulu prvwxu ]"
+		},
+		{
+			"gurmukhi": "Amulu <font color='#FFA500'>bKsIs </font> Amulu nIswxu ]"
+		},
+		{
+			"gurmukhi": "Amulu <font color='#FFA500'>krmu </font> Amulu Purmwxu ]"
+		},
+		{
+			"gurmukhi": "Amulo <font color='#FFA500'>Amulu </font> AwiKAw n jwie ]"
+		},
+		{
+			"gurmukhi": "AwiK <font color='#FFA500'>AwiK </font> rhy ilv lwie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>AwKih </font> vyd pwT purwx ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>AwKih </font> pVy krih viKAwx ]"
+		},
+		{
+			"gurmukhi": "AwKih <font color='#FFA500'>brmy </font> AwKih ieMd ]"
+		},
+		{
+			"gurmukhi": "AwKih <font color='#FFA500'>gopI </font> qY goivMd ]"
+		},
+		{
+			"gurmukhi": "AwKih <font color='#FFA500'>eIsr </font> AwKih isD ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>AwKih </font> kyqy kIqy buD ]"
+		},
+		{
+			"gurmukhi": "AwKih <font color='#FFA500'>dwnv </font> AwKih dyv ]"
+		},
+		{
+			"gurmukhi": "AwKih suir <font color='#FFA500'>nr </font> muin jn syv ]"
+		},
+		{
+			"gurmukhi": "kyqy <font color='#FFA500'>AwKih </font> AwKix pwih ]"
+		},
+		{
+			"gurmukhi": "kyqy kih <font color='#FFA500'>kih </font> auiT auiT jwih ]"
+		},
+		{
+			"gurmukhi": "eyqy <font color='#FFA500'>kIqy </font> hoir kryih ]"
+		},
+		{
+			"gurmukhi": "qw AwiK n <font color='#FFA500'>skih </font> kyeI kyie ]"
+		},
+		{
+			"gurmukhi": "jyvfu <font color='#FFA500'>BwvY </font> qyvfu hoie ]"
+		},
+		{
+			"gurmukhi": "nwnk <font color='#FFA500'>jwxY </font> swcw soie ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>AwKY </font> bolu ivgwVu ]"
+		},
+		{
+			"gurmukhi": "qw <font color='#FFA500'>ilKIAY </font> isir gwvwrw gwvwru ]26]"
+		},
+		{
+			"gurmukhi": "so dru <font color='#009900'>kyhw </font> so Gru <font color='#FFA500'>kyhw </font> ijqu <font color='#009900'>bih </font> srb smwly ]"
+		},
+		{
+			"gurmukhi": "vwjy nwd Anyk <font color='#FFA500'>AsMKw </font> kyqy vwvxhwry ]"
+		},
+		{
+			"gurmukhi": "kyqy rwg prI isau <font color='#FFA500'>khIAin </font> kyqy gwvxhwry ]"
+		},
+		{
+			"gurmukhi": "gwvih <font color='#009900'>quhno </font> pauxu pwxI <font color='#FFA500'>bYsMqru </font>"
+		},
+		{
+			"gurmukhi": "gwvY rwjwDrmu duAwry ]"
+		},
+		{
+			"gurmukhi": "gwvih icqu <font color='#009900'>gupqu </font> iliK <font color='#FFA500'>jwxih </font> iliK iliK Drmu vIcwry ]"
+		},
+		{
+			"gurmukhi": "gwvih eIsru brmw <font color='#FFA500'>dyvI </font> sohin sdw svwry ]"
+		},
+		{
+			"gurmukhi": "gwvih <font color='#009900'>ieMd </font> iedwsix <font color='#FFA500'>bYTy </font> dyviqAw dir nwly ]"
+		},
+		{
+			"gurmukhi": "gwvih <font color='#009900'>isD </font> smwDI <font color='#FFA500'>AMdir </font> gwvin swD ivcwry ]"
+		},
+		{
+			"gurmukhi": "gwvin jqI sqI <font color='#FFA500'>sMqoKI </font> gwvih vIr krwry ]"
+		},
+		{
+			"gurmukhi": "gwvin pMifq pVin <font color='#FFA500'>rKIsr </font> jugu jugu vydw nwly ]"
+		},
+		{
+			"gurmukhi": "gwvih mohxIAw mnu <font color='#FFA500'>mohin </font> surgw mC pieAwly ]"
+		},
+		{
+			"gurmukhi": "gwvin rqn aupwey <font color='#FFA500'>qyry </font> ATsiT qIrQ nwly ]"
+		},
+		{
+			"gurmukhi": "gwvih joD mhwbl <font color='#FFA500'>sUrw </font> gwvih KwxI cwry ]"
+		},
+		{
+			"gurmukhi": "gwvih KMf mMfl <font color='#FFA500'>vrBMfw </font> kir kir rKy Dwry ]"
+		},
+		{
+			"gurmukhi": "syeI quDuno <font color='#009900'>gwvih </font> jo quDu <font color='#FFA500'>Bwvin </font> rqy qyry Bgq rswly ]"
+		},
+		{
+			"gurmukhi": "hoir kyqy <font color='#009900'>gwvin </font> sy mY iciq n <font color='#FFA500'>Awvin </font> nwnku ikAw vIcwry ]"
+		},
+		{
+			"gurmukhi": "soeI soeI sdw scu <font color='#FFA500'>swihbu </font> swcw swcI nweI ]"
+		},
+		{
+			"gurmukhi": "hY BI <font color='#009900'>hosI </font> jwie n <font color='#FFA500'>jwsI </font> rcnw ijin rcweI ]"
+		},
+		{
+			"gurmukhi": "rMgI rMgI <font color='#009900'>BwqI </font> kir kir <font color='#FFA500'>ijnsI </font> mwieAw ijin aupweI ]"
+		},
+		{
+			"gurmukhi": "kir kir <font color='#009900'>vyKY </font> kIqw <font color='#FFA500'>Awpxw </font> ijv iqs dI vifAweI ]"
+		},
+		{
+			"gurmukhi": "jo iqsu BwvY soeI <font color='#FFA500'>krsI </font> hukmu n krxw jweI ]"
+		},
+		{
+			"gurmukhi": "so pwiqswhu swhw <font color='#FFA500'>pwiqswihbu </font> nwnk rhxu rjweI ]27]"
+		},
+		{
+			"gurmukhi": "muMdw <font color='#009900'>sMqoKu </font> srmu pqu <font color='#FFA500'>JolI </font> iDAwn kI krih ibBUiq ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>iKMQw </font> kwlu kuAwrI <font color='#FFA500'>kwieAw </font> jugiq fMfw prqIiq ]"
+		},
+		{
+			"gurmukhi": "AweI pMQI sgl <font color='#FFA500'>jmwqI </font> min jIqY jgu jIqu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"gurmukhi":"Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu eyko vysu ]28]"
+		},
+		{
+			"gurmukhi": "Bugiq <font color='#009900'>igAwnu </font> dieAw <font color='#FFA500'>BMfwrix </font> Git Git vwjih nwd ]"
+		},
+		{
+			"gurmukhi": "Awip <font color='#009900'>nwQu </font> nwQI sB jw <font color='#FFA500'>kI </font> iriD isiD Avrw swd ]"
+		},
+		{
+			"gurmukhi": "sMjogu ivjogu <font color='#009900'>duie </font> kwr <font color='#FFA500'>clwvih </font> lyKy Awvih Bwg ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"gurmukhi": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu eyko vysu ]29]"
+		},
+		{
+			"gurmukhi": "eykw <font color='#009900'>mweI </font> jugiq <font color='#FFA500'>ivAweI </font> iqin cyly prvwxu ]"
+		},
+		{
+			"gurmukhi": "ieku <font color='#009900'>sMswrI </font> ieku <font color='#FFA500'>BMfwrI </font><font color='#009900'>ieku </font> lwey dI bwxu ]"
+		},
+		{
+			"gurmukhi": "ijv iqsu <font color='#009900'>BwvY </font> iqvY <font color='#FFA500'>clwvY </font> ijv hovY Purmwxu ]"
+		},
+		{
+			"gurmukhi": "Ehu <font color='#009900'>vyKY </font> Enw ndir n <font color='#FFA500'>AwvY </font> bhuqw eyhu ivfwxu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"gurmukhi":" Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu eyko vysu ]30]"
+		},
+		{
+			"gurmukhi": "Awsxu loie <font color='#FFA500'>loie </font> BMfwr ]"
+		},
+		{
+			"gurmukhi": "jo ikCu <font color='#FFA500'>pwieAw </font> su eykw vwr ]"
+		},
+		{
+			"gurmukhi": "kir kir <font color='#FFA500'>vyKY </font> isrjxhwru ]"
+		},
+		{
+			"gurmukhi": "nwnk scy <font color='#FFA500'>kI </font> swcI kwr ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"gurmukhi": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu eyko vysu ]31]"
+		},
+		{
+			"gurmukhi": "iekdU jIBO lK <font color='#FFA500'>hoih </font> lK hovih lK vIs ] "
+		},
+		{
+
+			"gurmukhi":"lKu lKu gyVw <font color='#FFA500'>AwKIAih </font> eyku nwmu jgdIs ]"
+		},
+		{
+			"gurmukhi": "eyqu rwih piq <font color='#FFA500'>pvVIAw </font> cVIAY hoie iekIs ]"
+		},
+		{
+			"gurmukhi": "suix glw Awkws <font color='#FFA500'>kI </font> kItw AweI rIs ]"
+		},
+		{
+			"gurmukhi": "nwnk ndrI <font color='#FFA500'>pweIAY </font><font color='#009900'>kUVI </font> kUVY TIs ]32]"
+		},
+		{
+			"gurmukhi": " AwKix <font color='#FFA500'>joru </font> cupY nh joru ]"
+		},
+		{
+			"gurmukhi": "joru n <font color='#FFA500'>mMgix </font> dyix n joru ]"
+		},
+		{
+			"gurmukhi": "joru n <font color='#FFA500'>jIvix </font> mrix nh joru ]"
+		},
+		{
+			"gurmukhi": "joru <font color='#009900'>n </font> rwij <font color='#FFA500'>mwil </font> min soru ]"
+		},
+		{
+			"gurmukhi": "joru n <font color='#FFA500'>surqI </font> igAwin vIcwir ]"
+		},
+		{
+			"gurmukhi": "joru n <font color='#FFA500'>jugqI </font> CutY sMswru ]"
+		},
+		{
+			"gurmukhi": "ijsu hiQ <font color='#FFA500'>joru </font> kir vyKY soie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> auqmu nIcu n koie ]33]"
+		},
+		{
+			"gurmukhi": "rwqI <font color='#FFA500'>ruqI </font> iQqI vwr ]"
+		},
+		{
+			"gurmukhi": "pvx <font color='#FFA500'>pwxI </font> AgnI pwqwl ]"
+		},
+		{
+			"gurmukhi": "iqsu <font color='#009900'>ivic </font> DrqI Qwip <font color='#FFA500'>rKI </font> Drmswl ]"
+		},
+		{
+			"gurmukhi": "iqsu <font color='#FFA500'>ivic </font> jIA jugiq ky rMg ]"
+		},
+		{
+			"gurmukhi": "iqn ky <font color='#FFA500'>nwm </font> Anyk AnMq ]"
+		},
+		{
+			"gurmukhi": "krmI <font color='#FFA500'>krmI </font> hoie vIcwru ]"
+		},
+		{
+			"gurmukhi": "scw <font color='#FFA500'>Awip </font> scw drbwru ]"
+		},
+		{
+			"gurmukhi": "iqQY <font color='#FFA500'>sohin </font> pMc prvwxu ]"
+		},
+		{
+			"gurmukhi": "ndrI <font color='#FFA500'>krim </font> pvY nIswxu ]"
+		},
+		{
+			"gurmukhi": "kc <font color='#FFA500'>pkweI </font> EQY pwie ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>nwnk </font> gieAw jwpY jwie ]34]"
+		},
+		{
+			"gurmukhi": "Drm KMf <font color='#FFA500'>kw </font> eyho Drmu ]"
+		},
+		{
+			"gurmukhi": "igAwn KMf <font color='#FFA500'>kw </font> AwKhu krmu ]"
+		},
+		{
+			"gurmukhi": "kyqy pvx pwxI <font color='#FFA500'>vYsMqr </font> kyqy kwn mhys ]"
+		},
+		{
+			"gurmukhi": "kyqy brmy GwViq <font color='#FFA500'>GVIAih </font> rUp rMg ky vys ]"
+		},
+		{
+			"gurmukhi": "kyqIAw <font color='#009900'>krmBUmI </font> myr <font color='#FFA500'>kyqy </font> kyqy <font color='#009900'>DU </font> aupdys ]"
+		},
+		{
+			"gurmukhi": "kyqy ieMd <font color='#009900'>cMd </font> sUr <font color='#FFA500'>kyqy </font> kyqy mMfl dys ]"
+		},
+		{
+			"gurmukhi": "kyqy isD <font color='#009900'>buD </font> nwQ <font color='#FFA500'>kyqy </font> kyqy dyvI vys ]"
+		},
+		{
+			"gurmukhi": "kyqy dyv dwnv muin <font color='#FFA500'>kyqy </font> kyqy rqn smuMd ]"
+		},
+		{
+			"gurmukhi": "kyqIAw <font color='#009900'>KwxI </font> kyqIAw <font color='#FFA500'>bwxI </font> kyqy pwq nirMd ]"
+		},
+		{
+			"gurmukhi": "kyqIAw <font color='#009900'>surqI </font> syvk <font color='#FFA500'>kyqy </font><font color='#009900'>nwnk </font> AMqu <font color='#009900'>n </font> AMqu ]35]"
+		},
+		{
+			"gurmukhi": "igAwn KMf <font color='#FFA500'>mih </font> igAwnu prcMfu ]"
+		},
+		{
+			"gurmukhi": "iqQY nwd <font color='#FFA500'>ibnod </font> kof AnMdu ]"
+		},
+		{
+			"gurmukhi": "srm KMf <font color='#FFA500'>kI </font> bwxI rUpu ]"
+		},
+		{
+			"gurmukhi": "iqQY GwViq <font color='#FFA500'>GVIAY </font> bhuqu AnUpu ]"
+		},
+		{
+			"gurmukhi": "qw kIAw <font color='#FFA500'>glw </font> kQIAw nw jwih ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwie ]"
+		},
+		{
+			"gurmukhi": "iqQY <font color='#FFA500'>GVIAY </font> suriq miq min buiD ]"
+		},
+		{
+			"gurmukhi": "iqQY <font color='#FFA500'>GVIAY </font> surw isDw kI suiD ]36]"
+		},
+		{
+			"gurmukhi": "krm KMf <font color='#FFA500'>kI </font> bwxI joru ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>iqQY </font> horu n koeI horu ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>iqQY </font> joD mhwbl sUr ]"
+		},
+		{
+			"gurmukhi": "iqn <font color='#FFA500'>mih </font> rwmu rihAw BrpUr ]"
+		},
+		{
+			"gurmukhi": "<font color='#FFA500'>iqQY </font> sIqo sIqw mihmw mwih ]"
+		},
+		{
+			"gurmukhi": "qw ky <font color='#FFA500'>rUp </font> n kQny jwih ]"
+		},
+		{
+			"gurmukhi": "nw Eih <font color='#FFA500'>mrih </font> n Twgy jwih ]"
+		},
+		{
+			"gurmukhi": "ijn <font color='#FFA500'>kY </font> rwmu vsY mn mwih ]"
+		},
+		{
+			"gurmukhi": "iqQY Bgq <font color='#FFA500'>vsih </font> ky loA ]"
+		},
+		{
+			"gurmukhi": "krih <font color='#FFA500'>AnMdu </font> scw min soie ]"
+		},
+		{
+			"gurmukhi": "scKMif <font color='#FFA500'>vsY </font> inrMkwru ]"
+		},
+		{
+			"gurmukhi": "kir kir <font color='#FFA500'>vyKY </font> ndir inhwl ]"
+		},
+		{
+			"gurmukhi": "iqQY KMf <font color='#FFA500'>mMfl </font> vrBMf ]"
+		},
+		{
+			"gurmukhi": "jy ko <font color='#FFA500'>kQY </font> q AMq <font color='#009900'>n </font> AMq ]"
+		},
+		{
+			"gurmukhi": "iqQY loA <font color='#FFA500'>loA </font> Awkwr ]"
+		},
+		{
+			"gurmukhi": "ijv ijv <font color='#FFA500'>hukmu </font> iqvY iqv kwr ]"
+		},
+		{
+			"gurmukhi": "vyKY <font color='#FFA500'>ivgsY </font> kir vIcwru ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font><font color='#FFA500'>kQnw </font> krVw swru ]37]"
+		},
+		{
+			"gurmukhi": "jqu <font color='#FFA500'>pwhwrw </font> DIrju suinAwru ]"
+		},
+		{
+			"gurmukhi": "Ahrix <font color='#FFA500'>miq </font> vydu hQIAwru ]"
+		},
+		{
+			"gurmukhi": "Bau <font color='#FFA500'>Klw </font> Agin qp qwau ]"
+		},
+		{
+			"gurmukhi": "BWfw <font color='#FFA500'>Bwau </font> AMimRqu iqqu Fwil ]"
+		},
+		{
+			"gurmukhi": "GVIAY <font color='#FFA500'>sbdu </font> scI tkswl ]"
+		},
+		{
+			"gurmukhi": "ijn kau ndir <font color='#FFA500'>krmu </font> iqn kwr ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk </font><font color='#FFA500'>ndrI </font> ndir inhwl ]38]"
+		},
+		{
+			"gurmukhi": "sloku ]"
+		},
+		{
+			"gurmukhi": "pvxu <font color='#009900'>gurU</font> pwxI <font color='#FFA500'>ipqw</font> mwqw Driq mhqu ]"
+		},
+		{
+			"gurmukhi": "idvsu rwiq <font color='#009900'>duie</font> dweI <font color='#FFA500'>dwieAw</font> KylY sgl jgqu ]"
+		},
+		{
+			"gurmukhi": "cMigAweIAw <font color='#FFA500'>buirAweIAw</font> vwcY Drmu hdUir ]"
+		},
+		{
+			"gurmukhi": "krmI Awpo <font color='#FFA500'>AwpxI</font> ky nyVY ky dUir ]"
+		},
+		{
+			"gurmukhi": "ijnI nwmu <font color='#FFA500'>iDAwieAw</font> gey mskiq Gwil ]"
+		},
+		{
+			"gurmukhi": "<font color='#009900'>nwnk</font> qy muK <font color='#FFA500'>aujly</font> kyqI CutI nwil ]1]  "
+		}
+	],
+  "JapjiSahibHindi": [{
+			"Hindi": "jpu jI swihb"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>&lt; </font> <font color='#009900'>siqnwmu </font> krqw <font color='#009900'>purKu</font>"
+		},
+		{
+			"Hindi": "inrBa <font color='#FFA500'>inrvY{</font>"
+		},
+		{
+			"Hindi": "Akwl <font color='#009900'>mUriq </font> AjUnI <font color='#009900'>sYBM </font>"
+		},
+		{
+			"Hindi": "gurpRswid ]"
+		},
+		{
+			"Hindi": "]jpu ]"
+		},
+		{
+			"Hindi": "Awid <font color='#FFA500'>scu</font> jugwid scu ]"
+		},
+		{
+			"Hindi": "hY BI <font color='#FFA500'>scu</font> nwnk hosI BI scu ]1]"
+		},
+		{
+			"Hindi": "<font color='#009900'>socY </font> soic n <font color='#FFA500'>hove&eacute; </font> jy socI lK vwr ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>cupY </font> cuip n <font color='#FFA500'>hove&eacute; </font> jy lwe rhw ilv qwr ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>BuiKAw </font> BuK n <font color='#FFA500'>aqrI </font> jy bMnw purIAw Bwr ]"
+		},
+		{
+			"Hindi": "shs isAwxpw lK <font color='#FFA500'>hoih </font> q ek n clY nwil ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>ikv </font> sicAwrw <font color='#FFA500'>hoe&eacute;Ey </font><font color='#009900'>ikv </font> kUVY qutY pwil ]"
+		},
+		{
+			"Hindi": "hukim rjwe&eacute; <font color='#FFA500'>clxw </font><font color='#009900'>nwnk </font> iliKAw nwil ]1]"
+		},
+		{
+			"Hindi": "hukmI hovin <font color='#FFA500'>Awkwr </font> hukmu n kihAw jwe&eacute; ]"
+		},
+		{
+			"Hindi": "hukmI hovin <font color='#FFA500'>jIA </font> hukim imlY vifAwe&eacute; ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>hukmI </font> aqmu <font color='#FFA500'>nIcu </font> hukim <font color='#009900'>iliK </font> duK suK pwe&eacute;Aih ]"
+		},
+		{
+			"Hindi": "eknw hukmI <font color='#FFA500'>bKsIs </font> eik hukmI sdw Bvwe&eacute;Aih ]"
+		},
+		{
+			"Hindi": "hukmY AMdir sBu <font color='#FFA500'>ko </font> bwhir hukm n koe ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font> hukmY jy <font color='#FFA500'>buJY </font> q hamY khY n koe ]2]"
+		},
+		{
+			"Hindi": "gwvY ko <font color='#FFA500'>qwxu </font> hovY iksY qwxu ]"
+		},
+		{
+			"Hindi": "gwvY ko <font color='#FFA500'>dwiq </font> jwxY nIswxu ]"
+		},
+		{
+			"Hindi": "gwvY <font color='#FFA500'>ko </font> gux vifAwe&eacute;Aw cwr ]"
+		},
+		{
+			"Hindi": "gwvY <font color='#FFA500'>ko </font> ividAw ivKmu vIcw{ ]"
+		},
+		{
+			"Hindi": "gwvY <font color='#FFA500'>ko </font> swij kry qnu Kyh ]"
+		},
+		{
+			"Hindi": "gwvY <font color='#FFA500'>ko </font> jIA lY iPir dyh ]"
+		},
+		{
+			"Hindi": "gwvY <font color='#FFA500'>ko </font> jwpY idsY dUir ]"
+		},
+		{
+			"Hindi": "gwvY <font color='#FFA500'>ko </font> vyKY hwdrw hdUir ]"
+		},
+		{
+			"Hindi": "kQnw <font color='#FFA500'>kQI </font> n AwvY qoit ]"
+		},
+		{
+			"Hindi": "kiQ kiQ <font color='#FFA500'>kQI </font> kotI koit koit ]"
+		},
+		{
+			"Hindi": "dydw <font color='#FFA500'>dy </font> lYdy Qik pwih ]"
+		},
+		{
+			"Hindi": "jugw <font color='#FFA500'>jugMqir </font> KwhI Kwih ]"
+		},
+		{
+			"Hindi": "hukmI <font color='#FFA500'>hukmu </font> clwE rwhu ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font> ivgsY vyprvwhu ]3]"
+		},
+		{
+			"Hindi": "swcw <font color='#009900'>swihbu </font> swcu <font color='#FFA500'>nwe </font> BwiKAw Bwa Apw{ ]"
+		},
+		{
+			"Hindi": "AwKih <font color='#009900'>mMgih </font> dyih <font color='#FFA500'>dyih </font> dwiq kry dwqw{ ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>Pyir </font> ik AgY <font color='#FFA500'>rKIEy </font> ijqu idsY drbw{ ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>muhO </font> ik bolxu <font color='#FFA500'>bolIEy </font> ijqu suix Dry ipAw{ ]"
+		},
+		{
+			"Hindi": "AMimRq vylw scu <font color='#FFA500'>nwa </font> vifAwe&eacute; vIcw{ ]"
+		},
+		{
+			"Hindi": "krmI AwvY <font color='#FFA500'>kpVw </font> ndrI moKu duAw{ ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font> EvY <font color='#FFA500'>jwxIEy </font> sBu Awpy sicAw{ ]4]"
+		},
+		{
+			"Hindi": "QwipAw n <font color='#FFA500'>jwe </font> kIqw n hoe ]"
+		},
+		{
+			"Hindi": "Awpy <font color='#FFA500'>Awip </font> inrMjnu soe ]"
+		},
+		{
+			"Hindi": "ijin <font color='#FFA500'>syivAw </font> iqin pweAw mwnu ]"
+		},
+		{
+			"Hindi": "nwnk <font color='#FFA500'>gwvIEy </font> guxI inDwnu ]"
+		},
+		{
+			"Hindi": "gwvIEy <font color='#FFA500'>suxIEy </font> min rKIEy Bwa ]"
+		},
+		{
+			"Hindi": "duKu <font color='#FFA500'>prhir </font> suKu Gir lY jwe ]"
+		},
+		{
+			"Hindi": "gurmuiK <font color='#009900'>nwdM </font> gurmuiK <font color='#FFA500'>vydM </font> gurmuiK rihAw smwe&eacute; ]"
+		},
+		{
+			"Hindi": "gu{ <font color='#009900'>e&eacute;s{ </font> gu{ <font color='#009900'>gorKu </font> brmw <font color='#FFA500'>gu{ </font> pwrbqI mwe&eacute; ]"
+		},
+		{
+			"Hindi": "jy ha <font color='#009900'>jwxw </font> AwKw <font color='#FFA500'>nwhI </font> khxw kQnu n jwe&eacute; ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>gurw </font> ek dyih buJwe&eacute; ]"
+		},
+		{
+			"Hindi": "sBnw jIAw kw eku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jwe&eacute; ]5]"
+		},
+		{
+			"Hindi": "qIriQ <font color='#009900'>nwvw </font> jy iqsu <font color='#FFA500'>Bwvw </font> ivxu <font color='#009900'>Bwxy </font> ik nwe krI ]"
+		},
+		{
+			"Hindi": "jyqI isriT apwe&eacute; <font color='#FFA500'>vyKw </font> ivxu <font color='#009900'>krmw </font> ik imlY le&eacute; ]"
+		},
+		{
+			"Hindi": "miq ivic rqn jvwhr <font color='#FFA500'>mwixk </font> jy <font color='#009900'>ek </font> gur kI isK suxI ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>gurw </font> ek dyih buJwe&eacute; ]"
+		},
+		{
+			"Hindi": "sBnw jIAw kw eku <font color='#FFA500'>dwqw </font> so <font color='#009900'>mY </font> ivsir n jwe&eacute; ]6]"
+		},
+		{
+			"Hindi": "jy jug cwry <font color='#FFA500'>Awrjw </font> hor dsUxI hoe ]"
+		},
+		{
+			"Hindi": "nvw KMfw ivic <font color='#FFA500'>jwxIEy </font> nwil clY sBu koe ]"
+		},
+		{
+			"Hindi": "cMgw nwa rKwe <font color='#FFA500'>kY </font> jsu kIriq jig lye ]"
+		},
+		{
+			"Hindi": "jy iqsu ndir n <font color='#FFA500'>Awve&eacute; </font> q vwq n puCY ky ]"
+		},
+		{
+			"Hindi": "kItw AMdir kItu <font color='#FFA500'>kir </font> dosI dosu Dry ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font> inrguix guxu <font color='#FFA500'>kry </font> guxvMiqAw guxu dy ]"
+		},
+		{
+			"Hindi": "qyhw koe n <font color='#FFA500'>suJe&eacute; </font> ij iqsu guxu koe kry ]7]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> isD pIr suir nwQ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> Driq Dvl Awkws ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> dIp loA pwqwl ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> poih n skY kwlu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> dUK pwp kw nwsu ]8]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> e&eacute;s{ brmw eMdu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> muiK swlwhx mMdu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> jog jugiq qin Byd ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> swsq isimRiq vyd ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> dUK pwp kw nwsu ]9]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> squ sMqoKu igAwnu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> ATsiT kw esnwnu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> piV piV pwvih mwnu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> lwgY shij iDAwnu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> dUK pwp kw nwsu ]10]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> srw guxw ky gwh ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> syK pIr pwiqswh ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> AMDy pwvih rwhu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> hwQ hovY Asgwhu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> Bgqw sdw ivgwsu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>suixEy </font> dUK pwp kw nwsu ]11]"
+		},
+		{
+			"Hindi": "mMny kI <font color='#FFA500'>giq </font> khI n jwe ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwe ]"
+		},
+		{
+			"Hindi": "kwgid <font color='#FFA500'>klm </font> n ilKxhw{ ]"
+		},
+		{
+			"Hindi": "mMny <font color='#FFA500'>kw </font> bih krin vIcw{ ]"
+		},
+		{
+			"Hindi": "Eysw <font color='#FFA500'>nwmu </font> inrMjnu hoe ]"
+		},
+		{
+			"Hindi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koe ]12]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> suriq hovY min buiD ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> sgl Bvx kI suiD ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> muih cotw nw Kwe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> jm kY swiQ n jwe ]"
+		},
+		{
+			"Hindi": "Eysw <font color='#FFA500'>nwmu </font> inrMjnu hoe ]"
+		},
+		{
+			"Hindi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koe ]13]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> mwrig Twk n pwe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> piq isa prgtu jwe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> mgu n clY pMQu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> Drm syqI snbMDu ]"
+		},
+		{
+			"Hindi": "Eysw <font color='#FFA500'>nwmu </font> inrMjnu hoe ]"
+		},
+		{
+			"Hindi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koe ]14]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> pwvih moKu duAw{ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> prvwrY swDw{ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font> qrY qwry gu{isK ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>mMnY </font><font color='#009900'>nwnk </font> Bvih n iBK ]"
+		},
+		{
+			"Hindi": "Eysw <font color='#FFA500'>nwmu </font> inrMjnu hoe ]"
+		},
+		{
+			"Hindi": "jy ko mMin <font color='#FFA500'>jwxY </font> min koe ]15]"
+		},
+		{
+			"Hindi": "pMc <font color='#FFA500'>prvwx </font> pMc prDwnu ]"
+		},
+		{
+			"Hindi": "pMcy <font color='#FFA500'>pwvih </font> drgih mwnu ]"
+		},
+		{
+			"Hindi": "pMcy <font color='#FFA500'>sohih </font> dir rwjwnu ]"
+		},
+		{
+			"Hindi": "pMcw <font color='#FFA500'>kw </font> gu{ Eku iDAwnu ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>khY </font> krY vIcw{ ]"
+		},
+		{
+			"Hindi": "krqy kY <font color='#FFA500'>krxY </font> nwhI sumw{ ]"
+		},
+		{
+			"Hindi": "DOlu <font color='#FFA500'>Drmu </font> deAw kw pUqu ]"
+		},
+		{
+			"Hindi": "sMqoKu Qwip <font color='#FFA500'>riKAw </font> ijin sUiq ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>buJY </font> hovY sicAw{ ]"
+		},
+		{
+			"Hindi": "DvlY <font color='#FFA500'>apir </font> kyqw Bw{ ]"
+		},
+		{
+			"Hindi": "DrqI ho{ <font color='#FFA500'>prY </font> ho{ ho{ ]"
+		},
+		{
+			"Hindi": "iqs qy Bw{ <font color='#FFA500'>qlY </font> kvxu jo{ ]"
+		},
+		{
+			"Hindi": "jIA <font color='#FFA500'>jwiq </font> rMgw ky nwv ]"
+		},
+		{
+			"Hindi": "sBnw <font color='#FFA500'>iliKAw </font> vuVI klwm ]"
+		},
+		{
+			"Hindi": "Ehu <font color='#FFA500'>lyKw </font> iliK jwxY koe ]"
+		},
+		{
+			"Hindi": "lyKw <font color='#FFA500'>iliKAw </font> kyqw hoe ]"
+		},
+		{
+			"Hindi": "kyqw <font color='#FFA500'>qwxu </font> suAwilhu }pu ]"
+		},
+		{
+			"Hindi": "kyqI <font color='#FFA500'>dwiq </font> jwxY kOxu kUqu ]"
+		},
+		{
+			"Hindi": "kIqw <font color='#FFA500'>pswa </font> Eko kvwa ]"
+		},
+		{
+			"Hindi": "iqs qy <font color='#FFA500'>hoE </font> lK drIAwa ]"
+		},
+		{
+			"Hindi": "kudriq <font color='#FFA500'>kvx </font> khw vIcw{ ]"
+		},
+		{
+			"Hindi": "vwirAw n <font color='#FFA500'>jwvw </font> Ek vwr ]"
+		},
+		{
+			"Hindi": "jo quDu <font color='#FFA500'>BwvY </font> swe&eacute; BlI kwr ]"
+		},
+		{
+			"Hindi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]16]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>jp </font> AsMK Bwa ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>pUjw </font> AsMK qp qwa ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>grMQ </font> muiK vyd pwT ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>jog </font> min rhih adws ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>Bgq </font> gux igAwn vIcwr ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>sqI </font> AsMK dwqwr ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>sUr </font> muh BK swr ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>moin </font> ilv lwe qwr ]"
+		},
+		{
+			"Hindi": "kudriq <font color='#FFA500'>kvx </font> khw vIcw{ ]"
+		},
+		{
+			"Hindi": "vwirAw n <font color='#FFA500'>jwvw </font> Ek vwr ]"
+		},
+		{
+			"Hindi": "jo quDu <font color='#FFA500'>BwvY </font> swe&eacute; BlI kwr ]"
+		},
+		{
+			"Hindi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]17]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>mUrK </font> AMD Gor ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>cor </font> hrwmKor ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>Amr </font> kir jwih jor ]"
+		},
+		{
+			"Hindi": "AsMK gl <font color='#FFA500'> vF </font> hiqAw kmwih ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>pwpI </font> pwpu kir jwih ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>kUiVAwr </font> kUVy iPrwih ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>mlyC </font> mlu BiK Kwih ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>inMdk </font> isir krih Bw{ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnku </font> nIcu khY vIcw{ ]"
+		},
+		{
+			"Hindi": "vwirAw n <font color='#FFA500'>jwvw </font> Ek vwr ]"
+		},
+		{
+			"Hindi": "jo quDu <font color='#FFA500'>BwvY </font> swe&eacute; BlI kwr ]"
+		},
+		{
+			"Hindi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]18]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>nwv </font> AsMK Qwv ]"
+		},
+		{
+			"Hindi": "AgMm <font color='#FFA500'>AgMm </font> AsMK loA ]"
+		},
+		{
+			"Hindi": "AsMK <font color='#FFA500'>khih </font> isir Bw{ hoe ]"
+		},
+		{
+			"Hindi": "AKrI <font color='#FFA500'>nwmu </font> AKrI swlwh ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>AKrI </font> igAwnu gIq gux gwh ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>AKrI </font> ilKxu bolxu bwix ]"
+		},
+		{
+			"Hindi": "AKrw <font color='#FFA500'>isir </font> sMjogu vKwix ]"
+		},
+		{
+			"Hindi": "ijin Eih <font color='#FFA500'>ilKy </font> iqsu isir nwih ]"
+		},
+		{
+			"Hindi": "ijv <font color='#FFA500'>PurmwE </font> iqv iqv pwih ]"
+		},
+		{
+			"Hindi": "jyqw <font color='#FFA500'>kIqw </font> qyqw nwa ]"
+		},
+		{
+			"Hindi": "ivxu <font color='#FFA500'>nwvY </font> nwhI ko Qwa ]"
+		},
+		{
+			"Hindi": "kudriq <font color='#FFA500'>kvx </font> khw vIcw{ ]"
+		},
+		{
+			"Hindi": "vwirAw n <font color='#FFA500'>jwvw </font> Ek vwr ]"
+		},
+		{
+			"Hindi": "jo quDu <font color='#FFA500'>BwvY </font> swe&eacute; BlI kwr ]"
+		},
+		{
+			"Hindi": "qU sdw <font color='#FFA500'>slwmiq </font> inrMkwr ]19]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>BrIEy </font> hQu pY{ qnu dyh ]"
+		},
+		{
+			"Hindi": "pwxI <font color='#FFA500'>DoqY </font> aqr su Kyh ]"
+		},
+		{
+			"Hindi": "mUq <font color='#FFA500'>plIqI </font> kpVu hoe ]"
+		},
+		{
+			"Hindi": "dy <font color='#FFA500'>swbUxu </font> le&eacute;Ey Aohu Doe ]"
+		},
+		{
+			"Hindi": "BrIEy <font color='#FFA500'>miq </font> pwpw kY sMig ]"
+		},
+		{
+			"Hindi": "Aohu <font color='#FFA500'>DopY </font> nwvY kY rMig ]"
+		},
+		{
+			"Hindi": "puMnI <font color='#FFA500'>pwpI </font> AwKxu nwih ]"
+		},
+		{
+			"Hindi": "kir kir <font color='#FFA500'>krxw </font> iliK lY jwhu ]"
+		},
+		{
+			"Hindi": "Awpy <font color='#FFA500'>bIij </font> Awpy hI Kwhu ]"
+		},
+		{
+			"Hindi": "nwnk <font color='#FFA500'>hukmI </font> Awvhu jwhu ]20]"
+		},
+		{
+			"Hindi": "qIrQu <font color='#FFA500'>qpu </font> deAw dqu dwnu ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>pwvY </font> iql kw mwnu ]"
+		},
+		{
+			"Hindi": "suixAw <font color='#FFA500'>mMinAw </font> min kIqw Bwa ]"
+		},
+		{
+			"Hindi": "AMqrgiq <font color='#FFA500'>qIriQ </font> mil nwa ]"
+		},
+		{
+			"Hindi": "siB gux <font color='#FFA500'>qyry </font> mY nwhI koe ]"
+		},
+		{
+			"Hindi": "ivxu gux <font color='#FFA500'>kIqy </font> Bgiq n hoe ]"
+		},
+		{
+			"Hindi": "suAsiq <font color='#FFA500'>AwiQ </font> bwxI brmwa ]"
+		},
+		{
+			"Hindi": "siq <font color='#FFA500'>suhwxu </font> sdw min cwa ]"
+		},
+		{
+			"Hindi": "kvxu su <font color='#009900'>vylw </font> vKqu <font color='#FFA500'>kvxu </font> kvx <font color='#009900'>iQiq </font> kvxu vw{ ]"
+		},
+		{
+			"Hindi": "kvix is <font color='#FFA500'>{qI </font> mwhu <font color='#009900'>kvxu </font> ijqu hoAw Awkw{ ]"
+		},
+		{
+			"Hindi": "vyl n pwe&eacute;Aw <font color='#FFA500'>pMfqI </font> ij hovY lyKu purwxu ]"
+		},
+		{
+			"Hindi": "vKqu n pweAo <font color='#FFA500'>kwdIAw </font> ij ilKin lyKu kurwxu ]"
+		},
+		{
+			"Hindi": "iQiq vw{ nw jogI <font color='#FFA500'>jwxY </font> {iq mwhu nw koe&eacute; ]"
+		},
+		{
+			"Hindi": "jw krqw isrTI ka <font color='#FFA500'>swjy </font> Awpy jwxY soe&eacute; ]"
+		},
+		{
+			"Hindi": "ikv kir <font color='#009900'>AwKw </font> ikv <font color='#FFA500'>swlwhI </font> ika <font color='#009900'>vrnI </font> ikv jwxw ]"
+		},
+		{
+			"Hindi": "nwnk <font color='#009900'>AwKix </font> sBu ko <font color='#FFA500'>AwKY </font> ekdU <font color='#009900'>eku </font> isAwxw ]"
+		},
+		{
+			"Hindi": "vfw <font color='#009900'>swihbu </font> vfI <font color='#FFA500'>nwe&eacute; </font> kIqw jw kw hovY ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font> jy ko AwpO <font color='#FFA500'>jwxY </font> AgY geAw n sohY ]21]"
+		},
+		{
+			"Hindi": "pwqwlw pwqwl <font color='#FFA500'>lK </font> Awgwsw Awgws ]"
+		},
+		{
+			"Hindi": "AoVk AoVk Bwil <font color='#FFA500'>Qky </font> vyd khin ek vwq ]"
+		},
+		{
+			"Hindi": "shs ATwrh khin <font color='#FFA500'>kqybw </font> AsulU <font color='#009900'>eku </font> Dwqu ]"
+		},
+		{
+			"Hindi": "lyKw hoe q <font color='#FFA500'>ilKIEy </font> lyKY hoe ivxwsu ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font> vfw <font color='#FFA500'>AwKIEy </font> Awpy jwxY Awpu ]22]"
+		},
+		{
+			"Hindi": "swlwhI <font color='#FFA500'>swlwih </font> EqI suriq n pwe&eacute;Aw ]"
+		},
+		{
+			"Hindi": "ndIAw AqY <font color='#FFA500'>vwh </font> pvih <font color='#009900'>smuMid </font> n jwxIAih ]"
+		},
+		{
+			"Hindi": "smuMd swh <font color='#FFA500'>sulqwn </font> igrhw syqI mwlu Dnu ]"
+		},
+		{
+			"Hindi": "kIVI quil n <font color='#FFA500'>hovnI </font> jy iqsu mnhu n vIsrih ]23]"
+		},
+		{
+			"Hindi": "AMqu n <font color='#FFA500'>isPqI </font> khix n AMqu ]"
+		},
+		{
+			"Hindi": "AMqu n <font color='#FFA500'>krxY </font> dyix n AMqu ]"
+		},
+		{
+			"Hindi": "AMqu n <font color='#FFA500'>vyKix </font> suxix n AMqu ]"
+		},
+		{
+			"Hindi": "AMqu n <font color='#FFA500'>jwpY </font> ikAw min mMqu ]"
+		},
+		{
+			"Hindi": "AMqu n <font color='#FFA500'>jwpY </font> kIqw Awkw{ ]"
+		},
+		{
+			"Hindi": "AMqu n <font color='#FFA500'>jwpY </font> pwrwvw{ ]"
+		},
+		{
+			"Hindi": "AMq <font color='#FFA500'>kwrix </font> kyqy ibllwih ]"
+		},
+		{
+			"Hindi": "qw ky <font color='#FFA500'>AMq </font> n pwE jwih ]"
+		},
+		{
+			"Hindi": "Ehu <font color='#FFA500'>AMqu </font> n jwxY koe ]"
+		},
+		{
+			"Hindi": "bhuqw <font color='#FFA500'>khIEy </font> bhuqw hoe ]"
+		},
+		{
+			"Hindi": "vfw <font color='#FFA500'>swihbu </font> &aring;cw Qwa ]"
+		},
+		{
+			"Hindi": "&aring;cy <font color='#FFA500'>apir </font> &aring;cw nwa ]"
+		},
+		{
+			"Hindi": "Evfu <font color='#FFA500'>&aring;cw </font> hovY koe ]"
+		},
+		{
+			"Hindi": "iqsu &aring;cy <font color='#FFA500'>ka </font> jwxY soe ]"
+		},
+		{
+			"Hindi": "jyvfu <font color='#FFA500'>Awip </font> jwxY Awip Awip ]"
+		},
+		{
+			"Hindi": "nwnk <font color='#FFA500'>ndrI </font> krmI dwiq ]24]"
+		},
+		{
+			"Hindi": "bhuqw <font color='#FFA500'>krmu </font> iliKAw nw jwe ]"
+		},
+		{
+			"Hindi": "vfw <font color='#FFA500'>dwqw </font> iqlu n qmwe ]"
+		},
+		{
+			"Hindi": "kyqy <font color='#FFA500'>mMgih </font> joD Apwr ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>kyiqAw </font> gxq nhI vIcw{ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>kyqy </font> Kip qutih vykwr ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>kyqy </font> lY lY muk{ pwih ]"
+		},
+		{
+			"Hindi": "kyqy <font color='#FFA500'>mUrK </font> KwhI Kwih ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>kyiqAw </font> dUK BUK sd mwr ]"
+		},
+		{
+			"Hindi": "Eih iB dwiq <font color='#FFA500'>qyrI </font> dwqwr ]"
+		},
+		{
+			"Hindi": "bMid <font color='#FFA500'>KlwsI </font> BwxY hoe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>ho{ </font> AwiK n skY koe ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>Kweku </font> AwKix pwe ]"
+		},
+		{
+			"Hindi": "Aohu <font color='#FFA500'>jwxY </font> jyqIAw muih Kwe ]"
+		},
+		{
+			"Hindi": "Awpy <font color='#FFA500'>jwxY </font> Awpy dye ]"
+		},
+		{
+			"Hindi": "AwKih <font color='#FFA500'>is </font> iB kye&eacute; kye ]"
+		},
+		{
+			"Hindi": "ijsno <font color='#FFA500'>bKsy </font> isPiq swlwh ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> pwiqswhI pwiqswhu ]25]"
+		},
+		{
+			"Hindi": "Amul <font color='#FFA500'>gux </font> Amul vwpwr ]"
+		},
+		{
+			"Hindi": "Amul <font color='#FFA500'>vwpwrIE </font> Amul BMfwr ]"
+		},
+		{
+			"Hindi": "Amul <font color='#FFA500'>Awvih </font> Amul lY jwih ]"
+		},
+		{
+			"Hindi": "Amul <font color='#FFA500'>Bwe </font> Amulw smwih ]"
+		},
+		{
+			"Hindi": "Amulu <font color='#FFA500'>Drmu </font> Amulu dIbwxu ]"
+		},
+		{
+			"Hindi": "Amulu <font color='#FFA500'>qulu </font> Amulu prvwxu ]"
+		},
+		{
+			"Hindi": "Amulu <font color='#FFA500'>bKsIs </font> Amulu nIswxu ]"
+		},
+		{
+			"Hindi": "Amulu <font color='#FFA500'>krmu </font> Amulu Purmwxu ]"
+		},
+		{
+			"Hindi": "Amulo <font color='#FFA500'>Amulu </font> AwiKAw n jwe ]"
+		},
+		{
+			"Hindi": "AwiK <font color='#FFA500'>AwiK </font> rhy ilv lwe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>AwKih </font> vyd pwT purwx ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>AwKih </font> pVy krih viKAwx ]"
+		},
+		{
+			"Hindi": "AwKih <font color='#FFA500'>brmy </font> AwKih eMd ]"
+		},
+		{
+			"Hindi": "AwKih <font color='#FFA500'>gopI </font> qY goivMd ]"
+		},
+		{
+			"Hindi": "AwKih <font color='#FFA500'>e&eacute;sr </font> AwKih isD ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>AwKih </font> kyqy kIqy buD ]"
+		},
+		{
+			"Hindi": "AwKih <font color='#FFA500'>dwnv </font> AwKih dyv ]"
+		},
+		{
+			"Hindi": "AwKih suir <font color='#FFA500'>nr </font> muin jn syv ]"
+		},
+		{
+			"Hindi": "kyqy <font color='#FFA500'>AwKih </font> AwKix pwih ]"
+		},
+		{
+			"Hindi": "kyqy kih <font color='#FFA500'>kih </font> aiT aiT jwih ]"
+		},
+		{
+			"Hindi": "Eqy <font color='#FFA500'>kIqy </font> hoir kryih ]"
+		},
+		{
+			"Hindi": "qw AwiK n <font color='#FFA500'>skih </font> kye&eacute; kye ]"
+		},
+		{
+			"Hindi": "jyvfu <font color='#FFA500'>BwvY </font> qyvfu hoe ]"
+		},
+		{
+			"Hindi": "nwnk <font color='#FFA500'>jwxY </font> swcw soe ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>AwKY </font> bolu ivgwVu ]"
+		},
+		{
+			"Hindi": "qw <font color='#FFA500'>ilKIEy </font> isir gwvwrw gwvw{ ]26]"
+		},
+		{
+			"Hindi": "so d{ <font color='#009900'>kyhw </font> so G{ <font color='#FFA500'>kyhw </font> ijqu <font color='#009900'>bih </font> srb smwly ]"
+		},
+		{
+			"Hindi": "vwjy nwd Anyk <font color='#FFA500'>AsMKw </font> kyqy vwvxhwry ]"
+		},
+		{
+			"Hindi": "kyqy rwg prI isa <font color='#FFA500'>khIAin </font> kyqy gwvxhwry ]"
+		},
+		{
+			"Hindi": "gwvih <font color='#009900'>quhno </font> paxu pwxI <font color='#FFA500'>bYsMq{ </font>"
+		},
+		{
+			"Hindi": "gwvY rwjwDrmu duAwry ]"
+		},
+		{
+			"Hindi": "gwvih icqu <font color='#009900'>gupqu </font> iliK <font color='#FFA500'>jwxih </font> iliK iliK Drmu vIcwry ]"
+		},
+		{
+			"Hindi": "gwvih e&eacute;s{ brmw <font color='#FFA500'>dyvI </font> sohin sdw svwry ]"
+		},
+		{
+			"Hindi": "gwvih <font color='#009900'>eMd </font> edwsix <font color='#FFA500'>bYTy </font> dyviqAw dir nwly ]"
+		},
+		{
+			"Hindi": "gwvih <font color='#009900'>isD </font> smwDI <font color='#FFA500'>AMdir </font> gwvin swD ivcwry ]"
+		},
+		{
+			"Hindi": "gwvin jqI sqI <font color='#FFA500'>sMqoKI </font> gwvih vIr krwry ]"
+		},
+		{
+			"Hindi": "gwvin pMifq pVin <font color='#FFA500'>rKIsr </font> jugu jugu vydw nwly ]"
+		},
+		{
+			"Hindi": "gwvih mohxIAw mnu <font color='#FFA500'>mohin </font> surgw mC peAwly ]"
+		},
+		{
+			"Hindi": "gwvin rqn apwE <font color='#FFA500'>qyry </font> ATsiT qIrQ nwly ]"
+		},
+		{
+			"Hindi": "gwvih joD mhwbl <font color='#FFA500'>sUrw </font> gwvih KwxI cwry ]"
+		},
+		{
+			"Hindi": "gwvih KMf mMfl <font color='#FFA500'>vrBMfw </font> kir kir rKy Dwry ]"
+		},
+		{
+			"Hindi": "sye&eacute; quDuno <font color='#009900'>gwvih </font> jo quDu <font color='#FFA500'>Bwvin </font> rqy qyry Bgq rswly ]"
+		},
+		{
+			"Hindi": "hoir kyqy <font color='#009900'>gwvin </font> sy mY iciq n <font color='#FFA500'>Awvin </font> nwnku ikAw vIcwry ]"
+		},
+		{
+			"Hindi": "soe&eacute; soe&eacute; sdw scu <font color='#FFA500'>swihbu </font> swcw swcI nwe&eacute; ]"
+		},
+		{
+			"Hindi": "hY BI <font color='#009900'>hosI </font> jwe n <font color='#FFA500'>jwsI </font> rcnw ijin rcwe&eacute; ]"
+		},
+		{
+			"Hindi": "rMgI rMgI <font color='#009900'>BwqI </font> kir kir <font color='#FFA500'>ijnsI </font> mweAw ijin apwe&eacute; ]"
+		},
+		{
+			"Hindi": "kir kir <font color='#009900'>vyKY </font> kIqw <font color='#FFA500'>Awpxw </font> ijv iqs dI vifAwe&eacute; ]"
+		},
+		{
+			"Hindi": "jo iqsu BwvY soe&eacute; <font color='#FFA500'>krsI </font> hukmu n krxw jwe&eacute; ]"
+		},
+		{
+			"Hindi": "so pwiqswhu swhw <font color='#FFA500'>pwiqswihbu </font> nwnk rhxu rjwe&eacute; ]27]"
+		},
+		{
+			"Hindi": "muMdw <font color='#009900'>sMqoKu </font> srmu pqu <font color='#FFA500'>JolI </font> iDAwn kI krih ibBUiq ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>iKMQw </font> kwlu kuAwrI <font color='#FFA500'>kweAw </font> jugiq fMfw prqIiq ]"
+		},
+		{
+			"Hindi": "Awe&eacute; pMQI sgl <font color='#FFA500'>jmwqI </font> min jIqY jgu jIqu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"Hindi":"Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu Eko vysu ]28]"
+		},
+		{
+			"Hindi": "Bugiq <font color='#009900'>igAwnu </font> deAw <font color='#FFA500'>BMfwrix </font> Git Git vwjih nwd ]"
+		},
+		{
+			"Hindi": "Awip <font color='#009900'>nwQu </font> nwQI sB jw <font color='#FFA500'>kI </font> iriD isiD Avrw swd ]"
+		},
+		{
+			"Hindi": "sMjogu ivjogu <font color='#009900'>due </font> kwr <font color='#FFA500'>clwvih </font> lyKy Awvih Bwg ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"Hindi": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu Eko vysu ]29]"
+		},
+		{
+			"Hindi": "Ekw <font color='#009900'>mwe&eacute; </font> jugiq <font color='#FFA500'>ivAwe&eacute; </font> iqin cyly prvwxu ]"
+		},
+		{
+			"Hindi": "eku <font color='#009900'>sMswrI </font> eku <font color='#FFA500'>BMfwrI </font><font color='#009900'>eku </font> lwE dI bwxu ]"
+		},
+		{
+			"Hindi": "ijv iqsu <font color='#009900'>BwvY </font> iqvY <font color='#FFA500'>clwvY </font> ijv hovY Purmwxu ]"
+		},
+		{
+			"Hindi": "Aohu <font color='#009900'>vyKY </font> Aonw ndir n <font color='#FFA500'>AwvY </font> bhuqw Ehu ivfwxu ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"Hindi":" Awid AnIlu Anwid <font color='#FFA500'> Anwhiq </font> jugu jugu Eko vysu ]30]"
+		},
+		{
+			"Hindi": "Awsxu loe <font color='#FFA500'>loe </font> BMfwr ]"
+		},
+		{
+			"Hindi": "jo ikCu <font color='#FFA500'>pweAw </font> su Ekw vwr ]"
+		},
+		{
+			"Hindi": "kir kir <font color='#FFA500'>vyKY </font> isrjxhw{ ]"
+		},
+		{
+			"Hindi": "nwnk scy <font color='#FFA500'>kI </font> swcI kwr ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>Awdysu </font> iqsY Awdysu ]"
+		},
+		{
+			"Hindi": "Awid AnIlu Anwid <font color='#FFA500'>Anwhiq </font> jugu jugu Eko vysu ]31]"
+		},
+		{
+			"Hindi": "ekdU jIBO lK <font color='#FFA500'>hoih </font> lK hovih lK vIs ] "
+		},
+		{
+
+			"Hindi":"lKu lKu gyVw <font color='#FFA500'>AwKIAih </font> Eku nwmu jgdIs ]"
+		},
+		{
+			"Hindi": "Equ rwih piq <font color='#FFA500'>pvVIAw </font> cVIEy hoe ekIs ]"
+		},
+		{
+			"Hindi": "suix glw Awkws <font color='#FFA500'>kI </font> kItw Awe&eacute; rIs ]"
+		},
+		{
+			"Hindi": "nwnk ndrI <font color='#FFA500'>pwe&eacute;Ey </font><font color='#009900'>kUVI </font> kUVY TIs ]32]"
+		},
+		{
+			"Hindi": " AwKix <font color='#FFA500'>jo{ </font> cupY nh jo{ ]"
+		},
+		{
+			"Hindi": "jo{ n <font color='#FFA500'>mMgix </font> dyix n jo{ ]"
+		},
+		{
+			"Hindi": "jo{ n <font color='#FFA500'>jIvix </font> mrix nh jo{ ]"
+		},
+		{
+			"Hindi": "jo{ <font color='#009900'>n </font> rwij <font color='#FFA500'>mwil </font> min so{ ]"
+		},
+		{
+			"Hindi": "jo{ n <font color='#FFA500'>surqI </font> igAwin vIcwir ]"
+		},
+		{
+			"Hindi": "jo{ n <font color='#FFA500'>jugqI </font> CutY sMsw{ ]"
+		},
+		{
+			"Hindi": "ijsu hiQ <font color='#FFA500'>jo{ </font> kir vyKY soe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> aqmu nIcu n koe ]33]"
+		},
+		{
+			"Hindi": "rwqI <font color='#FFA500'>{qI </font> iQqI vwr ]"
+		},
+		{
+			"Hindi": "pvx <font color='#FFA500'>pwxI </font> AgnI pwqwl ]"
+		},
+		{
+			"Hindi": "iqsu <font color='#009900'>ivic </font> DrqI Qwip <font color='#FFA500'>rKI </font> Drmswl ]"
+		},
+		{
+			"Hindi": "iqsu <font color='#FFA500'>ivic </font> jIA jugiq ky rMg ]"
+		},
+		{
+			"Hindi": "iqn ky <font color='#FFA500'>nwm </font> Anyk AnMq ]"
+		},
+		{
+			"Hindi": "krmI <font color='#FFA500'>krmI </font> hoe vIcw{ ]"
+		},
+		{
+			"Hindi": "scw <font color='#FFA500'>Awip </font> scw drbw{ ]"
+		},
+		{
+			"Hindi": "iqQY <font color='#FFA500'>sohin </font> pMc prvwxu ]"
+		},
+		{
+			"Hindi": "ndrI <font color='#FFA500'>krim </font> pvY nIswxu ]"
+		},
+		{
+			"Hindi": "kc <font color='#FFA500'>pkwe&eacute; </font> AoQY pwe ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>nwnk </font> geAw jwpY jwe ]34]"
+		},
+		{
+			"Hindi": "Drm KMf <font color='#FFA500'>kw </font> Eho Drmu ]"
+		},
+		{
+			"Hindi": "igAwn KMf <font color='#FFA500'>kw </font> AwKhu krmu ]"
+		},
+		{
+			"Hindi": "kyqy pvx pwxI <font color='#FFA500'>vYsMqr </font> kyqy kwn mhys ]"
+		},
+		{
+			"Hindi": "kyqy brmy GwViq <font color='#FFA500'>GVIAih </font> }p rMg ky vys ]"
+		},
+		{
+			"Hindi": "kyqIAw <font color='#009900'>krmBUmI </font> myr <font color='#FFA500'>kyqy </font> kyqy <font color='#009900'>DU </font> apdys ]"
+		},
+		{
+			"Hindi": "kyqy eMd <font color='#009900'>cMd </font> sUr <font color='#FFA500'>kyqy </font> kyqy mMfl dys ]"
+		},
+		{
+			"Hindi": "kyqy isD <font color='#009900'>buD </font> nwQ <font color='#FFA500'>kyqy </font> kyqy dyvI vys ]"
+		},
+		{
+			"Hindi": "kyqy dyv dwnv muin <font color='#FFA500'>kyqy </font> kyqy rqn smuMd ]"
+		},
+		{
+			"Hindi": "kyqIAw <font color='#009900'>KwxI </font> kyqIAw <font color='#FFA500'>bwxI </font> kyqy pwq nirMd ]"
+		},
+		{
+			"Hindi": "kyqIAw <font color='#009900'>surqI </font> syvk <font color='#FFA500'>kyqy </font><font color='#009900'>nwnk </font> AMqu <font color='#009900'>n </font> AMqu ]35]"
+		},
+		{
+			"Hindi": "igAwn KMf <font color='#FFA500'>mih </font> igAwnu prcMfu ]"
+		},
+		{
+			"Hindi": "iqQY nwd <font color='#FFA500'>ibnod </font> kof AnMdu ]"
+		},
+		{
+			"Hindi": "srm KMf <font color='#FFA500'>kI </font> bwxI }pu ]"
+		},
+		{
+			"Hindi": "iqQY GwViq <font color='#FFA500'>GVIEy </font> bhuqu AnUpu ]"
+		},
+		{
+			"Hindi": "qw kIAw <font color='#FFA500'>glw </font> kQIAw nw jwih ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>khY </font> ipCY pCuqwe ]"
+		},
+		{
+			"Hindi": "iqQY <font color='#FFA500'>GVIEy </font> suriq miq min buiD ]"
+		},
+		{
+			"Hindi": "iqQY <font color='#FFA500'>GVIEy </font> surw isDw kI suiD ]36]"
+		},
+		{
+			"Hindi": "krm KMf <font color='#FFA500'>kI </font> bwxI jo{ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>iqQY </font> ho{ n koe&eacute; ho{ ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>iqQY </font> joD mhwbl sUr ]"
+		},
+		{
+			"Hindi": "iqn <font color='#FFA500'>mih </font> rwmu rihAw BrpUr ]"
+		},
+		{
+			"Hindi": "<font color='#FFA500'>iqQY </font> sIqo sIqw mihmw mwih ]"
+		},
+		{
+			"Hindi": "qw ky <font color='#FFA500'>}p </font> n kQny jwih ]"
+		},
+		{
+			"Hindi": "nw Aoih <font color='#FFA500'>mrih </font> n Twgy jwih ]"
+		},
+		{
+			"Hindi": "ijn <font color='#FFA500'>kY </font> rwmu vsY mn mwih ]"
+		},
+		{
+			"Hindi": "iqQY Bgq <font color='#FFA500'>vsih </font> ky loA ]"
+		},
+		{
+			"Hindi": "krih <font color='#FFA500'>AnMdu </font> scw min soe ]"
+		},
+		{
+			"Hindi": "scKMif <font color='#FFA500'>vsY </font> inrMkw{ ]"
+		},
+		{
+			"Hindi": "kir kir <font color='#FFA500'>vyKY </font> ndir inhwl ]"
+		},
+		{
+			"Hindi": "iqQY KMf <font color='#FFA500'>mMfl </font> vrBMf ]"
+		},
+		{
+			"Hindi": "jy ko <font color='#FFA500'>kQY </font> q AMq <font color='#009900'>n </font> AMq ]"
+		},
+		{
+			"Hindi": "iqQY loA <font color='#FFA500'>loA </font> Awkwr ]"
+		},
+		{
+			"Hindi": "ijv ijv <font color='#FFA500'>hukmu </font> iqvY iqv kwr ]"
+		},
+		{
+			"Hindi": "vyKY <font color='#FFA500'>ivgsY </font> kir vIcw{ ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font><font color='#FFA500'>kQnw </font> krVw sw{ ]37]"
+		},
+		{
+			"Hindi": "jqu <font color='#FFA500'>pwhwrw </font> DIrju suinAw{ ]"
+		},
+		{
+			"Hindi": "Ahrix <font color='#FFA500'>miq </font> vydu hQIAw{ ]"
+		},
+		{
+			"Hindi": "Ba <font color='#FFA500'>Klw </font> Agin qp qwa ]"
+		},
+		{
+			"Hindi": "BWfw <font color='#FFA500'>Bwa </font> AMimRqu iqqu Fwil ]"
+		},
+		{
+			"Hindi": "GVIEy <font color='#FFA500'>sbdu </font> scI tkswl ]"
+		},
+		{
+			"Hindi": "ijn ka ndir <font color='#FFA500'>krmu </font> iqn kwr ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk </font><font color='#FFA500'>ndrI </font> ndir inhwl ]38]"
+		},
+		{
+			"Hindi": "sloku ]"
+		},
+		{
+			"Hindi": "pvxu <font color='#009900'>gu}</font> pwxI <font color='#FFA500'>ipqw</font> mwqw Driq mhqu ]"
+		},
+		{
+			"Hindi": "idvsu rwiq <font color='#009900'>due</font> dwe&eacute; <font color='#FFA500'>dweAw</font> KylY sgl jgqu ]"
+		},
+		{
+			"Hindi": "cMigAwe&eacute;Aw <font color='#FFA500'>buirAwe&eacute;Aw</font> vwcY Drmu hdUir ]"
+		},
+		{
+			"Hindi": "krmI Awpo <font color='#FFA500'>AwpxI</font> ky nyVY ky dUir ]"
+		},
+		{
+			"Hindi": "ijnI nwmu <font color='#FFA500'>iDAweAw</font> gE mskiq Gwil ]"
+		},
+		{
+			"Hindi": "<font color='#009900'>nwnk</font> qy muK <font color='#FFA500'>ajly</font> kyqI CutI nwil ]1]  "
+		}
+	]
 }
