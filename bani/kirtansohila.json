@@ -1,5 +1,5 @@
 {
-	"kirtansohelaGurmukhi": [{
+	"kirtansohilaGurmukhi": [{
 			"Gurmukhi": "<font color='#009900'>soihlw </font>  rwgu gauVI <font color='#FFA500'>dIpkI </font> mhlw 1"
 		},
 		{
@@ -185,7 +185,7 @@
 		{
 			"Gurmukhi": "nwnk dwsu iehY suKu <font color='#FFA500'>mwgY </font> mokau kir sMqn kI DUry ]4]5] (12-13)"
 		}
-	],"kirtansohelaHindi": [
+	],"kirtansohilaHindi": [
       {
           "Hindi": "<font color='#009900'>soihlw </font>  rwgu gaVI <font color='#FFA500'>dIpkI </font> mhlw 1"
       },
@@ -369,7 +369,7 @@
       {
           "Hindi": "nwnk dwsu ehY suKu <font color='#FFA500'>mwgY </font> moka kir sMqn kI DUry ]4]5] (12-13)"
       }
-  ],"kirtansohelaEnglish": [
+  ],"kirtansohilaEnglish": [
 {"English": "Sohilaa raag gauRee dheepakee mahalaa pehilaa"},
 {"English": "ikOankaar satigur prasaadh ||"},
 {"English": "jai ghar keerat aakheeaai karate kaa hoi beechaaro ||"},
