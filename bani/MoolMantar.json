@@ -1,5 +1,5 @@
 {
-	"japjisahibenglish": [
+	"moolmantarenglish": [
 {"english": "Japji Sahib"},
 	{"english": "<font color='#FFA500'>ikOankaar</font> <font color='#009900'>sat naam</font> karataa <font color='#009900'>purakh</font>"},
 	{"english": "nirabhau <font color='#FFA500'>niravair</font>"},
@@ -10,7 +10,7 @@
 	{"english": "hai bhee <font color='#FFA500'>sach</font> naanak hosee bhee sach ||1||"}
 
 ],
-	"japjisahibGurmukhi": [{
+	"moolmantarGurmukhi": [{
 			"Gurmukhi": "jpu jI swihb"
 		},
 		{
@@ -36,7 +36,7 @@
 		}
 
 	],
-  "japjisahibHindi": [{
+  "moolmantarHindi": [{
 			"Hindi": "jpu jI swihb"
 		},
 		{
