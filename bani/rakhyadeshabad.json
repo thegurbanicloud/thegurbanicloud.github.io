@@ -199,39 +199,40 @@
       {
           "Hindi": "hir kIrqn kw <font color='#FFA500'>Awhro </font> hir dyhu nwnk ky mIq ]1] (519)"
       }
-  ],"rakheyadeshabadEnglish": [
-{"English": "Rakhya De Shabad"},	  
-{"English": "sir mastak rakhayeaa paarabrahama(n) hast kaayaa rakhayeaa paramesavaireh ||"},
-{"English": "aatam rakhayeaa gopaal suaamee dhan charan rakhayeaa jagadheesavaireh ||"},
-{"English": "sarab rakhayeaa gur dhayaaleh bhai dhookh binaasaneh ||"},
-{"English": "bhagat vachhal anaath naathe saran naanak purakh achuteh ||52||"},
-{"English": "ghor dhukhaye(n) anik hataye(n) janam dhaaridhra(n) mahaa bikhayeaadha(n) ||"},
-{"English": "miTa(n)t sagal simara(n)t har naam naanak jaise paavak kaasaT bhasama(n) karot ||18||"},
-{"English": "soraTh mahalaa panjavaa ||"},
-{"English": "gur kaa sabadh rakhavaare ||"},
-{"English": "chaukee chaugiradh hamaare ||"},
-{"English": "raam naam man laagaa ||"},
-{"English": "jam lajai kar bhaagaa ||1||"},
-{"English": "prabh jee too mero sukhadhaataa ||"},
-{"English": "ba(n)dhan kaaT kare man niramal pooran purakh bidhaataa"},
-{"English": "|| rahaau ||"},
-{"English": "naanak prabh abinaasee ||"},
-{"English": "taa kee sev na birathee jaasee ||"},
-{"English": "anadh kareh tere dhaasaa ||"},
-{"English": "jap pooran hoiee aasaa ||2||4||68||"},
-{"English": "bilaaval mahalaa panjavaa ||"},
-{"English": "taatee vaau na lagiee paarabraham saranaiee ||"},
-{"English": "chaugiradh hamaarai raam kaar dhukh lagai na bhaiee ||1||"},
-{"English": "satigur pooraa bheTiaa jin banat banaiee ||"},
-{"English": "raam naam aaukhadh dheeaa ekaa liv laiee ||1||"},
-{"English": "rahaau ||"},
-{"English": "raakh le'ee tin rakhanahaar sabh biaadh miTaiee ||"},
-{"English": "kahu naanak kirapaa bhiee prabh bhe sahaiee ||2||15||79||"},
-{"English": "salok ||"},
-{"English": "jeh saadhoo gobidh bhajan keeratan naanak neet ||"},
-{"English": "naa hau naa too(n) neh chhuTeh nikaT na jaieeahu dhoot ||1||"},
-{"English": "salok mahalaa panjavaa ||"},
-{"English": "man meh chitavau chitavanee udham karau uTh neet ||"},
-{"English": "har keeratan kaa aaharo har dheh naanak ke meet ||1||"}
+  ],
+"rakheyadeshabadEnglish": [ 
+{"English": "Rakhya De Shabad"}	  
+{"English": "sir mastak rakhayeaa <font color='Orange'>paarabrahaman</font> hast kaayaa rakhayeaa paramesavaireh ||"}
+{"English": "aatam rakhayeaa gopaal <font color='Orange'>suaamee</font> dhan charan rakhayeaa jagadheesavaireh ||"}
+{"English": "sarab rakhayeaa gur <font color='Orange'>dhayaaleh</font> bhai dhookh binaasaneh ||"}
+{"English": "bhagat vachhal anaath <font color='Orange'>naathe</font> saran <font color='Green'>naanak</font> purakh achuteh ||52||"}
+{"English": "ghor <font color='Green'>dhukhayen</font> anik <font color='Orange'>hatayen</font> janam <font color='Green'>dhaaridhran</font> mahaa bikhayeaadhan ||"}
+{"English": "miTant <font color='Green'>sagal</font> simarant har <font color='Green'>naam</font> <font color='Orange'>naanak</font> jaise <font color='Green'>paavak</font> kaasaT bhasaman karot ||18||"}
+{"English": "<font color='Green'>soraTh</font> mahalaa panjavaa ||"}
+{"English": "gur kaa <font color='Orange'>sabadh</font> rakhavaare ||"}
+{"English": "<font color='Orange'>chaukee</font> chaugiradh hamaare ||"}
+{"English": "raam <font color='Orange'>naam</font> man laagaa ||"}
+{"English": "jam lajai <font color='Orange'>kar</font> bhaagaa ||1||"}
+{"English": "prabh <font color='Orange'>jee</font> too mero sukhadhaataa ||"}
+{"English": "bandhan kaaT kare man <font color='Orange'>niramal</font> pooran purakh bidhaataa"}
+{"English": "|| rahaau ||"}
+{"English": "<font color='Orange'>naanak</font> prabh abinaasee ||"}
+{"English": "taa kee <font color='Orange'>sev</font> na birathee jaasee ||"}
+{"English": "anadh <font color='Orange'>kareh</font> tere dhaasaa ||"}
+{"English": "<font color='Orange'>jap</font> pooran hoiee aasaa ||2||4||68||"}
+{"English": "<font color='Green'>bilaaval</font> mahalaa panjavaa ||"}
+{"English": "taatee vaau na <font color='Orange'>lagiee</font> paarabraham saranaiee ||"}
+{"English": "chaugiradh hamaarai raam <font color='Orange'>kaar</font> dhukh lagai na bhaiee ||1||"}
+{"English": "satigur pooraa <font color='Orange'>bheTiaa</font> jin banat banaiee ||"}
+{"English": "raam naam aaukhadh <font color='Orange'>dheeaa</font> ekaa liv laiee ||1||"}
+{"English": "rahaau ||"}
+{"English": "raakh leee tin <font color='Orange'>rakhanahaar</font> sabh biaadh miTaiee ||"}
+{"English": "kahu <font color='Green'>naanak</font> kirapaa <font color='Orange'>bhiee</font> prabh bhe sahaiee ||2||15||79||"}
+{"English": "salok ||"}
+{"English": "jeh saadhoo gobidh <font color='Orange'>bhajan</font> keeratan naanak neet ||"}
+{"English": "naa <font color='Green'>hau</font> naa <font color='Green'>toon</font> neh <font color='Orange'>chhuTeh</font> nikaT na jaieeahu dhoot ||1||"}
+{"English": "<font color='Green'>salok</font> mahalaa panjavaa ||"}
+{"English": "man meh chitavau <font color='Orange'>chitavanee</font> udham karau uTh neet ||"}
+{"English": "har keeratan kaa <font color='Orange'>aaharo</font> har dheh naanak ke meet ||1||"}
 ]
 }
