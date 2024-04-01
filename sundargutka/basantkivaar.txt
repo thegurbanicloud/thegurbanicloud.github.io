@@ -1,0 +1,21 @@
+{
+"basantkivaarGurmukhi":
+ [
+{"Gurmukhi": "bsMq kI <font color='#FFA500'>vwr </font>  mhlu 5<font color='#FFA500'>&lt;&gt; </font> siqgur pRswid ]"},
+{"Gurmukhi": "hir kw nwmu iDAwie <font color='#FFA500'>kY </font> hohu hirAw BweI ]"},
+{"Gurmukhi": "krim ilKMqY <font color='#FFA500'>pweIAY </font> ieh ruiq suhweI ]"},
+{"Gurmukhi": "vxu iqRxu iqRBvxu <font color='#FFA500'>mauilAw </font> AMimRq Plu pweI ]"},
+{"Gurmukhi": "imil <font color='#009900'>swDU </font> suKu <font color='#FFA500'>aUpjY </font> lQI sB CweI ]"},
+{"Gurmukhi": "<font color='#009900'>nwnku </font> ismrY eyku <font color='#FFA500'>nwmu </font> iPir bhuiV n DweI ]1]"},
+{"Gurmukhi": "pMjy bDy <font color='#FFA500'>mhwblI </font> kir scw FoAw ]"},
+{"Gurmukhi": "Awpxy crx <font color='#FFA500'>jpwieAnu </font> ivic dXu KVoAw ]"},
+{"Gurmukhi": "rog sog siB imit <font color='#FFA500'>gey </font> inq nvw inroAw ]"},
+{"Gurmukhi": "idnu rYix nwmu <font color='#FFA500'>iDAwiedw </font> iPir pwie n moAw ]"},
+{"Gurmukhi": "ijs qy aupijAw <font color='#FFA500'>nwnkw </font> soeI iPir hoAw ]2]"},
+{"Gurmukhi": "ikQhu <font color='#009900'>aupjY </font> kh <font color='#FFA500'>rhY </font> kh mwih smwvY ]"},
+{"Gurmukhi": "jIA jMq siB Ksm <font color='#FFA500'>ky </font> kauxu kImiq pwvY ]"},
+{"Gurmukhi": "khin iDAwiein suxin <font color='#FFA500'>inq </font> sy Bgq suhwvY ]"},
+{"Gurmukhi": "Agmu Agocru <font color='#FFA500'>swihbo </font> dUsru lvY n lwvY ]"},
+{"Gurmukhi": "scu pUrY guir <font color='#FFA500'>aupdyisAw </font> nwnku suxwvY ]3]1]"}
+]
+}
