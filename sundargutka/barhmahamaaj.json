@@ -1,7 +1,9 @@
 {
 "barhmahamaajGurmukhi":
  [
-{"Gurmukhi": "bwrh <font color='#009900'>mwhw</font><font color='#FFA500'>mWJ </font> mhlw <font color='#009900'>5 </font> Gru 4 <font color='#FFA500'>&lt;&gt; </font> siqgur pRswid ]"},
+{"Gurmukhi": "bwrh <font color='#009900'>mwhw</font>"},
+{"Gurmukhi": "<font color='#FFA500'>mWJ </font> mhlw <font color='#009900'>5 </font> Gru 4"},
+{"Gurmukhi": "<font color='#FFA500'>&lt; </font> siqgur pRswid ]"},
 {"Gurmukhi": "ikriq krm ky <font color='#FFA500'>vICuVy </font> kir ikrpw mylhu rwm ]"},
 {"Gurmukhi": "cwir kuMt dh ids <font color='#FFA500'>BRmy </font> Qik Awey pRB kI swm ]"},
 {"Gurmukhi": "Dynu duDY qy <font color='#FFA500'>bwhrI </font> ikqY n AwvY kwm ]"},
